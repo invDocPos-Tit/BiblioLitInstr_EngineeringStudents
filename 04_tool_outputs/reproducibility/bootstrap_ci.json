@@ -1,0 +1,103 @@
+{
+  "config": {
+    "B": 10000,
+    "seed": 42,
+    "ci_method": "percentile_95"
+  },
+  "corpus_size": 347,
+  "mcp_rate": {
+    "indicator": "MCP_rate",
+    "point": 0.1037463976945245,
+    "ci_lo": 0.07204610951008646,
+    "ci_hi": 0.13544668587896252,
+    "effective_n": 347,
+    "extra": {
+      "scp_count": 311,
+      "mcp_count": 36
+    }
+  },
+  "price_index": {
+    "indicator": "price_index_mean",
+    "point": 0.41550894607425415,
+    "ci_lo": 0.3890311265776485,
+    "ci_hi": 0.44238976027057947,
+    "effective_n": 338,
+    "extra": {
+      "median": 0.3696943972835314,
+      "min": 0.0,
+      "max": 1.0
+    }
+  },
+  "citations": {
+    "effective_n": 347,
+    "citations_mean": {
+      "point": 13.440922190201729,
+      "ci_lo": 10.41779538904899,
+      "ci_hi": 16.939625360230544
+    },
+    "citations_median": {
+      "point": 3.0,
+      "ci_lo": 2.0,
+      "ci_hi": 4.0
+    }
+  },
+  "apc_difference": {
+    "indicator": "APC_vs_noAPC_mean_citations",
+    "apc_mean": {
+      "point": 29.91304347826087,
+      "ci_lo": 21.010597826086958,
+      "ci_hi": 40.630978260869554,
+      "n": 92
+    },
+    "no_apc_mean": {
+      "point": 7.4980392156862745,
+      "ci_lo": 5.592156862745098,
+      "ci_hi": 9.792254901960783,
+      "n": 255
+    },
+    "diff_mean": {
+      "point": 22.415004262574598,
+      "ci_lo": 13.15881074168798,
+      "ci_hi": 33.672812233589084
+    },
+    "ratio_mean": 3.989448790249227,
+    "mann_whitney_U": 6905.5,
+    "mann_whitney_p_two_sided": 4.942294351550913e-09,
+    "effective_n_apc": 92,
+    "effective_n_no_apc": 255
+  },
+  "fwci": {
+    "effective_n": 256,
+    "FWCI_mean": {
+      "point": 3.6684,
+      "ci_lo": 2.9658645507812498,
+      "ci_hi": 4.438171748046875
+    },
+    "FWCI_median": {
+      "point": 1.4862,
+      "ci_lo": 1.0989,
+      "ci_hi": 2.1059
+    },
+    "pct_above_world_avg": {
+      "point": 0.578125,
+      "ci_lo": 0.515625,
+      "ci_hi": 0.63671875,
+      "n_above1": 148
+    }
+  },
+  "mncs_top10": {
+    "MNCS_mean": {
+      "point": 3.015021084337349,
+      "ci_lo": 2.4425506024096384,
+      "ci_hi": 3.640194804216867,
+      "effective_n": 332
+    },
+    "PP_top10_field": {
+      "point": 0.1037463976945245,
+      "ci_lo": 0.07204610951008646,
+      "ci_hi": 0.138328530259366,
+      "effective_n": 347,
+      "n_top10": 36
+    }
+  }
+}

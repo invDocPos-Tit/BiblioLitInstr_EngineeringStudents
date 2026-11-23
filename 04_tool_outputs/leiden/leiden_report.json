@@ -1,0 +1,188 @@
+{
+  "disclaimer": "NOTA: MNCS utiliza normalizacion mundial por subcampo y año de OpenAlex/CWTS (FWCI, media mundial = 1.0) con respaldo por cohorte (campo, año). MNJS normaliza el SJR de cada revista contra la media global anual de todas las revistas indexadas en SCImago.",
+  "mncs": {
+    "mean": 3.015,
+    "mean_intracorpus_cohort": 1.092,
+    "n_above_1": 164,
+    "n_total": 332,
+    "by_field": {
+      "Social Sciences": {
+        "mean_mncs": 3.378,
+        "n_articles": 224
+      },
+      "Psychology": {
+        "mean_mncs": 3.399,
+        "n_articles": 42
+      },
+      "Computer Science": {
+        "mean_mncs": 1.511,
+        "n_articles": 29
+      },
+      "Business, Management and Accounting": {
+        "mean_mncs": 3.433,
+        "n_articles": 11
+      },
+      "Engineering": {
+        "mean_mncs": 0.793,
+        "n_articles": 16
+      },
+      "Unknown": {
+        "mean_mncs": 1.305,
+        "n_articles": 15
+      },
+      "Decision Sciences": {
+        "mean_mncs": 0.479,
+        "n_articles": 4
+      },
+      "Environmental Science": {
+        "mean_mncs": 0.0,
+        "n_articles": 1
+      },
+      "Arts and Humanities": {
+        "mean_mncs": 0.593,
+        "n_articles": 2
+      },
+      "Mathematics": {
+        "mean_mncs": 1.0,
+        "n_articles": 2
+      },
+      "Earth and Planetary Sciences": {
+        "mean_mncs": 2.252,
+        "n_articles": 1
+      }
+    }
+  },
+  "pp_top10": {
+    "global_pp_top10": 0.104,
+    "total_top10": 36,
+    "per_field": {
+      "Social Sciences": {
+        "n_articles": 224,
+        "threshold": 33,
+        "n_top10": 23,
+        "pp_top10": 0.103
+      },
+      "Psychology": {
+        "n_articles": 42,
+        "threshold": 74,
+        "n_top10": 4,
+        "pp_top10": 0.095
+      },
+      "Computer Science": {
+        "n_articles": 29,
+        "threshold": 47,
+        "n_top10": 2,
+        "pp_top10": 0.069
+      },
+      "Business, Management and Accounting": {
+        "n_articles": 11,
+        "threshold": 93,
+        "n_top10": 1,
+        "pp_top10": 0.091
+      },
+      "Engineering": {
+        "n_articles": 16,
+        "threshold": 19,
+        "n_top10": 1,
+        "pp_top10": 0.062
+      },
+      "Unknown": {
+        "n_articles": 15,
+        "threshold": 22,
+        "n_top10": 1,
+        "pp_top10": 0.067
+      },
+      "Decision Sciences": {
+        "n_articles": 4,
+        "threshold": 19,
+        "n_top10": 1,
+        "pp_top10": 0.25
+      },
+      "Environmental Science": {
+        "n_articles": 1,
+        "threshold": 0,
+        "n_top10": 0,
+        "pp_top10": 0.0
+      },
+      "Arts and Humanities": {
+        "n_articles": 2,
+        "threshold": 1,
+        "n_top10": 1,
+        "pp_top10": 0.5
+      },
+      "Mathematics": {
+        "n_articles": 2,
+        "threshold": 2,
+        "n_top10": 1,
+        "pp_top10": 0.5
+      },
+      "Earth and Planetary Sciences": {
+        "n_articles": 1,
+        "threshold": 3,
+        "n_top10": 1,
+        "pp_top10": 1.0
+      }
+    }
+  },
+  "mnjs": {
+    "mean": 0.929,
+    "n_with_sjr": 277
+  },
+  "biases": {
+    "language_bias": {
+      "pct_non_english": 5.2,
+      "distribution": {
+        "english": 329,
+        "spanish": 11,
+        "unknown": 3,
+        "chinese": 1,
+        "russian": 1,
+        "persian": 1,
+        "thai": 1
+      },
+      "warning": false
+    },
+    "geographic_bias": {
+      "top_countries": [
+        {
+          "country": "US",
+          "count": 745
+        },
+        {
+          "country": "MX",
+          "count": 213
+        },
+        {
+          "country": "ID",
+          "count": 144
+        },
+        {
+          "country": "CN",
+          "count": 100
+        },
+        {
+          "country": "ES",
+          "count": 96
+        }
+      ],
+      "concentration_top1": 0.329,
+      "warning": false
+    },
+    "document_type_bias": {
+      "distribution": {
+        "journal article": 194,
+        "conference paper": 153
+      },
+      "dominant_type": [
+        "journal article",
+        194
+      ]
+    },
+    "coverage": {
+      "pct_openalex": 94.2,
+      "pct_concepts": 95.7,
+      "pct_sjr": 79.8,
+      "warning": false
+    }
+  }
+}

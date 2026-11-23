@@ -1,0 +1,9895 @@
+{
+ "n_docs": 347,
+ "n_with_abstract": 347,
+ "n_with_refs": 342,
+ "dictionaries": {
+  "competencies": {
+   "design": [
+    "technical",
+    "\\bengineering design\\b|\\bdesign (skill|competenc|abilit|self[- ]?efficac|thinking)"
+   ],
+   "programming/computational": [
+    "technical",
+    "\\bprogramming\\b|\\bcoding (skill|abilit)|\\bcomputational thinking"
+   ],
+   "simulation/modelling": [
+    "technical",
+    "\\bsimulation (skill|competenc)|\\bmodell?ing (skill|competenc)"
+   ],
+   "problem solving": [
+    "technical",
+    "\\bproblem[- ]solving"
+   ],
+   "prototyping": [
+    "technical",
+    "\\bprototyp"
+   ],
+   "technical/engineering skills (generic)": [
+    "technical",
+    "\\btechnical (skill|competenc)|\\bengineering (skill|competenc)"
+   ],
+   "self-efficacy": [
+    "transversal",
+    "\\bself[- ]?efficac"
+   ],
+   "critical thinking": [
+    "transversal",
+    "\\bcritical thinking"
+   ],
+   "communication": [
+    "transversal",
+    "\\bcommunication (skill|competenc|abilit)|\\b(oral|written) communication|\\bcommunicative competenc"
+   ],
+   "teamwork/collaboration": [
+    "transversal",
+    "\\bteam ?work|\\bteam (skill|competenc|effectiveness)|\\bcollaborat\\w* (skill|competenc|problem)"
+   ],
+   "ethics": [
+    "transversal",
+    "\\bethic"
+   ],
+   "self-regulation": [
+    "transversal",
+    "\\bself[- ]regulat|\\bmetacogniti"
+   ],
+   "employability/professional": [
+    "transversal",
+    "\\bemployabilit|\\bprofessional (skill|competenc)"
+   ],
+   "soft/generic/transversal (generic)": [
+    "transversal",
+    "\\bsoft skill|\\btransversal (skill|competenc)|\\bgeneric (skill|competenc)"
+   ],
+   "creativity/innovation": [
+    "transversal",
+    "\\bcreativ|\\binnovati\\w* (competenc|skill|behaviou?r|capabilit)"
+   ],
+   "leadership": [
+    "transversal",
+    "\\bleadership"
+   ],
+   "entrepreneurship": [
+    "transversal",
+    "\\bentrepreneur"
+   ]
+  },
+  "instruments": {
+   "questionnaire": [
+    "self-report",
+    "\\bquestionnaire"
+   ],
+   "scale": [
+    "self-report",
+    "(?<!large)(?<!small)(?<!large-)(?<!small-)\\bscales?\\b(?![- ]up)"
+   ],
+   "inventory (non-concept)": [
+    "self-report",
+    "(?<!concept )\\binventor(y|ies)\\b"
+   ],
+   "survey": [
+    "self-report",
+    "\\bsurvey"
+   ],
+   "self-report/self-assessment": [
+    "self-report",
+    "\\bself[- ]report|\\bself[- ]assess|\\blikert"
+   ],
+   "rubric": [
+    "performance/observation",
+    "\\brubric"
+   ],
+   "concept inventory/test": [
+    "performance/observation",
+    "\\bconcept inventor|\\bperformance[- ]based|\\bperformance (task|assessment|test)|\\bsituational judg"
+   ],
+   "observation/portfolio": [
+    "performance/observation",
+    "\\bobservation (protocol|instrument)|\\bportfolio"
+   ]
+  },
+  "properties": {
+   "reliability (any)": "\\breliab",
+   "internal consistency/alpha": "\\binternal consistency|\\bcronbach|\\bcoefficient alpha|\\bmcdonald|\\bomega\\b",
+   "validity (any)": "\\bvalidit",
+   "validation (validat*)": "\\bvalidat",
+   "psychometric*": "\\bpsychometric",
+   "content validity/experts": "\\bcontent validit|\\bexpert (panel|judg|review|validation)|\\bdelphi",
+   "factor analysis (EFA/CFA)": "\\bfactor analys|\\bfactorial (structure|validit)|\\bexploratory factor|\\bconfirmatory factor|\\befa\\b|\\bcfa\\b",
+   "structural equation modelling": "\\bstructural equation|\\bpls[- ]sem\\b|\\bsem\\b",
+   "criterion/convergent/discriminant": "\\bcriterion validit|\\bconvergent|\\bdiscriminant|\\bconcurrent validit|\\bpredictive validit",
+   "item response theory/Rasch": "\\bitem response|\\birt\\b|\\brasch",
+   "measurement invariance": "\\binvarian",
+   "test-retest/inter-rater": "\\btest[- ]retest|\\binter[- ]?rater|\\bintraclass|\\bicc\\b|\\bkappa\\b"
+  },
+  "roots": {
+   "Cronbach (1951)": "coefficient alpha and the internal structure",
+   "Kaiser (1960)": "application of electronic computers to factor analysis",
+   "Cattell (1966)": "scree test for the number of factors",
+   "Fornell & Larcker (1981)": "evaluating structural equation models with unobservable",
+   "Hu & Bentler (1999)": "cutoff criteria for fit"
+  }
+ },
+ "PI2_families": {
+  "design": 26,
+  "programming/computational": 27,
+  "simulation/modelling": 2,
+  "problem solving": 61,
+  "prototyping": 10,
+  "technical/engineering skills (generic)": 41,
+  "self-efficacy": 95,
+  "critical thinking": 45,
+  "communication": 28,
+  "teamwork/collaboration": 36,
+  "ethics": 24,
+  "self-regulation": 17,
+  "employability/professional": 29,
+  "soft/generic/transversal (generic)": 35,
+  "creativity/innovation": 40,
+  "leadership": 17,
+  "entrepreneurship": 25
+ },
+ "PI2_groups": {
+  "transversal": 163,
+  "both": 81,
+  "none": 60,
+  "technical": 43
+ },
+ "PI2_group_by_period": {
+  "2014-2019": {
+   "transversal": 46,
+   "both": 10,
+   "none": 16,
+   "technical": 10
+  },
+  "2020-2024": {
+   "transversal": 52,
+   "both": 30,
+   "technical": 10,
+   "none": 21
+  },
+  "2025-2026": {
+   "both": 41,
+   "transversal": 65,
+   "none": 23,
+   "technical": 23
+  }
+ },
+ "PI2_group_by_type": {
+  "journal": {
+   "transversal": 94,
+   "both": 45,
+   "none": 32,
+   "technical": 23
+  },
+  "conference": {
+   "both": 36,
+   "transversal": 69,
+   "none": 28,
+   "technical": 20
+  }
+ },
+ "PI2_families_by_period": {
+  "design": {
+   "2014-2019": 4,
+   "2020-2024": 10,
+   "2025-2026": 12
+  },
+  "programming/computational": {
+   "2014-2019": 1,
+   "2020-2024": 7,
+   "2025-2026": 19
+  },
+  "simulation/modelling": {
+   "2014-2019": 1,
+   "2020-2024": 1,
+   "2025-2026": 0
+  },
+  "problem solving": {
+   "2014-2019": 11,
+   "2020-2024": 14,
+   "2025-2026": 36
+  },
+  "prototyping": {
+   "2014-2019": 0,
+   "2020-2024": 6,
+   "2025-2026": 4
+  },
+  "technical/engineering skills (generic)": {
+   "2014-2019": 7,
+   "2020-2024": 17,
+   "2025-2026": 17
+  },
+  "self-efficacy": {
+   "2014-2019": 24,
+   "2020-2024": 33,
+   "2025-2026": 38
+  },
+  "critical thinking": {
+   "2014-2019": 7,
+   "2020-2024": 9,
+   "2025-2026": 29
+  },
+  "communication": {
+   "2014-2019": 8,
+   "2020-2024": 13,
+   "2025-2026": 7
+  },
+  "teamwork/collaboration": {
+   "2014-2019": 8,
+   "2020-2024": 16,
+   "2025-2026": 12
+  },
+  "ethics": {
+   "2014-2019": 3,
+   "2020-2024": 6,
+   "2025-2026": 15
+  },
+  "self-regulation": {
+   "2014-2019": 5,
+   "2020-2024": 5,
+   "2025-2026": 7
+  },
+  "employability/professional": {
+   "2014-2019": 8,
+   "2020-2024": 7,
+   "2025-2026": 14
+  },
+  "soft/generic/transversal (generic)": {
+   "2014-2019": 7,
+   "2020-2024": 18,
+   "2025-2026": 10
+  },
+  "creativity/innovation": {
+   "2014-2019": 3,
+   "2020-2024": 10,
+   "2025-2026": 27
+  },
+  "leadership": {
+   "2014-2019": 2,
+   "2020-2024": 6,
+   "2025-2026": 9
+  },
+  "entrepreneurship": {
+   "2014-2019": 4,
+   "2020-2024": 9,
+   "2025-2026": 12
+  }
+ },
+ "PI2_transversal_share_journal_vs_conference": {
+  "journal": [
+   71.6,
+   65.5,
+   77.8,
+   194
+  ],
+  "conference": [
+   68.6,
+   61.4,
+   75.8,
+   153
+  ]
+ },
+ "PI2_technical_share_journal_vs_conference": {
+  "journal": [
+   35.1,
+   28.4,
+   41.8,
+   194
+  ],
+  "conference": [
+   36.6,
+   28.8,
+   44.4,
+   153
+  ]
+ },
+ "PI3_inst_families": {
+  "questionnaire": 131,
+  "scale": 144,
+  "inventory (non-concept)": 19,
+  "survey": 140,
+  "self-report/self-assessment": 69,
+  "rubric": 56,
+  "concept inventory/test": 14,
+  "observation/portfolio": 0
+ },
+ "PI3_inst_groups": {
+  "self-report": 254,
+  "performance/observation": 36,
+  "none": 27,
+  "performance/observation+self-report": 30
+ },
+ "PI3_family_x_instgroup": {
+  "design": {
+   "self-report": 22,
+   "performance/observation": 7,
+   "n": 26
+  },
+  "programming/computational": {
+   "self-report": 25,
+   "performance/observation": 3,
+   "n": 27
+  },
+  "simulation/modelling": {
+   "self-report": 2,
+   "performance/observation": 1,
+   "n": 2
+  },
+  "problem solving": {
+   "self-report": 51,
+   "performance/observation": 15,
+   "n": 61
+  },
+  "prototyping": {
+   "self-report": 8,
+   "performance/observation": 3,
+   "n": 10
+  },
+  "technical/engineering skills (generic)": {
+   "self-report": 35,
+   "performance/observation": 8,
+   "n": 41
+  },
+  "self-efficacy": {
+   "self-report": 94,
+   "performance/observation": 4,
+   "n": 95
+  },
+  "critical thinking": {
+   "self-report": 34,
+   "performance/observation": 7,
+   "n": 45
+  },
+  "communication": {
+   "self-report": 19,
+   "performance/observation": 9,
+   "n": 28
+  },
+  "teamwork/collaboration": {
+   "self-report": 28,
+   "performance/observation": 6,
+   "n": 36
+  },
+  "ethics": {
+   "self-report": 20,
+   "performance/observation": 4,
+   "n": 24
+  },
+  "self-regulation": {
+   "self-report": 16,
+   "performance/observation": 3,
+   "n": 17
+  },
+  "employability/professional": {
+   "self-report": 28,
+   "performance/observation": 2,
+   "n": 29
+  },
+  "soft/generic/transversal (generic)": {
+   "self-report": 29,
+   "performance/observation": 5,
+   "n": 35
+  },
+  "creativity/innovation": {
+   "self-report": 32,
+   "performance/observation": 8,
+   "n": 40
+  },
+  "leadership": {
+   "self-report": 16,
+   "performance/observation": 1,
+   "n": 17
+  },
+  "entrepreneurship": {
+   "self-report": 24,
+   "performance/observation": 3,
+   "n": 25
+  }
+ },
+ "PI3_compgroup_x_instgroup": {
+  "technical": {
+   "n": 43,
+   "self-report": [
+    74.4,
+    60.5,
+    86.0,
+    43
+   ],
+   "performance/observation": [
+    46.5,
+    32.6,
+    62.8,
+    43
+   ]
+  },
+  "transversal": {
+   "n": 163,
+   "self-report": [
+    83.4,
+    77.3,
+    89.0,
+    163
+   ],
+   "performance/observation": [
+    14.1,
+    9.2,
+    19.6,
+    163
+   ]
+  },
+  "both": {
+   "n": 81,
+   "self-report": [
+    91.4,
+    85.2,
+    97.5,
+    81
+   ],
+   "performance/observation": [
+    12.3,
+    6.2,
+    19.8,
+    81
+   ]
+  },
+  "none": {
+   "n": 60,
+   "self-report": [
+    70.0,
+    58.3,
+    81.7,
+    60
+   ],
+   "performance/observation": [
+    21.7,
+    11.7,
+    31.7,
+    60
+   ]
+  }
+ },
+ "PI3_performance_tech_vs_transversal_only": [
+  32.4,
+  16.7,
+  48.7
+ ],
+ "PI3_instgroup_by_type": {
+  "journal": {
+   "self-report": [
+    87.1,
+    82.5,
+    91.8,
+    194
+   ],
+   "performance/observation": [
+    20.6,
+    14.9,
+    26.3,
+    194
+   ]
+  },
+  "conference": {
+   "self-report": [
+    75.2,
+    68.0,
+    81.7,
+    153
+   ],
+   "performance/observation": [
+    17.0,
+    11.1,
+    23.5,
+    153
+   ]
+  }
+ },
+ "PI4_prop_families": {
+  "reliability (any)": 121,
+  "internal consistency/alpha": 44,
+  "validity (any)": 84,
+  "validation (validat*)": 214,
+  "psychometric*": 28,
+  "content validity/experts": 20,
+  "factor analysis (EFA/CFA)": 71,
+  "structural equation modelling": 23,
+  "criterion/convergent/discriminant": 15,
+  "item response theory/Rasch": 4,
+  "measurement invariance": 6,
+  "test-retest/inter-rater": 15
+ },
+ "PI4_prop_by_type": {
+  "reliability (any)": {
+   "journal": [
+    43.3,
+    36.6,
+    50.5,
+    194
+   ],
+   "conference": [
+    24.2,
+    17.6,
+    31.4,
+    153
+   ]
+  },
+  "internal consistency/alpha": {
+   "journal": [
+    20.1,
+    14.4,
+    25.8,
+    194
+   ],
+   "conference": [
+    3.3,
+    0.7,
+    6.5,
+    153
+   ]
+  },
+  "validity (any)": {
+   "journal": [
+    34.0,
+    27.3,
+    40.7,
+    194
+   ],
+   "conference": [
+    11.8,
+    7.2,
+    17.0,
+    153
+   ]
+  },
+  "validation (validat*)": {
+   "journal": [
+    60.8,
+    54.1,
+    67.5,
+    194
+   ],
+   "conference": [
+    62.7,
+    54.9,
+    70.6,
+    153
+   ]
+  },
+  "psychometric*": {
+   "journal": [
+    12.4,
+    7.7,
+    17.0,
+    194
+   ],
+   "conference": [
+    2.6,
+    0.7,
+    5.2,
+    153
+   ]
+  },
+  "content validity/experts": {
+   "journal": [
+    7.7,
+    4.1,
+    11.9,
+    194
+   ],
+   "conference": [
+    3.3,
+    0.7,
+    6.5,
+    153
+   ]
+  },
+  "factor analysis (EFA/CFA)": {
+   "journal": [
+    25.8,
+    20.1,
+    32.0,
+    194
+   ],
+   "conference": [
+    13.7,
+    8.5,
+    19.6,
+    153
+   ]
+  },
+  "structural equation modelling": {
+   "journal": [
+    10.3,
+    6.2,
+    14.9,
+    194
+   ],
+   "conference": [
+    2.0,
+    0.0,
+    4.6,
+    153
+   ]
+  },
+  "criterion/convergent/discriminant": {
+   "journal": [
+    6.7,
+    3.6,
+    10.3,
+    194
+   ],
+   "conference": [
+    1.3,
+    0.0,
+    3.3,
+    153
+   ]
+  },
+  "item response theory/Rasch": {
+   "journal": [
+    1.0,
+    0.0,
+    2.6,
+    194
+   ],
+   "conference": [
+    1.3,
+    0.0,
+    3.3,
+    153
+   ]
+  },
+  "measurement invariance": {
+   "journal": [
+    2.6,
+    0.5,
+    5.2,
+    194
+   ],
+   "conference": [
+    0.7,
+    0.0,
+    2.0,
+    153
+   ]
+  },
+  "test-retest/inter-rater": {
+   "journal": [
+    5.7,
+    2.6,
+    9.3,
+    194
+   ],
+   "conference": [
+    2.6,
+    0.7,
+    5.2,
+    153
+   ]
+  }
+ },
+ "PI4_prop_by_period": {
+  "reliability (any)": {
+   "2014-2019": 38,
+   "2020-2024": 46,
+   "2025-2026": 37
+  },
+  "internal consistency/alpha": {
+   "2014-2019": 10,
+   "2020-2024": 17,
+   "2025-2026": 17
+  },
+  "validity (any)": {
+   "2014-2019": 25,
+   "2020-2024": 29,
+   "2025-2026": 30
+  },
+  "validation (validat*)": {
+   "2014-2019": 35,
+   "2020-2024": 63,
+   "2025-2026": 116
+  },
+  "psychometric*": {
+   "2014-2019": 9,
+   "2020-2024": 10,
+   "2025-2026": 9
+  },
+  "content validity/experts": {
+   "2014-2019": 3,
+   "2020-2024": 4,
+   "2025-2026": 13
+  },
+  "factor analysis (EFA/CFA)": {
+   "2014-2019": 21,
+   "2020-2024": 29,
+   "2025-2026": 21
+  },
+  "structural equation modelling": {
+   "2014-2019": 1,
+   "2020-2024": 8,
+   "2025-2026": 14
+  },
+  "criterion/convergent/discriminant": {
+   "2014-2019": 3,
+   "2020-2024": 4,
+   "2025-2026": 8
+  },
+  "item response theory/Rasch": {
+   "2014-2019": 2,
+   "2020-2024": 1,
+   "2025-2026": 1
+  },
+  "measurement invariance": {
+   "2014-2019": 1,
+   "2020-2024": 3,
+   "2025-2026": 2
+  },
+  "test-retest/inter-rater": {
+   "2014-2019": 6,
+   "2020-2024": 4,
+   "2025-2026": 5
+  }
+ },
+ "PI4_period_sizes": {
+  "2014-2019": 82,
+  "2020-2024": 113,
+  "2025-2026": 152
+ },
+ "PI4_no_block4_term": 25,
+ "PI4_roots_each": {
+  "Cronbach (1951)": 10,
+  "Kaiser (1960)": 7,
+  "Cattell (1966)": 5,
+  "Fornell & Larcker (1981)": 18,
+  "Hu & Bentler (1999)": 30
+ },
+ "PI4_cites_any_root": {
+  "all": [
+   14.9,
+   11.1,
+   18.7,
+   342
+  ],
+  "journal": [
+   20.5,
+   14.7,
+   26.3,
+   190
+  ],
+  "conference": [
+   7.9,
+   3.9,
+   12.5,
+   152
+  ],
+  "2014-2019": [
+   11.2,
+   5.0,
+   18.8,
+   80
+  ],
+  "2020-2024": [
+   21.4,
+   14.3,
+   29.5,
+   112
+  ],
+  "2025-2026": [
+   12.0,
+   7.3,
+   17.3,
+   150
+  ],
+  "journal 2014-2019": [
+   12.8,
+   2.6,
+   23.1,
+   39
+  ],
+  "journal 2020-2024": [
+   26.9,
+   16.4,
+   37.3,
+   67
+  ],
+  "journal 2025-2026": [
+   19.0,
+   10.7,
+   28.6,
+   84
+  ],
+  "conference 2014-2019": [
+   9.8,
+   2.4,
+   19.5,
+   41
+  ],
+  "conference 2020-2024": [
+   13.3,
+   4.4,
+   24.4,
+   45
+  ],
+  "conference 2025-2026": [
+   3.0,
+   0.0,
+   7.6,
+   66
+  ]
+ },
+ "PI4_roots_journal_minus_conference": [
+  12.6,
+  5.5,
+  19.7
+ ],
+ "PI4_roots_by_compgroup": {
+  "technical": [
+   7.0,
+   0.0,
+   16.3,
+   43
+  ],
+  "transversal": [
+   20.6,
+   14.4,
+   26.9,
+   160
+  ],
+  "both": [
+   10.1,
+   3.8,
+   17.7,
+   79
+  ],
+  "none": [
+   11.7,
+   5.0,
+   20.0,
+   60
+  ]
+ },
+ "PI4_roots_by_instgroup": {
+  "self-report": [
+   16.7,
+   12.5,
+   21.4,
+   281
+  ],
+  "performance/observation": [
+   4.6,
+   0.0,
+   10.8,
+   65
+  ]
+ },
+ "per_document": [
+  {
+   "key": "Ahn2014",
+   "year": 2014,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "leadership"
+   ],
+   "inst": [
+    "survey",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [
+    "Cattell (1966)"
+   ],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Garriott2021",
+   "year": 2021,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy"
+   ],
+   "inst": [
+    "scale"
+   ],
+   "prop": [
+    "reliability (any)",
+    "validity (any)",
+    "validation (validat*)"
+   ],
+   "roots": [
+    "Hu & Bentler (1999)"
+   ],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Mamaril2016",
+   "year": 2016,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "technical/engineering skills (generic)",
+    "self-efficacy"
+   ],
+   "inst": [
+    "scale",
+    "survey"
+   ],
+   "prop": [
+    "reliability (any)",
+    "validity (any)",
+    "validation (validat*)",
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [
+    "Hu & Bentler (1999)"
+   ],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Benjamin2026",
+   "year": 2026,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "programming/computational",
+    "self-efficacy"
+   ],
+   "inst": [
+    "scale",
+    "survey"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "McCormick2015",
+   "year": 2015,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy"
+   ],
+   "inst": [
+    "scale",
+    "survey",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "reliability (any)",
+    "internal consistency/alpha",
+    "validity (any)",
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Thite2024",
+   "year": 2024,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "teamwork/collaboration"
+   ],
+   "inst": [
+    "rubric"
+   ],
+   "prop": [
+    "reliability (any)",
+    "internal consistency/alpha",
+    "validity (any)",
+    "factor analysis (EFA/CFA)",
+    "test-retest/inter-rater"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "performance/observation"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Liu2025a",
+   "year": 2025,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "problem solving",
+    "self-efficacy",
+    "critical thinking",
+    "self-regulation",
+    "creativity/innovation"
+   ],
+   "inst": [
+    "scale",
+    "survey",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "validation (validat*)",
+    "structural equation modelling"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "AlvarezSiordia2025",
+   "year": 2025,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy"
+   ],
+   "inst": [
+    "scale"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Idkhan2021",
+   "year": 2021,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "problem solving",
+    "communication",
+    "teamwork/collaboration",
+    "employability/professional",
+    "soft/generic/transversal (generic)"
+   ],
+   "inst": [
+    "questionnaire",
+    "survey"
+   ],
+   "prop": [
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Ro2015",
+   "year": 2015,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [
+    "scale",
+    "survey"
+   ],
+   "prop": [
+    "reliability (any)",
+    "internal consistency/alpha",
+    "validity (any)",
+    "psychometric*",
+    "content validity/experts",
+    "factor analysis (EFA/CFA)",
+    "criterion/convergent/discriminant"
+   ],
+   "roots": [
+    "Cronbach (1951)"
+   ],
+   "comp_groups": [],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Chan2017",
+   "year": 2017,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "employability/professional",
+    "soft/generic/transversal (generic)"
+   ],
+   "inst": [
+    "questionnaire",
+    "scale",
+    "survey"
+   ],
+   "prop": [
+    "reliability (any)",
+    "internal consistency/alpha",
+    "validity (any)",
+    "validation (validat*)",
+    "psychometric*",
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [
+    "Cattell (1966)",
+    "Hu & Bentler (1999)"
+   ],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "AlonsoGalicia2025",
+   "year": 2025,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "critical thinking",
+    "entrepreneurship"
+   ],
+   "inst": [
+    "questionnaire"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "TueroODonnell2026b",
+   "year": 2026,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "critical thinking"
+   ],
+   "inst": [],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Nguyen2022",
+   "year": 2022,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy",
+    "creativity/innovation",
+    "entrepreneurship"
+   ],
+   "inst": [
+    "questionnaire"
+   ],
+   "prop": [
+    "validation (validat*)",
+    "structural equation modelling"
+   ],
+   "roots": [
+    "Fornell & Larcker (1981)"
+   ],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Huang2020",
+   "year": 2020,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "entrepreneurship"
+   ],
+   "inst": [
+    "questionnaire",
+    "survey",
+    "concept inventory/test"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "performance/observation",
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Durak2026",
+   "year": 2026,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy",
+    "ethics"
+   ],
+   "inst": [
+    "questionnaire",
+    "scale"
+   ],
+   "prop": [
+    "internal consistency/alpha",
+    "validation (validat*)",
+    "psychometric*",
+    "content validity/experts",
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [
+    "Fornell & Larcker (1981)"
+   ],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "LopezFernandez2024",
+   "year": 2024,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "soft/generic/transversal (generic)"
+   ],
+   "inst": [
+    "questionnaire"
+   ],
+   "prop": [
+    "reliability (any)",
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Antelis2025",
+   "year": 2025,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [
+    "inventory (non-concept)",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "RevillaCuesta2026",
+   "year": 2026,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "critical thinking"
+   ],
+   "inst": [
+    "scale",
+    "survey",
+    "self-report/self-assessment"
+   ],
+   "prop": [],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Pereira2026",
+   "year": 2026,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [
+    "questionnaire"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Arredondo2025",
+   "year": 2025,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "problem solving"
+   ],
+   "inst": [
+    "survey",
+    "rubric"
+   ],
+   "prop": [
+    "reliability (any)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical"
+   ],
+   "inst_groups": [
+    "performance/observation",
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Cruz2021",
+   "year": 2021,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "teamwork/collaboration",
+    "soft/generic/transversal (generic)",
+    "entrepreneurship"
+   ],
+   "inst": [
+    "questionnaire",
+    "scale",
+    "survey"
+   ],
+   "prop": [
+    "reliability (any)",
+    "internal consistency/alpha",
+    "validity (any)",
+    "psychometric*",
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Bolhari2026",
+   "year": 2026,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy"
+   ],
+   "inst": [
+    "scale",
+    "survey",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Bodnar2017",
+   "year": 2017,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "communication"
+   ],
+   "inst": [
+    "survey",
+    "rubric"
+   ],
+   "prop": [
+    "reliability (any)",
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "performance/observation",
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Carter2026",
+   "year": 2026,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy"
+   ],
+   "inst": [
+    "scale"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Rezvanifar2020",
+   "year": 2020,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "programming/computational",
+    "self-efficacy"
+   ],
+   "inst": [
+    "scale",
+    "survey"
+   ],
+   "prop": [
+    "internal consistency/alpha"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Psycharis2021",
+   "year": 2021,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "design",
+    "programming/computational",
+    "self-efficacy"
+   ],
+   "inst": [
+    "questionnaire"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Tafakur2024",
+   "year": 2024,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy"
+   ],
+   "inst": [
+    "questionnaire",
+    "survey"
+   ],
+   "prop": [
+    "reliability (any)",
+    "structural equation modelling"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Kim2024",
+   "year": 2024,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "problem solving",
+    "creativity/innovation"
+   ],
+   "inst": [
+    "rubric"
+   ],
+   "prop": [
+    "reliability (any)",
+    "validation (validat*)",
+    "test-retest/inter-rater"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "performance/observation"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Endryansyah2026",
+   "year": 2026,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "programming/computational"
+   ],
+   "inst": [
+    "questionnaire",
+    "survey",
+    "concept inventory/test"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical"
+   ],
+   "inst_groups": [
+    "performance/observation",
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Nogueira2021",
+   "year": 2021,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "problem solving"
+   ],
+   "inst": [
+    "questionnaire",
+    "scale",
+    "survey"
+   ],
+   "prop": [
+    "reliability (any)",
+    "validity (any)",
+    "validation (validat*)",
+    "psychometric*",
+    "factor analysis (EFA/CFA)",
+    "criterion/convergent/discriminant"
+   ],
+   "roots": [
+    "Fornell & Larcker (1981)",
+    "Hu & Bentler (1999)"
+   ],
+   "comp_groups": [
+    "technical"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "AlMamun2022",
+   "year": 2022,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy"
+   ],
+   "inst": [
+    "scale"
+   ],
+   "prop": [
+    "reliability (any)",
+    "validity (any)",
+    "validation (validat*)",
+    "factor analysis (EFA/CFA)",
+    "structural equation modelling"
+   ],
+   "roots": [
+    "Kaiser (1960)",
+    "Cattell (1966)",
+    "Fornell & Larcker (1981)",
+    "Hu & Bentler (1999)"
+   ],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Sabri2025",
+   "year": 2025,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "employability/professional",
+    "soft/generic/transversal (generic)"
+   ],
+   "inst": [
+    "questionnaire"
+   ],
+   "prop": [
+    "internal consistency/alpha",
+    "structural equation modelling"
+   ],
+   "roots": [
+    "Fornell & Larcker (1981)"
+   ],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "GutierrezdeRave2025",
+   "year": 2025,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "problem solving"
+   ],
+   "inst": [
+    "survey",
+    "rubric",
+    "concept inventory/test"
+   ],
+   "prop": [
+    "reliability (any)",
+    "test-retest/inter-rater"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical"
+   ],
+   "inst_groups": [
+    "performance/observation",
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Balgiu2024",
+   "year": 2024,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy",
+    "creativity/innovation",
+    "entrepreneurship"
+   ],
+   "inst": [
+    "questionnaire",
+    "scale",
+    "survey"
+   ],
+   "prop": [
+    "reliability (any)",
+    "internal consistency/alpha",
+    "validity (any)",
+    "validation (validat*)",
+    "psychometric*",
+    "factor analysis (EFA/CFA)",
+    "criterion/convergent/discriminant",
+    "measurement invariance"
+   ],
+   "roots": [
+    "Fornell & Larcker (1981)"
+   ],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "GalvanSanchez2017",
+   "year": 2017,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "soft/generic/transversal (generic)"
+   ],
+   "inst": [
+    "questionnaire",
+    "scale",
+    "rubric"
+   ],
+   "prop": [
+    "reliability (any)",
+    "internal consistency/alpha",
+    "test-retest/inter-rater"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "performance/observation",
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Partanen2024",
+   "year": 2024,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy"
+   ],
+   "inst": [
+    "questionnaire",
+    "scale",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [
+    "Cronbach (1951)"
+   ],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Liu2026a",
+   "year": 2026,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "critical thinking",
+    "creativity/innovation"
+   ],
+   "inst": [
+    "scale"
+   ],
+   "prop": [
+    "reliability (any)",
+    "internal consistency/alpha",
+    "validity (any)",
+    "validation (validat*)",
+    "criterion/convergent/discriminant",
+    "measurement invariance",
+    "test-retest/inter-rater"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "TueroODonnell2026a",
+   "year": 2026,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "critical thinking"
+   ],
+   "inst": [],
+   "prop": [
+    "validity (any)",
+    "validation (validat*)",
+    "psychometric*",
+    "content validity/experts"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [],
+   "period": "2025-2026"
+  },
+  {
+   "key": "MoranSoto2022",
+   "year": 2022,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy"
+   ],
+   "inst": [
+    "survey"
+   ],
+   "prop": [
+    "reliability (any)",
+    "validity (any)",
+    "content validity/experts"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Neumann2015",
+   "year": 2015,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "problem solving"
+   ],
+   "inst": [],
+   "prop": [
+    "reliability (any)",
+    "validity (any)",
+    "item response theory/Rasch"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical"
+   ],
+   "inst_groups": [],
+   "period": "2014-2019"
+  },
+  {
+   "key": "BaqueroSierra2025",
+   "year": 2025,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "ethics"
+   ],
+   "inst": [
+    "scale",
+    "survey"
+   ],
+   "prop": [
+    "reliability (any)",
+    "internal consistency/alpha",
+    "validity (any)",
+    "validation (validat*)",
+    "psychometric*",
+    "structural equation modelling"
+   ],
+   "roots": [
+    "Hu & Bentler (1999)"
+   ],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Bento2026b",
+   "year": 2026,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [
+    "rubric"
+   ],
+   "prop": [
+    "reliability (any)",
+    "validation (validat*)",
+    "test-retest/inter-rater"
+   ],
+   "roots": [],
+   "comp_groups": [],
+   "inst_groups": [
+    "performance/observation"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Chien2022",
+   "year": 2022,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "design",
+    "problem solving",
+    "prototyping",
+    "self-efficacy"
+   ],
+   "inst": [
+    "scale"
+   ],
+   "prop": [
+    "reliability (any)",
+    "validity (any)",
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Power2025",
+   "year": 2025,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy"
+   ],
+   "inst": [
+    "scale",
+    "survey"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [
+    "Hu & Bentler (1999)"
+   ],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Chonsalasin2022",
+   "year": 2022,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "technical/engineering skills (generic)",
+    "self-efficacy"
+   ],
+   "inst": [
+    "questionnaire",
+    "survey"
+   ],
+   "prop": [
+    "validation (validat*)",
+    "structural equation modelling"
+   ],
+   "roots": [
+    "Fornell & Larcker (1981)",
+    "Hu & Bentler (1999)"
+   ],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Korkmaz2025",
+   "year": 2025,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "ethics"
+   ],
+   "inst": [
+    "scale"
+   ],
+   "prop": [
+    "reliability (any)",
+    "internal consistency/alpha",
+    "validity (any)",
+    "factor analysis (EFA/CFA)",
+    "item response theory/Rasch"
+   ],
+   "roots": [
+    "Hu & Bentler (1999)"
+   ],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Ivanov2020",
+   "year": 2020,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [
+    "scale",
+    "survey",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "reliability (any)",
+    "validation (validat*)"
+   ],
+   "roots": [
+    "Cronbach (1951)"
+   ],
+   "comp_groups": [],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Power2026",
+   "year": 2026,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy"
+   ],
+   "inst": [
+    "scale",
+    "survey"
+   ],
+   "prop": [],
+   "roots": [
+    "Hu & Bentler (1999)"
+   ],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "EstebanIbanez2026",
+   "year": 2026,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [
+    "questionnaire",
+    "survey"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Ehlert2019",
+   "year": 2019,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-regulation"
+   ],
+   "inst": [
+    "inventory (non-concept)",
+    "survey"
+   ],
+   "prop": [
+    "reliability (any)",
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "LaraMunoz2026a",
+   "year": 2026,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [
+    "questionnaire",
+    "self-report/self-assessment",
+    "rubric"
+   ],
+   "prop": [
+    "reliability (any)",
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [],
+   "inst_groups": [
+    "performance/observation",
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Tormey2023",
+   "year": 2023,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "technical/engineering skills (generic)",
+    "self-efficacy",
+    "ethics",
+    "employability/professional",
+    "soft/generic/transversal (generic)"
+   ],
+   "inst": [
+    "questionnaire"
+   ],
+   "prop": [
+    "reliability (any)",
+    "validity (any)",
+    "validation (validat*)",
+    "psychometric*",
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [
+    "Hu & Bentler (1999)"
+   ],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Raelin2014",
+   "year": 2014,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy"
+   ],
+   "inst": [
+    "scale",
+    "survey"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Yi2018",
+   "year": 2018,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy",
+    "entrepreneurship"
+   ],
+   "inst": [
+    "scale"
+   ],
+   "prop": [
+    "validity (any)",
+    "psychometric*",
+    "factor analysis (EFA/CFA)",
+    "structural equation modelling"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Verbic2017",
+   "year": 2017,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "teamwork/collaboration",
+    "soft/generic/transversal (generic)"
+   ],
+   "inst": [
+    "survey"
+   ],
+   "prop": [
+    "validity (any)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Qi2023",
+   "year": 2023,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [
+    "questionnaire",
+    "survey"
+   ],
+   "prop": [
+    "structural equation modelling"
+   ],
+   "roots": [
+    "Fornell & Larcker (1981)"
+   ],
+   "comp_groups": [],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Lee2026",
+   "year": 2026,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "problem solving",
+    "ethics"
+   ],
+   "inst": [
+    "scale",
+    "concept inventory/test"
+   ],
+   "prop": [
+    "reliability (any)",
+    "validity (any)",
+    "validation (validat*)",
+    "psychometric*",
+    "content validity/experts",
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [
+    "Cronbach (1951)",
+    "Fornell & Larcker (1981)",
+    "Hu & Bentler (1999)"
+   ],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "performance/observation",
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Nantha2026",
+   "year": 2026,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "problem solving"
+   ],
+   "inst": [
+    "questionnaire",
+    "rubric"
+   ],
+   "prop": [
+    "reliability (any)",
+    "validity (any)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical"
+   ],
+   "inst_groups": [
+    "performance/observation",
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Zirakian2026",
+   "year": 2026,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "technical/engineering skills (generic)",
+    "ethics",
+    "employability/professional",
+    "leadership"
+   ],
+   "inst": [
+    "rubric"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "performance/observation"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Berdanier2021",
+   "year": 2021,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [
+    "scale",
+    "survey"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Shreyas2026",
+   "year": 2026,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "leadership"
+   ],
+   "inst": [
+    "questionnaire",
+    "scale"
+   ],
+   "prop": [
+    "validation (validat*)",
+    "structural equation modelling"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Anwar2023",
+   "year": 2023,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "entrepreneurship"
+   ],
+   "inst": [
+    "questionnaire"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [
+    "Fornell & Larcker (1981)",
+    "Hu & Bentler (1999)"
+   ],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Achuodho2025",
+   "year": 2025,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy"
+   ],
+   "inst": [
+    "questionnaire"
+   ],
+   "prop": [],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Luk2020",
+   "year": 2020,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "soft/generic/transversal (generic)"
+   ],
+   "inst": [
+    "questionnaire",
+    "scale",
+    "survey"
+   ],
+   "prop": [
+    "reliability (any)",
+    "internal consistency/alpha",
+    "validity (any)",
+    "validation (validat*)",
+    "psychometric*",
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [
+    "Kaiser (1960)",
+    "Cattell (1966)",
+    "Hu & Bentler (1999)"
+   ],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Jia2025",
+   "year": 2025,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "technical/engineering skills (generic)",
+    "self-regulation"
+   ],
+   "inst": [
+    "inventory (non-concept)"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Xie2026a",
+   "year": 2026,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [
+    "questionnaire",
+    "concept inventory/test"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [],
+   "inst_groups": [
+    "performance/observation",
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Viegas2023",
+   "year": 2023,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy",
+    "teamwork/collaboration"
+   ],
+   "inst": [
+    "questionnaire",
+    "survey"
+   ],
+   "prop": [
+    "validation (validat*)",
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Chen2026a",
+   "year": 2026,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy"
+   ],
+   "inst": [
+    "questionnaire",
+    "survey"
+   ],
+   "prop": [
+    "reliability (any)",
+    "internal consistency/alpha",
+    "validity (any)",
+    "structural equation modelling",
+    "criterion/convergent/discriminant"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Martin2022",
+   "year": 2022,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy",
+    "self-regulation"
+   ],
+   "inst": [
+    "questionnaire",
+    "scale",
+    "self-report/self-assessment"
+   ],
+   "prop": [],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Illanes2025",
+   "year": 2025,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [
+    "questionnaire"
+   ],
+   "prop": [
+    "reliability (any)",
+    "validity (any)",
+    "content validity/experts"
+   ],
+   "roots": [],
+   "comp_groups": [],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Haryudo2022",
+   "year": 2022,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "critical thinking"
+   ],
+   "inst": [
+    "questionnaire"
+   ],
+   "prop": [
+    "reliability (any)",
+    "structural equation modelling"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Rahimi2025",
+   "year": 2025,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "programming/computational",
+    "self-efficacy"
+   ],
+   "inst": [
+    "scale"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Davies2022",
+   "year": 2022,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "communication"
+   ],
+   "inst": [
+    "rubric"
+   ],
+   "prop": [
+    "reliability (any)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "performance/observation"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Zhao2023",
+   "year": 2023,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [
+    "questionnaire"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Pawar2026a",
+   "year": 2026,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "problem solving",
+    "critical thinking",
+    "creativity/innovation"
+   ],
+   "inst": [
+    "questionnaire",
+    "scale",
+    "self-report/self-assessment",
+    "rubric"
+   ],
+   "prop": [
+    "validity (any)",
+    "validation (validat*)",
+    "content validity/experts"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "performance/observation",
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Nurtanto2026",
+   "year": 2026,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [
+    "questionnaire"
+   ],
+   "prop": [
+    "validity (any)",
+    "validation (validat*)",
+    "content validity/experts"
+   ],
+   "roots": [],
+   "comp_groups": [],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Zhou2025",
+   "year": 2025,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "ethics",
+    "creativity/innovation"
+   ],
+   "inst": [
+    "questionnaire",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "reliability (any)",
+    "validity (any)"
+   ],
+   "roots": [
+    "Fornell & Larcker (1981)"
+   ],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Lavrsen2024",
+   "year": 2024,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy"
+   ],
+   "inst": [
+    "inventory (non-concept)"
+   ],
+   "prop": [
+    "reliability (any)",
+    "validity (any)",
+    "psychometric*",
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "ChamorroAtalaya2022",
+   "year": 2022,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [
+    "questionnaire"
+   ],
+   "prop": [
+    "reliability (any)",
+    "internal consistency/alpha"
+   ],
+   "roots": [],
+   "comp_groups": [],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Khampirat2021",
+   "year": 2021,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-regulation"
+   ],
+   "inst": [
+    "questionnaire"
+   ],
+   "prop": [
+    "reliability (any)",
+    "validation (validat*)",
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [
+    "Cronbach (1951)",
+    "Fornell & Larcker (1981)"
+   ],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "LeChasseur2025",
+   "year": 2025,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy"
+   ],
+   "inst": [
+    "scale",
+    "inventory (non-concept)",
+    "survey",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "reliability (any)",
+    "validity (any)",
+    "validation (validat*)",
+    "criterion/convergent/discriminant"
+   ],
+   "roots": [
+    "Kaiser (1960)",
+    "Fornell & Larcker (1981)",
+    "Hu & Bentler (1999)"
+   ],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Demir2026",
+   "year": 2026,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [
+    "scale",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "reliability (any)",
+    "validity (any)",
+    "validation (validat*)",
+    "psychometric*",
+    "factor analysis (EFA/CFA)",
+    "structural equation modelling",
+    "criterion/convergent/discriminant"
+   ],
+   "roots": [
+    "Fornell & Larcker (1981)",
+    "Hu & Bentler (1999)"
+   ],
+   "comp_groups": [],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Mangkalajan2026",
+   "year": 2026,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "technical/engineering skills (generic)"
+   ],
+   "inst": [
+    "survey",
+    "rubric"
+   ],
+   "prop": [
+    "internal consistency/alpha",
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical"
+   ],
+   "inst_groups": [
+    "performance/observation",
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Sakti2025",
+   "year": 2025,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "programming/computational",
+    "problem solving"
+   ],
+   "inst": [
+    "questionnaire"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "IborraUrios2015",
+   "year": 2015,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "communication",
+    "teamwork/collaboration",
+    "soft/generic/transversal (generic)"
+   ],
+   "inst": [
+    "rubric"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "performance/observation"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Tufino2026",
+   "year": 2026,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "creativity/innovation"
+   ],
+   "inst": [
+    "concept inventory/test"
+   ],
+   "prop": [
+    "reliability (any)",
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "performance/observation"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Martin2021",
+   "year": 2021,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "problem solving",
+    "technical/engineering skills (generic)"
+   ],
+   "inst": [
+    "survey"
+   ],
+   "prop": [
+    "validity (any)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Jafarli2026",
+   "year": 2026,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "problem solving",
+    "critical thinking",
+    "ethics",
+    "self-regulation",
+    "creativity/innovation"
+   ],
+   "inst": [
+    "scale",
+    "rubric"
+   ],
+   "prop": [
+    "validity (any)",
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "performance/observation",
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Hegedus2026",
+   "year": 2026,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "prototyping"
+   ],
+   "inst": [
+    "self-report/self-assessment",
+    "rubric"
+   ],
+   "prop": [
+    "reliability (any)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical"
+   ],
+   "inst_groups": [
+    "performance/observation",
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Sunny2025",
+   "year": 2025,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "communication"
+   ],
+   "inst": [
+    "questionnaire"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "AriasRueda2025",
+   "year": 2025,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "soft/generic/transversal (generic)"
+   ],
+   "inst": [
+    "questionnaire",
+    "survey"
+   ],
+   "prop": [
+    "reliability (any)",
+    "internal consistency/alpha",
+    "validity (any)",
+    "validation (validat*)",
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [
+    "Hu & Bentler (1999)"
+   ],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Singh2025",
+   "year": 2025,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "employability/professional"
+   ],
+   "inst": [
+    "questionnaire",
+    "scale",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "validity (any)",
+    "validation (validat*)",
+    "content validity/experts",
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [
+    "Fornell & Larcker (1981)"
+   ],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Wesoowski2022",
+   "year": 2022,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "technical/engineering skills (generic)",
+    "soft/generic/transversal (generic)",
+    "creativity/innovation"
+   ],
+   "inst": [
+    "scale",
+    "survey",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "FloresAmado2024",
+   "year": 2024,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [
+    "questionnaire"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "SilveyraLeon2025",
+   "year": 2025,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "entrepreneurship"
+   ],
+   "inst": [
+    "scale"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Duarte2016",
+   "year": 2016,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy"
+   ],
+   "inst": [
+    "questionnaire",
+    "scale",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "validation (validat*)",
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "HuangSaad2016",
+   "year": 2016,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy",
+    "entrepreneurship"
+   ],
+   "inst": [
+    "inventory (non-concept)",
+    "survey"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Schar2018a",
+   "year": 2018,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "technical/engineering skills (generic)",
+    "self-efficacy",
+    "employability/professional"
+   ],
+   "inst": [
+    "scale",
+    "survey"
+   ],
+   "prop": [
+    "reliability (any)",
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [
+    "Hu & Bentler (1999)"
+   ],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Nepal2023",
+   "year": 2023,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "design",
+    "self-efficacy",
+    "ethics",
+    "leadership"
+   ],
+   "inst": [
+    "scale",
+    "survey"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Wang2026d",
+   "year": 2026,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "problem solving"
+   ],
+   "inst": [
+    "questionnaire",
+    "survey"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "ElHassan2021",
+   "year": 2021,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [
+    "survey"
+   ],
+   "prop": [
+    "validity (any)",
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Pinto2023",
+   "year": 2023,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "technical/engineering skills (generic)",
+    "soft/generic/transversal (generic)"
+   ],
+   "inst": [
+    "questionnaire",
+    "scale"
+   ],
+   "prop": [
+    "validation (validat*)",
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [
+    "Cronbach (1951)",
+    "Hu & Bentler (1999)"
+   ],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "SanchezCarracedo2021b",
+   "year": 2021,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "ethics"
+   ],
+   "inst": [
+    "questionnaire"
+   ],
+   "prop": [
+    "validation (validat*)",
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [
+    "Kaiser (1960)"
+   ],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Kang2025",
+   "year": 2025,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "design"
+   ],
+   "inst": [
+    "scale"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Choe2019",
+   "year": 2019,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "technical/engineering skills (generic)",
+    "employability/professional"
+   ],
+   "inst": [
+    "scale",
+    "survey"
+   ],
+   "prop": [
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Hauser2018",
+   "year": 2018,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "ethics"
+   ],
+   "inst": [
+    "questionnaire",
+    "survey"
+   ],
+   "prop": [
+    "reliability (any)",
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Bordel2022",
+   "year": 2022,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [
+    "questionnaire",
+    "survey"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Yamazaki2018",
+   "year": 2018,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "communication"
+   ],
+   "inst": [
+    "scale",
+    "survey"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Aguilar2024",
+   "year": 2024,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [],
+   "prop": [
+    "reliability (any)",
+    "internal consistency/alpha",
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [],
+   "inst_groups": [],
+   "period": "2020-2024"
+  },
+  {
+   "key": "KirupaPriyadarsini2024",
+   "year": 2024,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "critical thinking"
+   ],
+   "inst": [
+    "scale"
+   ],
+   "prop": [
+    "validation (validat*)",
+    "structural equation modelling"
+   ],
+   "roots": [
+    "Hu & Bentler (1999)"
+   ],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "MarazaQuispe2026",
+   "year": 2026,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "technical/engineering skills (generic)"
+   ],
+   "inst": [
+    "rubric"
+   ],
+   "prop": [
+    "reliability (any)",
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical"
+   ],
+   "inst_groups": [
+    "performance/observation"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "PeraltaPenunuri2026",
+   "year": 2026,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "programming/computational"
+   ],
+   "inst": [
+    "questionnaire",
+    "scale",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "internal consistency/alpha",
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Ribeiro2026",
+   "year": 2026,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "programming/computational",
+    "problem solving"
+   ],
+   "inst": [
+    "questionnaire"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Kleinpaul2026",
+   "year": 2026,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "design",
+    "problem solving",
+    "teamwork/collaboration",
+    "soft/generic/transversal (generic)",
+    "creativity/innovation"
+   ],
+   "inst": [
+    "questionnaire"
+   ],
+   "prop": [
+    "validation (validat*)",
+    "criterion/convergent/discriminant"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Masduki2022",
+   "year": 2022,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "communication"
+   ],
+   "inst": [
+    "questionnaire",
+    "survey"
+   ],
+   "prop": [
+    "reliability (any)",
+    "internal consistency/alpha",
+    "validation (validat*)",
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "He2026b",
+   "year": 2026,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "programming/computational",
+    "problem solving",
+    "self-efficacy"
+   ],
+   "inst": [
+    "questionnaire",
+    "scale",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Vinogradova2022",
+   "year": 2022,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "technical/engineering skills (generic)",
+    "self-regulation"
+   ],
+   "inst": [
+    "questionnaire"
+   ],
+   "prop": [
+    "reliability (any)",
+    "internal consistency/alpha"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Huang2015",
+   "year": 2015,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "design"
+   ],
+   "inst": [
+    "questionnaire",
+    "survey"
+   ],
+   "prop": [
+    "reliability (any)",
+    "validity (any)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Danielsiek2017",
+   "year": 2017,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy"
+   ],
+   "inst": [
+    "scale"
+   ],
+   "prop": [
+    "psychometric*"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Lee2025b",
+   "year": 2025,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "problem solving",
+    "leadership"
+   ],
+   "inst": [
+    "scale"
+   ],
+   "prop": [
+    "reliability (any)",
+    "validity (any)",
+    "factor analysis (EFA/CFA)",
+    "structural equation modelling"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Hong2015",
+   "year": 2015,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "problem solving",
+    "critical thinking"
+   ],
+   "inst": [
+    "questionnaire",
+    "survey",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "reliability (any)",
+    "validity (any)",
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Quintero2017",
+   "year": 2017,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "critical thinking",
+    "soft/generic/transversal (generic)"
+   ],
+   "inst": [
+    "questionnaire"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Cruz2024",
+   "year": 2024,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [
+    "scale",
+    "rubric"
+   ],
+   "prop": [
+    "reliability (any)",
+    "test-retest/inter-rater"
+   ],
+   "roots": [],
+   "comp_groups": [],
+   "inst_groups": [
+    "performance/observation",
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Lamada2026",
+   "year": 2026,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "problem solving",
+    "technical/engineering skills (generic)",
+    "creativity/innovation"
+   ],
+   "inst": [
+    "questionnaire",
+    "survey"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Hwang2022",
+   "year": 2022,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "soft/generic/transversal (generic)"
+   ],
+   "inst": [
+    "scale",
+    "survey"
+   ],
+   "prop": [],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "QuirozGonzalez2025",
+   "year": 2025,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [
+    "scale",
+    "survey"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Zhang2026d",
+   "year": 2026,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy",
+    "creativity/innovation"
+   ],
+   "inst": [
+    "questionnaire",
+    "survey"
+   ],
+   "prop": [
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Misal2026",
+   "year": 2026,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "design",
+    "problem solving"
+   ],
+   "inst": [
+    "concept inventory/test"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [
+    "Cronbach (1951)"
+   ],
+   "comp_groups": [
+    "technical"
+   ],
+   "inst_groups": [
+    "performance/observation"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Riggs2016",
+   "year": 2016,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "design"
+   ],
+   "inst": [
+    "rubric"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical"
+   ],
+   "inst_groups": [
+    "performance/observation"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Berdanier2018",
+   "year": 2018,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy"
+   ],
+   "inst": [
+    "scale",
+    "survey"
+   ],
+   "prop": [
+    "reliability (any)",
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Vidal2021",
+   "year": 2021,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "soft/generic/transversal (generic)"
+   ],
+   "inst": [
+    "questionnaire",
+    "scale",
+    "survey",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Pinto2025",
+   "year": 2025,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "soft/generic/transversal (generic)"
+   ],
+   "inst": [
+    "questionnaire"
+   ],
+   "prop": [
+    "validation (validat*)",
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [
+    "Hu & Bentler (1999)"
+   ],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Ishikawa2025",
+   "year": 2025,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy"
+   ],
+   "inst": [
+    "scale",
+    "survey",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Endryansyah2025",
+   "year": 2025,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "critical thinking",
+    "creativity/innovation"
+   ],
+   "inst": [],
+   "prop": [
+    "reliability (any)",
+    "internal consistency/alpha",
+    "validity (any)",
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Prasetya2025",
+   "year": 2025,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "problem solving",
+    "technical/engineering skills (generic)",
+    "teamwork/collaboration",
+    "soft/generic/transversal (generic)"
+   ],
+   "inst": [
+    "questionnaire",
+    "scale",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Prathoomthong2025",
+   "year": 2025,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "employability/professional"
+   ],
+   "inst": [
+    "questionnaire",
+    "concept inventory/test"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "performance/observation",
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Mahatanankoon2025",
+   "year": 2025,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "programming/computational",
+    "self-efficacy"
+   ],
+   "inst": [
+    "scale",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "validity (any)",
+    "criterion/convergent/discriminant"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Kwateng2026",
+   "year": 2026,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "programming/computational",
+    "technical/engineering skills (generic)"
+   ],
+   "inst": [
+    "scale",
+    "survey",
+    "self-report/self-assessment",
+    "rubric"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical"
+   ],
+   "inst_groups": [
+    "performance/observation",
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Rijanto2026",
+   "year": 2026,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": false,
+   "comp": [
+    "programming/computational",
+    "problem solving",
+    "technical/engineering skills (generic)",
+    "critical thinking",
+    "teamwork/collaboration",
+    "ethics",
+    "soft/generic/transversal (generic)"
+   ],
+   "inst": [],
+   "prop": [
+    "validation (validat*)",
+    "structural equation modelling"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [],
+   "period": "2025-2026"
+  },
+  {
+   "key": "PAUL2018",
+   "year": 2018,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy"
+   ],
+   "inst": [
+    "scale",
+    "survey"
+   ],
+   "prop": [
+    "validity (any)",
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Cico2021",
+   "year": 2021,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "technical/engineering skills (generic)",
+    "soft/generic/transversal (generic)"
+   ],
+   "inst": [
+    "questionnaire",
+    "survey"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "DiazMartinez2026",
+   "year": 2026,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "technical/engineering skills (generic)",
+    "self-efficacy",
+    "soft/generic/transversal (generic)"
+   ],
+   "inst": [
+    "inventory (non-concept)"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Regnault2025",
+   "year": 2025,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy",
+    "creativity/innovation",
+    "leadership",
+    "entrepreneurship"
+   ],
+   "inst": [
+    "scale",
+    "survey"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Chedru2023",
+   "year": 2023,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [
+    "questionnaire",
+    "scale"
+   ],
+   "prop": [],
+   "roots": [],
+   "comp_groups": [],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "SHA2023",
+   "year": 2023,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "problem solving",
+    "communication",
+    "teamwork/collaboration"
+   ],
+   "inst": [
+    "questionnaire"
+   ],
+   "prop": [
+    "psychometric*"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "GarayRondero2026",
+   "year": 2026,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [
+    "rubric"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [],
+   "inst_groups": [
+    "performance/observation"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "WilliamAtehortuaMosquera2025",
+   "year": 2025,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "ethics",
+    "creativity/innovation"
+   ],
+   "inst": [
+    "questionnaire",
+    "survey",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "reliability (any)",
+    "internal consistency/alpha",
+    "validity (any)",
+    "validation (validat*)",
+    "factor analysis (EFA/CFA)",
+    "structural equation modelling"
+   ],
+   "roots": [
+    "Fornell & Larcker (1981)",
+    "Hu & Bentler (1999)"
+   ],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Budhyani2025",
+   "year": 2025,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "design",
+    "problem solving",
+    "self-efficacy",
+    "critical thinking",
+    "creativity/innovation"
+   ],
+   "inst": [
+    "questionnaire"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Chakraborty2024",
+   "year": 2024,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy"
+   ],
+   "inst": [
+    "scale"
+   ],
+   "prop": [
+    "reliability (any)",
+    "validation (validat*)",
+    "psychometric*",
+    "factor analysis (EFA/CFA)",
+    "structural equation modelling"
+   ],
+   "roots": [
+    "Hu & Bentler (1999)"
+   ],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Singh2026",
+   "year": 2026,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "critical thinking"
+   ],
+   "inst": [
+    "questionnaire",
+    "survey",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Li2026b",
+   "year": 2026,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "design"
+   ],
+   "inst": [
+    "scale"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Ortega2026",
+   "year": 2026,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [],
+   "inst_groups": [],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Lin2026a",
+   "year": 2026,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [
+    "questionnaire"
+   ],
+   "prop": [
+    "validation (validat*)",
+    "structural equation modelling"
+   ],
+   "roots": [
+    "Fornell & Larcker (1981)"
+   ],
+   "comp_groups": [],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Morosanova2025",
+   "year": 2025,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "programming/computational",
+    "self-regulation"
+   ],
+   "inst": [
+    "questionnaire",
+    "scale"
+   ],
+   "prop": [
+    "reliability (any)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Verdin2017",
+   "year": 2017,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [
+    "scale",
+    "survey"
+   ],
+   "prop": [
+    "factor analysis (EFA/CFA)",
+    "measurement invariance"
+   ],
+   "roots": [],
+   "comp_groups": [],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Suasnavas2022",
+   "year": 2022,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "programming/computational",
+    "critical thinking"
+   ],
+   "inst": [
+    "questionnaire"
+   ],
+   "prop": [
+    "reliability (any)",
+    "internal consistency/alpha",
+    "validity (any)",
+    "validation (validat*)",
+    "content validity/experts"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Avedoy2026",
+   "year": 2026,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [
+    "scale",
+    "self-report/self-assessment",
+    "rubric"
+   ],
+   "prop": [
+    "reliability (any)",
+    "validity (any)",
+    "validation (validat*)",
+    "content validity/experts"
+   ],
+   "roots": [],
+   "comp_groups": [],
+   "inst_groups": [
+    "performance/observation",
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Chakraborty2026",
+   "year": 2026,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "problem solving"
+   ],
+   "inst": [
+    "rubric"
+   ],
+   "prop": [
+    "reliability (any)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical"
+   ],
+   "inst_groups": [
+    "performance/observation"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "KulturelKonak2019",
+   "year": 2019,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [],
+   "inst_groups": [],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Lye2022",
+   "year": 2022,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "problem solving",
+    "self-efficacy"
+   ],
+   "inst": [
+    "questionnaire",
+    "survey"
+   ],
+   "prop": [],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "He2025",
+   "year": 2025,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "design",
+    "problem solving"
+   ],
+   "inst": [
+    "scale"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Durrani2025",
+   "year": 2025,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [
+    "scale",
+    "survey",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Pearce2015",
+   "year": 2015,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "technical/engineering skills (generic)"
+   ],
+   "inst": [
+    "rubric"
+   ],
+   "prop": [
+    "reliability (any)",
+    "validity (any)",
+    "test-retest/inter-rater"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical"
+   ],
+   "inst_groups": [
+    "performance/observation"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "EnriquezGavilan2025",
+   "year": 2025,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "ethics"
+   ],
+   "inst": [
+    "questionnaire",
+    "scale"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Husna2025",
+   "year": 2025,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "critical thinking"
+   ],
+   "inst": [],
+   "prop": [
+    "validity (any)",
+    "validation (validat*)",
+    "content validity/experts"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Loo2025",
+   "year": 2025,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "design",
+    "critical thinking",
+    "teamwork/collaboration"
+   ],
+   "inst": [
+    "scale",
+    "survey",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Sha2024",
+   "year": 2024,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "critical thinking",
+    "teamwork/collaboration"
+   ],
+   "inst": [
+    "scale"
+   ],
+   "prop": [],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "GuajardoCuellar2025",
+   "year": 2025,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "prototyping"
+   ],
+   "inst": [
+    "inventory (non-concept)",
+    "survey"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Erlyana2026",
+   "year": 2026,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "creativity/innovation"
+   ],
+   "inst": [
+    "scale"
+   ],
+   "prop": [
+    "validation (validat*)",
+    "content validity/experts"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "RodriguezCalderon2026",
+   "year": 2026,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "employability/professional"
+   ],
+   "inst": [
+    "scale",
+    "survey",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Syahmaidi2019",
+   "year": 2019,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [
+    "questionnaire"
+   ],
+   "prop": [
+    "validity (any)"
+   ],
+   "roots": [],
+   "comp_groups": [],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Nagai2021",
+   "year": 2021,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "teamwork/collaboration"
+   ],
+   "inst": [
+    "concept inventory/test"
+   ],
+   "prop": [
+    "criterion/convergent/discriminant",
+    "item response theory/Rasch"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "performance/observation"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Zavala2026",
+   "year": 2026,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "problem solving",
+    "technical/engineering skills (generic)",
+    "self-efficacy"
+   ],
+   "inst": [
+    "scale"
+   ],
+   "prop": [
+    "reliability (any)",
+    "internal consistency/alpha",
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "KUHN2022",
+   "year": 2022,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "employability/professional"
+   ],
+   "inst": [
+    "questionnaire"
+   ],
+   "prop": [
+    "reliability (any)",
+    "internal consistency/alpha",
+    "validity (any)",
+    "validation (validat*)",
+    "content validity/experts",
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Phillips2019a",
+   "year": 2019,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "problem solving",
+    "critical thinking"
+   ],
+   "inst": [
+    "inventory (non-concept)",
+    "survey"
+   ],
+   "prop": [
+    "reliability (any)",
+    "internal consistency/alpha",
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "AlvarezCastillo2022",
+   "year": 2022,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [
+    "questionnaire"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Mokarami2019",
+   "year": 2019,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "entrepreneurship"
+   ],
+   "inst": [
+    "questionnaire",
+    "scale",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "reliability (any)",
+    "internal consistency/alpha",
+    "validity (any)",
+    "validation (validat*)",
+    "psychometric*",
+    "content validity/experts",
+    "test-retest/inter-rater"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "FloresRivera2026",
+   "year": 2026,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [
+    "questionnaire"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Reichert2025",
+   "year": 2025,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "prototyping",
+    "technical/engineering skills (generic)",
+    "creativity/innovation"
+   ],
+   "inst": [
+    "inventory (non-concept)",
+    "survey"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Li2026e",
+   "year": 2026,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "design",
+    "self-efficacy",
+    "self-regulation",
+    "creativity/innovation"
+   ],
+   "inst": [
+    "scale"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Velarde2024",
+   "year": 2024,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "teamwork/collaboration",
+    "soft/generic/transversal (generic)"
+   ],
+   "inst": [
+    "rubric"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "performance/observation"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Tubbs2025",
+   "year": 2025,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "problem solving",
+    "self-efficacy",
+    "critical thinking",
+    "creativity/innovation",
+    "leadership"
+   ],
+   "inst": [
+    "scale",
+    "survey"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "AlShuaili2025",
+   "year": 2025,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "technical/engineering skills (generic)",
+    "employability/professional",
+    "soft/generic/transversal (generic)"
+   ],
+   "inst": [
+    "questionnaire",
+    "survey"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Terry2025",
+   "year": 2025,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "problem solving",
+    "self-efficacy",
+    "critical thinking",
+    "creativity/innovation",
+    "leadership"
+   ],
+   "inst": [
+    "scale",
+    "survey"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Abdullah2017",
+   "year": 2017,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "simulation/modelling",
+    "problem solving"
+   ],
+   "inst": [
+    "scale"
+   ],
+   "prop": [
+    "reliability (any)",
+    "item response theory/Rasch"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Scharf2014",
+   "year": 2014,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [
+    "rubric"
+   ],
+   "prop": [
+    "reliability (any)",
+    "validation (validat*)",
+    "test-retest/inter-rater"
+   ],
+   "roots": [],
+   "comp_groups": [],
+   "inst_groups": [
+    "performance/observation"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Catena2026",
+   "year": 2026,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy"
+   ],
+   "inst": [
+    "scale",
+    "survey",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "validity (any)",
+    "validation (validat*)",
+    "structural equation modelling"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Rizwan2021",
+   "year": 2021,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "employability/professional",
+    "creativity/innovation",
+    "leadership"
+   ],
+   "inst": [
+    "questionnaire",
+    "scale",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "reliability (any)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Kotla2025",
+   "year": 2025,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "employability/professional",
+    "entrepreneurship"
+   ],
+   "inst": [
+    "survey"
+   ],
+   "prop": [
+    "validation (validat*)",
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [
+    "Hu & Bentler (1999)"
+   ],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "GarciaHuertes2025",
+   "year": 2025,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "critical thinking"
+   ],
+   "inst": [
+    "rubric"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "performance/observation"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Oliveira2014",
+   "year": 2014,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy"
+   ],
+   "inst": [
+    "questionnaire",
+    "survey"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Novianti2025",
+   "year": 2025,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "communication"
+   ],
+   "inst": [
+    "questionnaire"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Ye2026",
+   "year": 2026,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [],
+   "inst_groups": [],
+   "period": "2025-2026"
+  },
+  {
+   "key": "SanSebastian2026",
+   "year": 2026,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy"
+   ],
+   "inst": [
+    "questionnaire",
+    "rubric"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "performance/observation",
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Truyol2025",
+   "year": 2025,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "soft/generic/transversal (generic)",
+    "leadership"
+   ],
+   "inst": [
+    "questionnaire"
+   ],
+   "prop": [
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Sinche2024",
+   "year": 2024,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "programming/computational",
+    "prototyping",
+    "technical/engineering skills (generic)"
+   ],
+   "inst": [
+    "questionnaire",
+    "survey"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Liu2026b",
+   "year": 2026,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [
+    "questionnaire"
+   ],
+   "prop": [
+    "validity (any)",
+    "validation (validat*)",
+    "structural equation modelling",
+    "criterion/convergent/discriminant"
+   ],
+   "roots": [],
+   "comp_groups": [],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Iskandar2025",
+   "year": 2025,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "technical/engineering skills (generic)",
+    "ethics",
+    "creativity/innovation"
+   ],
+   "inst": [
+    "questionnaire",
+    "survey"
+   ],
+   "prop": [
+    "reliability (any)",
+    "internal consistency/alpha",
+    "validity (any)",
+    "content validity/experts"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "SarppaRaje2025",
+   "year": 2025,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "problem solving",
+    "critical thinking",
+    "creativity/innovation"
+   ],
+   "inst": [
+    "rubric"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "performance/observation"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "SimmonsPE2025",
+   "year": 2025,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "communication"
+   ],
+   "inst": [
+    "scale"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Lu2026",
+   "year": 2026,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy"
+   ],
+   "inst": [
+    "scale",
+    "rubric"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "performance/observation",
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "CAZARINIFELICIO2018",
+   "year": 2018,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [
+    "questionnaire",
+    "scale",
+    "rubric"
+   ],
+   "prop": [
+    "reliability (any)",
+    "validity (any)"
+   ],
+   "roots": [],
+   "comp_groups": [],
+   "inst_groups": [
+    "performance/observation",
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Fogg2026",
+   "year": 2026,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "problem solving",
+    "self-efficacy"
+   ],
+   "inst": [
+    "scale",
+    "self-report/self-assessment"
+   ],
+   "prop": [],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Lu2025",
+   "year": 2025,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "critical thinking"
+   ],
+   "inst": [
+    "scale"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Ramos2025",
+   "year": 2025,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "communication"
+   ],
+   "inst": [
+    "rubric"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "performance/observation"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Waleeittipat2025",
+   "year": 2025,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "critical thinking",
+    "communication",
+    "employability/professional",
+    "creativity/innovation",
+    "leadership"
+   ],
+   "inst": [
+    "questionnaire",
+    "scale",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "reliability (any)",
+    "internal consistency/alpha",
+    "validity (any)",
+    "factor analysis (EFA/CFA)",
+    "measurement invariance"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Kwaczala2025",
+   "year": 2025,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "communication",
+    "entrepreneurship"
+   ],
+   "inst": [
+    "survey",
+    "rubric"
+   ],
+   "prop": [
+    "reliability (any)",
+    "test-retest/inter-rater"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "performance/observation",
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Cortazar2025",
+   "year": 2025,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "problem solving",
+    "self-efficacy",
+    "critical thinking",
+    "teamwork/collaboration",
+    "employability/professional",
+    "creativity/innovation",
+    "entrepreneurship"
+   ],
+   "inst": [
+    "scale",
+    "survey",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Pawar2026b",
+   "year": 2026,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "design",
+    "problem solving",
+    "prototyping"
+   ],
+   "inst": [
+    "rubric"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical"
+   ],
+   "inst_groups": [
+    "performance/observation"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "BHATNAGAR2026",
+   "year": 2026,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy",
+    "entrepreneurship"
+   ],
+   "inst": [
+    "questionnaire",
+    "survey"
+   ],
+   "prop": [
+    "reliability (any)",
+    "internal consistency/alpha",
+    "validity (any)",
+    "validation (validat*)",
+    "psychometric*",
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [
+    "Hu & Bentler (1999)"
+   ],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Soule2025",
+   "year": 2025,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "programming/computational",
+    "self-efficacy"
+   ],
+   "inst": [
+    "scale",
+    "survey",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Choe2025",
+   "year": 2025,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy"
+   ],
+   "inst": [
+    "scale",
+    "survey",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Banks2020",
+   "year": 2020,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "design"
+   ],
+   "inst": [
+    "rubric"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical"
+   ],
+   "inst_groups": [
+    "performance/observation"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Johnson2025",
+   "year": 2025,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "design",
+    "problem solving",
+    "self-efficacy",
+    "teamwork/collaboration",
+    "creativity/innovation"
+   ],
+   "inst": [
+    "scale",
+    "survey"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "MunozVallejos2025",
+   "year": 2025,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "problem solving",
+    "technical/engineering skills (generic)",
+    "critical thinking",
+    "employability/professional",
+    "creativity/innovation",
+    "entrepreneurship"
+   ],
+   "inst": [
+    "questionnaire",
+    "survey"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Ernst2016",
+   "year": 2016,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy"
+   ],
+   "inst": [
+    "scale",
+    "survey",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "internal consistency/alpha",
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "AbigailRojasCastilla2026",
+   "year": 2026,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "ethics",
+    "leadership",
+    "entrepreneurship"
+   ],
+   "inst": [
+    "questionnaire"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "MolinaBarzola2025",
+   "year": 2025,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "entrepreneurship"
+   ],
+   "inst": [
+    "rubric"
+   ],
+   "prop": [
+    "validity (any)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "performance/observation"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Ismael2025",
+   "year": 2025,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "problem solving",
+    "technical/engineering skills (generic)",
+    "critical thinking",
+    "entrepreneurship"
+   ],
+   "inst": [
+    "survey"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Han2020",
+   "year": 2020,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "problem solving",
+    "communication",
+    "teamwork/collaboration",
+    "leadership"
+   ],
+   "inst": [
+    "scale",
+    "survey"
+   ],
+   "prop": [
+    "reliability (any)",
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Yellamraju2019",
+   "year": 2019,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "critical thinking",
+    "communication"
+   ],
+   "inst": [
+    "rubric"
+   ],
+   "prop": [],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "performance/observation"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Barria2025",
+   "year": 2025,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "programming/computational",
+    "soft/generic/transversal (generic)"
+   ],
+   "inst": [
+    "scale",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "RockerYoel2022",
+   "year": 2022,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "problem solving",
+    "self-efficacy",
+    "teamwork/collaboration",
+    "soft/generic/transversal (generic)"
+   ],
+   "inst": [
+    "questionnaire"
+   ],
+   "prop": [
+    "criterion/convergent/discriminant"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Shell2014",
+   "year": 2014,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "programming/computational",
+    "problem solving",
+    "self-efficacy",
+    "self-regulation",
+    "creativity/innovation"
+   ],
+   "inst": [
+    "scale"
+   ],
+   "prop": [],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Whitcomb2019",
+   "year": 2019,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy"
+   ],
+   "inst": [
+    "survey",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Bravo2021",
+   "year": 2021,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "technical/engineering skills (generic)",
+    "communication"
+   ],
+   "inst": [
+    "scale",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "reliability (any)",
+    "internal consistency/alpha",
+    "validity (any)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Galster2024",
+   "year": 2024,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "communication",
+    "soft/generic/transversal (generic)"
+   ],
+   "inst": [],
+   "prop": [],
+   "roots": [
+    "Kaiser (1960)"
+   ],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Sutadji2016",
+   "year": 2016,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "problem solving",
+    "technical/engineering skills (generic)",
+    "communication",
+    "teamwork/collaboration",
+    "employability/professional"
+   ],
+   "inst": [
+    "questionnaire",
+    "survey"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Kittur2020",
+   "year": 2020,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "programming/computational",
+    "self-efficacy",
+    "self-regulation"
+   ],
+   "inst": [
+    "survey"
+   ],
+   "prop": [
+    "validity (any)",
+    "content validity/experts",
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "RosasEspinoza2026",
+   "year": 2026,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "critical thinking"
+   ],
+   "inst": [
+    "questionnaire",
+    "scale",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "reliability (any)",
+    "validation (validat*)",
+    "content validity/experts"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "WETTSTEIN2024",
+   "year": 2024,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "communication"
+   ],
+   "inst": [
+    "rubric"
+   ],
+   "prop": [
+    "reliability (any)",
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "performance/observation"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Muda2025",
+   "year": 2025,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "programming/computational",
+    "problem solving",
+    "employability/professional"
+   ],
+   "inst": [
+    "scale",
+    "survey"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Johannsen2025",
+   "year": 2025,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "teamwork/collaboration"
+   ],
+   "inst": [
+    "questionnaire",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Gurganus2023",
+   "year": 2023,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [
+    "inventory (non-concept)"
+   ],
+   "prop": [],
+   "roots": [],
+   "comp_groups": [],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Fadillah2023",
+   "year": 2023,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "entrepreneurship"
+   ],
+   "inst": [
+    "questionnaire"
+   ],
+   "prop": [
+    "validity (any)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Zappe2014",
+   "year": 2014,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy",
+    "creativity/innovation"
+   ],
+   "inst": [],
+   "prop": [
+    "reliability (any)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Morphew2025",
+   "year": 2025,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "design",
+    "programming/computational",
+    "self-efficacy"
+   ],
+   "inst": [
+    "survey"
+   ],
+   "prop": [],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Haryudo2020",
+   "year": 2020,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [],
+   "prop": [
+    "reliability (any)",
+    "validity (any)",
+    "test-retest/inter-rater"
+   ],
+   "roots": [],
+   "comp_groups": [],
+   "inst_groups": [],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Yodnil2026",
+   "year": 2026,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "technical/engineering skills (generic)"
+   ],
+   "inst": [],
+   "prop": [
+    "validation (validat*)",
+    "content validity/experts"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical"
+   ],
+   "inst_groups": [],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Cicciarelli2020",
+   "year": 2020,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy"
+   ],
+   "inst": [
+    "survey"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "M2026",
+   "year": 2026,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "design",
+    "self-efficacy"
+   ],
+   "inst": [
+    "survey",
+    "rubric"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "performance/observation",
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "NietoJalil2026b",
+   "year": 2026,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "problem solving",
+    "technical/engineering skills (generic)"
+   ],
+   "inst": [
+    "survey",
+    "rubric",
+    "concept inventory/test"
+   ],
+   "prop": [],
+   "roots": [],
+   "comp_groups": [
+    "technical"
+   ],
+   "inst_groups": [
+    "performance/observation",
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Robol2025",
+   "year": 2025,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "programming/computational"
+   ],
+   "inst": [
+    "survey"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Lee2020",
+   "year": 2020,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy"
+   ],
+   "inst": [
+    "questionnaire",
+    "scale",
+    "survey"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [
+    "Hu & Bentler (1999)"
+   ],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "DiazTriana2024",
+   "year": 2024,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [
+    "rubric"
+   ],
+   "prop": [],
+   "roots": [],
+   "comp_groups": [],
+   "inst_groups": [
+    "performance/observation"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "GalindoCota2025",
+   "year": 2025,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "teamwork/collaboration"
+   ],
+   "inst": [],
+   "prop": [],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Tolbert2016",
+   "year": 2016,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [
+    "survey"
+   ],
+   "prop": [],
+   "roots": [],
+   "comp_groups": [],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "BernalOlvera2024",
+   "year": 2024,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [
+    "rubric"
+   ],
+   "prop": [
+    "reliability (any)",
+    "internal consistency/alpha"
+   ],
+   "roots": [
+    "Cronbach (1951)"
+   ],
+   "comp_groups": [],
+   "inst_groups": [
+    "performance/observation"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "TulioCanalesChavez2026",
+   "year": 2026,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "ethics"
+   ],
+   "inst": [],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Gray2020",
+   "year": 2020,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "design",
+    "prototyping",
+    "technical/engineering skills (generic)",
+    "self-efficacy",
+    "teamwork/collaboration",
+    "employability/professional",
+    "creativity/innovation",
+    "leadership"
+   ],
+   "inst": [
+    "scale",
+    "survey"
+   ],
+   "prop": [
+    "reliability (any)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Choe2017",
+   "year": 2017,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "technical/engineering skills (generic)"
+   ],
+   "inst": [
+    "scale",
+    "survey"
+   ],
+   "prop": [
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "YeomansGalli2023",
+   "year": 2023,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [],
+   "inst_groups": [],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Ilich2026",
+   "year": 2026,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "critical thinking"
+   ],
+   "inst": [
+    "questionnaire",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "reliability (any)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "MakioMarusik2019",
+   "year": 2019,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [],
+   "prop": [
+    "reliability (any)",
+    "validity (any)"
+   ],
+   "roots": [
+    "Hu & Bentler (1999)"
+   ],
+   "comp_groups": [],
+   "inst_groups": [],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Alfian2026",
+   "year": 2026,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [
+    "questionnaire",
+    "rubric"
+   ],
+   "prop": [
+    "reliability (any)"
+   ],
+   "roots": [],
+   "comp_groups": [],
+   "inst_groups": [
+    "performance/observation",
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Asogwa2021",
+   "year": 2021,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "problem solving",
+    "creativity/innovation"
+   ],
+   "inst": [
+    "rubric"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "performance/observation"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Gutfleisch2022",
+   "year": 2022,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy"
+   ],
+   "inst": [
+    "questionnaire",
+    "scale"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "BuentelloMontoya2024",
+   "year": 2024,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "critical thinking"
+   ],
+   "inst": [
+    "scale"
+   ],
+   "prop": [
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Pan2026",
+   "year": 2026,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "problem solving",
+    "critical thinking",
+    "teamwork/collaboration"
+   ],
+   "inst": [],
+   "prop": [],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [],
+   "period": "2025-2026"
+  },
+  {
+   "key": "R2022",
+   "year": 2022,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [
+    "questionnaire",
+    "survey"
+   ],
+   "prop": [
+    "reliability (any)",
+    "internal consistency/alpha",
+    "validity (any)",
+    "validation (validat*)",
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [],
+   "comp_groups": [],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Lam2026",
+   "year": 2026,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [
+    "scale",
+    "survey"
+   ],
+   "prop": [
+    "reliability (any)",
+    "validity (any)",
+    "structural equation modelling"
+   ],
+   "roots": [],
+   "comp_groups": [],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Dukes2019",
+   "year": 2019,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "teamwork/collaboration"
+   ],
+   "inst": [
+    "scale"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Davishahl2019",
+   "year": 2019,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "problem solving"
+   ],
+   "inst": [
+    "survey"
+   ],
+   "prop": [
+    "validity (any)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Rathod2025",
+   "year": 2025,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "ethics",
+    "self-regulation",
+    "creativity/innovation"
+   ],
+   "inst": [
+    "rubric"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "performance/observation"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Carmona2026",
+   "year": 2026,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy"
+   ],
+   "inst": [
+    "survey",
+    "self-report/self-assessment"
+   ],
+   "prop": [],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Ford2020",
+   "year": 2020,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy"
+   ],
+   "inst": [
+    "questionnaire",
+    "survey"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Acharya2017",
+   "year": 2017,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "communication"
+   ],
+   "inst": [],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Sarker2024",
+   "year": 2024,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "critical thinking"
+   ],
+   "inst": [
+    "scale",
+    "survey"
+   ],
+   "prop": [
+    "reliability (any)",
+    "validity (any)",
+    "validation (validat*)",
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Morano2020",
+   "year": 2020,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "design",
+    "prototyping",
+    "technical/engineering skills (generic)",
+    "teamwork/collaboration",
+    "ethics",
+    "leadership",
+    "entrepreneurship"
+   ],
+   "inst": [
+    "questionnaire",
+    "survey",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "psychometric*"
+   ],
+   "roots": [
+    "Cronbach (1951)"
+   ],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "JIN2015",
+   "year": 2015,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "design"
+   ],
+   "inst": [
+    "scale",
+    "rubric",
+    "concept inventory/test"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical"
+   ],
+   "inst_groups": [
+    "performance/observation",
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Liu2026c",
+   "year": 2026,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy"
+   ],
+   "inst": [
+    "scale",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Salunke2017",
+   "year": 2017,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "teamwork/collaboration"
+   ],
+   "inst": [
+    "rubric"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "performance/observation"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Smyser2020",
+   "year": 2020,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "prototyping",
+    "communication",
+    "creativity/innovation"
+   ],
+   "inst": [
+    "rubric"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "performance/observation"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Pombo2025",
+   "year": 2025,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [
+    "questionnaire"
+   ],
+   "prop": [
+    "reliability (any)"
+   ],
+   "roots": [],
+   "comp_groups": [],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Elmunsvah2018",
+   "year": 2018,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [],
+   "prop": [],
+   "roots": [],
+   "comp_groups": [],
+   "inst_groups": [],
+   "period": "2014-2019"
+  },
+  {
+   "key": "MohdSalleh2017",
+   "year": 2017,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [
+    "scale",
+    "survey",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "reliability (any)"
+   ],
+   "roots": [],
+   "comp_groups": [],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Schar2017",
+   "year": 2017,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy",
+    "creativity/innovation"
+   ],
+   "inst": [
+    "scale",
+    "survey"
+   ],
+   "prop": [
+    "reliability (any)",
+    "validity (any)",
+    "factor analysis (EFA/CFA)",
+    "test-retest/inter-rater"
+   ],
+   "roots": [
+    "Hu & Bentler (1999)"
+   ],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Aristondo2019",
+   "year": 2019,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [
+    "questionnaire",
+    "scale"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Kinane2023",
+   "year": 2023,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "design",
+    "critical thinking",
+    "communication",
+    "teamwork/collaboration"
+   ],
+   "inst": [
+    "survey"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Jazebizadeh2020",
+   "year": 2020,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "problem solving"
+   ],
+   "inst": [
+    "questionnaire"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "GarayRondero2024",
+   "year": 2024,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "problem solving"
+   ],
+   "inst": [
+    "survey",
+    "rubric",
+    "concept inventory/test"
+   ],
+   "prop": [
+    "reliability (any)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical"
+   ],
+   "inst_groups": [
+    "performance/observation",
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Orazov2026",
+   "year": 2026,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [
+    "rubric"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [],
+   "inst_groups": [
+    "performance/observation"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Haron2014",
+   "year": 2014,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-regulation"
+   ],
+   "inst": [
+    "questionnaire"
+   ],
+   "prop": [
+    "reliability (any)",
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Barrage2017",
+   "year": 2017,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "critical thinking"
+   ],
+   "inst": [
+    "questionnaire",
+    "scale",
+    "survey"
+   ],
+   "prop": [
+    "validity (any)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Charite2016",
+   "year": 2016,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "soft/generic/transversal (generic)"
+   ],
+   "inst": [],
+   "prop": [
+    "reliability (any)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Oishi2017",
+   "year": 2017,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "critical thinking"
+   ],
+   "inst": [
+    "concept inventory/test"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "performance/observation"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Watson2016",
+   "year": 2016,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "technical/engineering skills (generic)"
+   ],
+   "inst": [
+    "rubric"
+   ],
+   "prop": [
+    "reliability (any)",
+    "validity (any)",
+    "criterion/convergent/discriminant",
+    "test-retest/inter-rater"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical"
+   ],
+   "inst_groups": [
+    "performance/observation"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "PAEZ2014",
+   "year": 2014,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "employability/professional"
+   ],
+   "inst": [
+    "questionnaire"
+   ],
+   "prop": [],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Thurner2020",
+   "year": 2020,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [],
+   "prop": [
+    "reliability (any)"
+   ],
+   "roots": [],
+   "comp_groups": [],
+   "inst_groups": [],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Simper2016",
+   "year": 2016,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy",
+    "self-regulation"
+   ],
+   "inst": [
+    "questionnaire",
+    "scale",
+    "inventory (non-concept)",
+    "rubric"
+   ],
+   "prop": [
+    "reliability (any)",
+    "validity (any)",
+    "psychometric*",
+    "criterion/convergent/discriminant"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "performance/observation",
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Huvard2025",
+   "year": 2025,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy",
+    "employability/professional",
+    "entrepreneurship"
+   ],
+   "inst": [
+    "scale",
+    "survey",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "BastidaEscamilla2022",
+   "year": 2022,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [],
+   "prop": [],
+   "roots": [],
+   "comp_groups": [],
+   "inst_groups": [],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Fini2018",
+   "year": 2018,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy",
+    "communication",
+    "teamwork/collaboration"
+   ],
+   "inst": [
+    "questionnaire",
+    "survey"
+   ],
+   "prop": [
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [
+    "Cronbach (1951)"
+   ],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Berger2017",
+   "year": 2017,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": false,
+   "comp": [
+    "soft/generic/transversal (generic)"
+   ],
+   "inst": [
+    "rubric"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "performance/observation"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Beem2023",
+   "year": 2023,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy"
+   ],
+   "inst": [
+    "scale",
+    "survey"
+   ],
+   "prop": [
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "VanderWal2023",
+   "year": 2023,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "communication"
+   ],
+   "inst": [],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Denson2018b",
+   "year": 2018,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": false,
+   "comp": [
+    "self-efficacy"
+   ],
+   "inst": [
+    "scale",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "reliability (any)",
+    "validity (any)",
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Liu2022",
+   "year": 2022,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "programming/computational",
+    "technical/engineering skills (generic)"
+   ],
+   "inst": [
+    "questionnaire"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Kittur2024",
+   "year": 2024,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "design",
+    "problem solving",
+    "prototyping",
+    "self-efficacy"
+   ],
+   "inst": [
+    "scale",
+    "survey",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "reliability (any)",
+    "internal consistency/alpha",
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Davis2023",
+   "year": 2023,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "technical/engineering skills (generic)"
+   ],
+   "inst": [
+    "survey",
+    "self-report/self-assessment",
+    "concept inventory/test"
+   ],
+   "prop": [
+    "validity (any)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical"
+   ],
+   "inst_groups": [
+    "performance/observation",
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "VazquezParra2021",
+   "year": 2021,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "entrepreneurship"
+   ],
+   "inst": [
+    "questionnaire",
+    "survey"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Baker2015",
+   "year": 2015,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy",
+    "communication"
+   ],
+   "inst": [
+    "scale",
+    "survey"
+   ],
+   "prop": [
+    "reliability (any)",
+    "validity (any)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Lazarus2018",
+   "year": 2018,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "employability/professional"
+   ],
+   "inst": [
+    "questionnaire",
+    "scale",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Davies2015",
+   "year": 2015,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [
+    "inventory (non-concept)"
+   ],
+   "prop": [
+    "reliability (any)",
+    "validity (any)",
+    "validation (validat*)",
+    "psychometric*"
+   ],
+   "roots": [],
+   "comp_groups": [],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Abiodun2024",
+   "year": 2024,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "critical thinking"
+   ],
+   "inst": [
+    "survey"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Butt2024",
+   "year": 2024,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "design",
+    "technical/engineering skills (generic)",
+    "self-efficacy"
+   ],
+   "inst": [
+    "scale",
+    "survey"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Zhang2023",
+   "year": 2023,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "problem solving",
+    "self-efficacy"
+   ],
+   "inst": [
+    "scale",
+    "survey",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "reliability (any)",
+    "internal consistency/alpha",
+    "validity (any)",
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Cutri2023",
+   "year": 2023,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "design",
+    "simulation/modelling",
+    "critical thinking",
+    "communication",
+    "teamwork/collaboration",
+    "soft/generic/transversal (generic)"
+   ],
+   "inst": [
+    "questionnaire",
+    "self-report/self-assessment",
+    "rubric"
+   ],
+   "prop": [
+    "validity (any)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "performance/observation",
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Rahdiyanta2019",
+   "year": 2019,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [
+    "questionnaire",
+    "survey"
+   ],
+   "prop": [
+    "validity (any)",
+    "content validity/experts"
+   ],
+   "roots": [],
+   "comp_groups": [],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Smith2024",
+   "year": 2024,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy",
+    "self-regulation"
+   ],
+   "inst": [
+    "scale",
+    "survey"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Yaghoubisharif2024",
+   "year": 2024,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "technical/engineering skills (generic)"
+   ],
+   "inst": [
+    "scale",
+    "survey",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "reliability (any)",
+    "validity (any)",
+    "validation (validat*)",
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [
+    "Kaiser (1960)"
+   ],
+   "comp_groups": [
+    "technical"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Chua2014",
+   "year": 2014,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "design",
+    "problem solving"
+   ],
+   "inst": [
+    "questionnaire",
+    "scale",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "reliability (any)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Bombaerts2019",
+   "year": 2019,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "ethics"
+   ],
+   "inst": [
+    "questionnaire",
+    "survey"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "MurbakNunes2025",
+   "year": 2025,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": false,
+   "comp": [
+    "programming/computational",
+    "teamwork/collaboration"
+   ],
+   "inst": [
+    "questionnaire",
+    "scale",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Bolhari2023",
+   "year": 2023,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy"
+   ],
+   "inst": [
+    "scale",
+    "survey",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Zakariya2019",
+   "year": 2019,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "problem solving",
+    "self-efficacy"
+   ],
+   "inst": [
+    "inventory (non-concept)",
+    "survey"
+   ],
+   "prop": [
+    "reliability (any)",
+    "internal consistency/alpha",
+    "psychometric*",
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Alhadiah2021",
+   "year": 2021,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "communication"
+   ],
+   "inst": [
+    "questionnaire"
+   ],
+   "prop": [
+    "reliability (any)",
+    "validity (any)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Ippolito2022",
+   "year": 2022,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy"
+   ],
+   "inst": [
+    "inventory (non-concept)",
+    "survey"
+   ],
+   "prop": [
+    "reliability (any)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Gwynn2024",
+   "year": 2024,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy",
+    "creativity/innovation",
+    "leadership",
+    "entrepreneurship"
+   ],
+   "inst": [
+    "questionnaire"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Agarwal2023",
+   "year": 2023,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "programming/computational",
+    "teamwork/collaboration"
+   ],
+   "inst": [
+    "scale",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "reliability (any)",
+    "validity (any)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Phillips2019b",
+   "year": 2019,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "problem solving",
+    "critical thinking"
+   ],
+   "inst": [
+    "inventory (non-concept)",
+    "survey",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "reliability (any)",
+    "internal consistency/alpha"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Scribner2022",
+   "year": 2022,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "technical/engineering skills (generic)"
+   ],
+   "inst": [
+    "questionnaire",
+    "survey"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Herrera2025",
+   "year": 2025,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [],
+   "prop": [],
+   "roots": [],
+   "comp_groups": [],
+   "inst_groups": [],
+   "period": "2025-2026"
+  },
+  {
+   "key": "GonzalezAravena2025",
+   "year": 2025,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "critical thinking",
+    "teamwork/collaboration",
+    "creativity/innovation"
+   ],
+   "inst": [
+    "survey",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "reliability (any)",
+    "validation (validat*)",
+    "psychometric*",
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Gupta2025",
+   "year": 2025,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "programming/computational",
+    "problem solving"
+   ],
+   "inst": [
+    "rubric"
+   ],
+   "prop": [
+    "validity (any)",
+    "validation (validat*)",
+    "factor analysis (EFA/CFA)",
+    "criterion/convergent/discriminant"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical"
+   ],
+   "inst_groups": [
+    "performance/observation"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Haase2014",
+   "year": 2014,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [
+    "scale",
+    "survey",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [],
+   "comp_groups": [],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Pocsova2020",
+   "year": 2020,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "soft/generic/transversal (generic)"
+   ],
+   "inst": [
+    "questionnaire"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "MotahhariNejad2021",
+   "year": 2021,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "ethics",
+    "employability/professional",
+    "soft/generic/transversal (generic)"
+   ],
+   "inst": [
+    "scale",
+    "survey"
+   ],
+   "prop": [
+    "reliability (any)",
+    "validity (any)",
+    "validation (validat*)",
+    "factor analysis (EFA/CFA)",
+    "measurement invariance"
+   ],
+   "roots": [
+    "Fornell & Larcker (1981)",
+    "Hu & Bentler (1999)"
+   ],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Taskinen2015",
+   "year": 2015,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [
+    "inventory (non-concept)",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "reliability (any)"
+   ],
+   "roots": [],
+   "comp_groups": [],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Ajmal2026",
+   "year": 2026,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "communication",
+    "ethics",
+    "employability/professional"
+   ],
+   "inst": [
+    "questionnaire"
+   ],
+   "prop": [
+    "validation (validat*)",
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Ibrahim2018",
+   "year": 2018,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "teamwork/collaboration",
+    "employability/professional"
+   ],
+   "inst": [
+    "scale",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "reliability (any)",
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Lin2022",
+   "year": 2022,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": false,
+   "comp": [
+    "ethics",
+    "employability/professional"
+   ],
+   "inst": [
+    "scale"
+   ],
+   "prop": [
+    "validity (any)",
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Shekhar2018",
+   "year": 2018,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy",
+    "entrepreneurship"
+   ],
+   "inst": [
+    "scale"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Korkmaz2016",
+   "year": 2016,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy"
+   ],
+   "inst": [
+    "scale"
+   ],
+   "prop": [
+    "reliability (any)",
+    "internal consistency/alpha",
+    "validity (any)",
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Kumar2026",
+   "year": 2026,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "critical thinking"
+   ],
+   "inst": [],
+   "prop": [
+    "reliability (any)",
+    "validation (validat*)",
+    "test-retest/inter-rater"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Carnell2018",
+   "year": 2018,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "employability/professional"
+   ],
+   "inst": [
+    "scale",
+    "survey"
+   ],
+   "prop": [
+    "psychometric*"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Jardim2022",
+   "year": 2022,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "technical/engineering skills (generic)",
+    "teamwork/collaboration",
+    "soft/generic/transversal (generic)"
+   ],
+   "inst": [
+    "inventory (non-concept)"
+   ],
+   "prop": [
+    "reliability (any)",
+    "internal consistency/alpha",
+    "validation (validat*)",
+    "psychometric*",
+    "measurement invariance"
+   ],
+   "roots": [
+    "Hu & Bentler (1999)"
+   ],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Pineda2026",
+   "year": 2026,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "programming/computational",
+    "problem solving",
+    "self-efficacy"
+   ],
+   "inst": [
+    "scale"
+   ],
+   "prop": [
+    "reliability (any)",
+    "internal consistency/alpha",
+    "validation (validat*)",
+    "psychometric*"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Kristianto2025",
+   "year": 2025,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "problem solving",
+    "teamwork/collaboration",
+    "employability/professional"
+   ],
+   "inst": [
+    "questionnaire",
+    "scale",
+    "survey"
+   ],
+   "prop": [
+    "factor analysis (EFA/CFA)",
+    "structural equation modelling"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "FlorianHuaman2026",
+   "year": 2026,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "critical thinking",
+    "self-regulation",
+    "creativity/innovation"
+   ],
+   "inst": [
+    "scale"
+   ],
+   "prop": [
+    "internal consistency/alpha",
+    "validation (validat*)",
+    "psychometric*",
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2025-2026"
+  },
+  {
+   "key": "Yoon2016",
+   "year": 2016,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "self-efficacy",
+    "ethics",
+    "leadership"
+   ],
+   "inst": [
+    "scale"
+   ],
+   "prop": [
+    "reliability (any)",
+    "validation (validat*)",
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [
+    "Kaiser (1960)",
+    "Cattell (1966)"
+   ],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Makhathini2020",
+   "year": 2020,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "soft/generic/transversal (generic)",
+    "creativity/innovation"
+   ],
+   "inst": [
+    "questionnaire"
+   ],
+   "prop": [
+    "reliability (any)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  },
+  {
+   "key": "Sheridan2014",
+   "year": 2014,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "teamwork/collaboration"
+   ],
+   "inst": [
+    "inventory (non-concept)"
+   ],
+   "prop": [
+    "reliability (any)"
+   ],
+   "roots": [],
+   "comp_groups": [
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "DeMara2019",
+   "year": 2019,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [
+    "problem solving",
+    "self-regulation"
+   ],
+   "inst": [
+    "scale"
+   ],
+   "prop": [],
+   "roots": [],
+   "comp_groups": [
+    "technical",
+    "transversal"
+   ],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "JaegerHelton2018",
+   "year": 2018,
+   "type": "conference",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [
+    "rubric"
+   ],
+   "prop": [
+    "validation (validat*)"
+   ],
+   "roots": [],
+   "comp_groups": [],
+   "inst_groups": [
+    "performance/observation"
+   ],
+   "period": "2014-2019"
+  },
+  {
+   "key": "Parkavi2023",
+   "year": 2023,
+   "type": "journal",
+   "has_abstract": true,
+   "has_refs": true,
+   "comp": [],
+   "inst": [
+    "questionnaire",
+    "scale",
+    "self-report/self-assessment"
+   ],
+   "prop": [
+    "factor analysis (EFA/CFA)"
+   ],
+   "roots": [],
+   "comp_groups": [],
+   "inst_groups": [
+    "self-report"
+   ],
+   "period": "2020-2024"
+  }
+ ]
+}

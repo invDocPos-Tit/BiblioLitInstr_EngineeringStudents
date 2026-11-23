@@ -1,0 +1,6 @@
+estrato,n_apc,n_sin,media_apc,media_sin,mediana_apc,mediana_sin,p_mann_whitney
+todos los documentos,92,255,29.9,7.5,10.5,2.0,0.0
+solo artículos de revista,92,102,29.9,13.1,10.5,5.0,0.0062
+revistas 2014-2021,28,33,68.4,27.0,52.5,17.0,0.0002
+revistas 2022-2024,22,25,28.8,11.1,16.5,5.0,0.0004
+revistas 2025-2026,42,44,4.8,4.0,1.0,1.0,0.7195

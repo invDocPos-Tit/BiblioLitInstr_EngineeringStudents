@@ -1,0 +1,58 @@
+{
+ "human_pilot_1": {
+  "n": 50,
+  "agreement": 44,
+  "agreement_pct": 88.0,
+  "cohen_kappa": 0.729,
+  "note": "title and abstract without year; unweighted, before consensus"
+ },
+ "human_pilot_2": {
+  "n": 50,
+  "agreement": 45,
+  "agreement_pct": 90.0,
+  "cohen_kappa": 0.722,
+  "note": "with year; unweighted, before consensus; five discrepancies ratified by consensus (36 EXCLUDE, 14 UNCERTAIN)",
+  "records_in_1083": 47
+ },
+ "ai_two_blind_rounds_on_1083": {
+  "n": 1036,
+  "agreement": 853,
+  "agreement_pct": 82.3,
+  "cohen_kappa_3cat": 0.641,
+  "contrast_types": {
+   "ACUERDO_PLENO": 689,
+   "DECISION": 183,
+   "CRITERIO": 164
+  }
+ },
+ "ai_two_blind_rounds_all_1128": {
+  "n": 1128,
+  "agreement": 928,
+  "agreement_pct": 82.3,
+  "cohen_kappa_3cat": 0.635
+ },
+ "eligible_by_route_352": {
+  "INCLUDE_FIRME": 60,
+  "RESCATE_UNCERTAIN_INCLUIDO_EN_TEXTO_COMPLETO": 116,
+  "RESCATE_EXCLUIDO_POR_A7": 176
+ },
+ "corpus_by_route_347": {
+  "INCLUDE_FIRME": 59,
+  "RESCATE_UNCERTAIN_INCLUIDO_EN_TEXTO_COMPLETO": 116,
+  "RESCATE_EXCLUIDO_POR_A7": 172
+ },
+ "not_eligible_731": {
+  "UNCERTAIN_EXCLUIDO_EN_TEXTO_COMPLETO": 150,
+  "A6:EX_INSTRUMENT": 30,
+  "A5:EX_CONSTRUCT": 89,
+  "EXCLUIDO_PILOTO_HUMANO_SIN_CRITERIO_UNIFICADO": 33,
+  "A4:EX_POP": 280,
+  "UNCERTAIN_SIN_PDF_NO_EVALUADO": 109,
+  "A1:EX_DOC": 29,
+  "A2:EX_YEAR_LANG": 9,
+  "UNCERTAIN_RETIRO_DOCUMENTAL": 2
+ },
+ "not_eligible_by_A1_A6": 437,
+ "not_eligible_A1_A6_not_confirmed": 294,
+ "uncertain_resolved_at_full_text": 377
+}

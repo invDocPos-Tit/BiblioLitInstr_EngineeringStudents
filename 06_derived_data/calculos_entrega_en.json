@@ -1,0 +1,1451 @@
+{
+  "references": {
+    "raw_resolved_occurrences": 16177,
+    "dedup_citations_all_years": 10868,
+    "dedup_citations_1950_2026": 10842,
+    "unique_works_resolved": 9247,
+    "unique_works_referenced_works": 14539,
+    "hu_bentler_docs": 30,
+    "hu_bentler_dup_docs": 24,
+    "hu_bentler_raw_occ": 54
+  },
+  "rpys_dedup": {
+    "year_range": [
+      1951,
+      2026
+    ],
+    "series": [
+      {
+        "year": 1951,
+        "citations": 10,
+        "median_5": 1.0,
+        "deviation": 9.0,
+        "top_count": 10,
+        "concentration_pct": 100.0,
+        "top_work": {
+          "first_author": "Cronbach",
+          "year": 1951,
+          "title": "Coefficient Alpha and the Internal Structure of Tests"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 1952,
+        "citations": 1,
+        "median_5": 4.0,
+        "deviation": -3.0,
+        "top_count": 1,
+        "concentration_pct": 100.0,
+        "top_work": {
+          "first_author": "Böhm",
+          "year": 1952,
+          "title": "A Suggested Interpretation of the Quantum Theory in Terms of \"Hidden\" Variables. I"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 1953,
+        "citations": 0,
+        "median_5": 4.0,
+        "deviation": -4.0,
+        "top_count": 0,
+        "concentration_pct": 0.0,
+        "top_work": {},
+        "incomplete_window": false
+      },
+      {
+        "year": 1954,
+        "citations": 7,
+        "median_5": 4.0,
+        "deviation": 3.0,
+        "top_count": 2,
+        "concentration_pct": 28.6,
+        "top_work": {
+          "first_author": "Bartlett",
+          "year": 1954,
+          "title": "A Note on the Multiplying Factors for Various χ2 Approximations"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 1955,
+        "citations": 4,
+        "median_5": 4.0,
+        "deviation": 0.0,
+        "top_count": 1,
+        "concentration_pct": 25.0,
+        "top_work": {
+          "first_author": "Windle",
+          "year": 1955,
+          "title": "Further Studies of Test-Retest Effect on Personality Questionnaires"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 1956,
+        "citations": 11,
+        "median_5": 4.0,
+        "deviation": 7.0,
+        "top_count": 6,
+        "concentration_pct": 54.5,
+        "top_work": {
+          "first_author": "Bloom",
+          "year": 1956,
+          "title": "Taxonomy of Educational Objectives: The Classification of Educational Goals."
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 1957,
+        "citations": 1,
+        "median_5": 4.0,
+        "deviation": -3.0,
+        "top_count": 1,
+        "concentration_pct": 100.0,
+        "top_work": {
+          "first_author": "Atkinson",
+          "year": 1957,
+          "title": "Motivational determinants of risk-taking behavior."
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 1958,
+        "citations": 1,
+        "median_5": 4.0,
+        "deviation": -3.0,
+        "top_count": 1,
+        "concentration_pct": 100.0,
+        "top_work": {
+          "first_author": "Unknown",
+          "year": 1958,
+          "title": "An introduction to probability theory and its applications"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 1959,
+        "citations": 4,
+        "median_5": 4.0,
+        "deviation": 0.0,
+        "top_count": 1,
+        "concentration_pct": 25.0,
+        "top_work": {
+          "first_author": "White",
+          "year": 1959,
+          "title": "Motivation reconsidered: The concept of competence."
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 1960,
+        "citations": 9,
+        "median_5": 4.0,
+        "deviation": 5.0,
+        "top_count": 7,
+        "concentration_pct": 77.8,
+        "top_work": {
+          "first_author": "Kaiser",
+          "year": 1960,
+          "title": "The Application of Electronic Computers to Factor Analysis"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 1961,
+        "citations": 5,
+        "median_5": 4.0,
+        "deviation": 1.0,
+        "top_count": 2,
+        "concentration_pct": 40.0,
+        "top_work": {
+          "first_author": "McClelland",
+          "year": 1961,
+          "title": "The achieving society."
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 1962,
+        "citations": 3,
+        "median_5": 3.0,
+        "deviation": 0.0,
+        "top_count": 1,
+        "concentration_pct": 33.3,
+        "top_work": {
+          "first_author": "Ennis",
+          "year": 1962,
+          "title": "A Concept of Critical Thinking."
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 1963,
+        "citations": 3,
+        "median_5": 3.0,
+        "deviation": 0.0,
+        "top_count": 1,
+        "concentration_pct": 33.3,
+        "top_work": {
+          "first_author": "White",
+          "year": 1963,
+          "title": "Motivation reconsidered: The concept of competence."
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 1964,
+        "citations": 3,
+        "median_5": 3.0,
+        "deviation": 0.0,
+        "top_count": 1,
+        "concentration_pct": 33.3,
+        "top_work": {
+          "first_author": "Hendrickson",
+          "year": 1964,
+          "title": "PROMAX: A QUICK METHOD FOR ROTATION TO OBLIQUE SIMPLE STRUCTURE"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 1965,
+        "citations": 5,
+        "median_5": 3.0,
+        "deviation": 2.0,
+        "top_count": 1,
+        "concentration_pct": 20.0,
+        "top_work": {
+          "first_author": "Horn",
+          "year": 1965,
+          "title": "A Rationale and Test for the Number of Factors in Factor Analysis"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 1966,
+        "citations": 10,
+        "median_5": 5.0,
+        "deviation": 5.0,
+        "top_count": 5,
+        "concentration_pct": 50.0,
+        "top_work": {
+          "first_author": "Cattell",
+          "year": 1966,
+          "title": "The Scree Test For The Number Of Factors"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 1967,
+        "citations": 3,
+        "median_5": 5.0,
+        "deviation": -2.0,
+        "top_count": 1,
+        "concentration_pct": 33.3,
+        "top_work": {
+          "first_author": "Quade",
+          "year": 1967,
+          "title": "Rank Analysis of Covariance"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 1968,
+        "citations": 5,
+        "median_5": 5.0,
+        "deviation": 0.0,
+        "top_count": 1,
+        "concentration_pct": 20.0,
+        "top_work": {
+          "first_author": "Glaser",
+          "year": 1968,
+          "title": "The Discovery of Grounded Theory; Strategies for Qualitative Research"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 1969,
+        "citations": 5,
+        "median_5": 5.0,
+        "deviation": 0.0,
+        "top_count": 2,
+        "concentration_pct": 40.0,
+        "top_work": {
+          "first_author": "Watson",
+          "year": 1969,
+          "title": "Measurement of social-evaluative anxiety."
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 1970,
+        "citations": 9,
+        "median_5": 5.0,
+        "deviation": 4.0,
+        "top_count": 2,
+        "concentration_pct": 22.2,
+        "top_work": {
+          "first_author": "Kaiser",
+          "year": 1970,
+          "title": "A Second Generation Little Jiffy"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 1971,
+        "citations": 4,
+        "median_5": 5.0,
+        "deviation": -1.0,
+        "top_count": 1,
+        "concentration_pct": 25.0,
+        "top_work": {
+          "first_author": "Fleiss",
+          "year": 1971,
+          "title": "Measuring nominal scale agreement among many raters."
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 1972,
+        "citations": 5,
+        "median_5": 9.0,
+        "deviation": -4.0,
+        "top_count": 1,
+        "concentration_pct": 20.0,
+        "top_work": {
+          "first_author": "Manley",
+          "year": 1972,
+          "title": "Developmental Trends in General and Test Anxiety among Junior and Senior High School Stude"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 1973,
+        "citations": 15,
+        "median_5": 8.0,
+        "deviation": 7.0,
+        "top_count": 2,
+        "concentration_pct": 13.3,
+        "top_work": {
+          "first_author": "Holland",
+          "year": 1973,
+          "title": "Making Vocational Choices: A Theory of Vocational Personalities and Work Environments"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 1974,
+        "citations": 16,
+        "median_5": 8.0,
+        "deviation": 8.0,
+        "top_count": 7,
+        "concentration_pct": 43.8,
+        "top_work": {
+          "first_author": "Kaiser",
+          "year": 1974,
+          "title": "An Index of Factorial Simplicity"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 1975,
+        "citations": 8,
+        "median_5": 15.0,
+        "deviation": -7.0,
+        "top_count": 1,
+        "concentration_pct": 12.5,
+        "top_work": {
+          "first_author": "Tinto",
+          "year": 1975,
+          "title": "Dropout from Higher Education: A Theoretical Synthesis of Recent Research"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 1976,
+        "citations": 7,
+        "median_5": 14.0,
+        "deviation": -7.0,
+        "top_count": 1,
+        "concentration_pct": 14.3,
+        "top_work": {
+          "first_author": "Marton",
+          "year": 1976,
+          "title": "ON QUALITATIVE DIFFERENCES IN LEARNING: I—OUTCOME AND PROCESS*"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 1977,
+        "citations": 34,
+        "median_5": 9.0,
+        "deviation": 25.0,
+        "top_count": 22,
+        "concentration_pct": 64.7,
+        "top_work": {
+          "first_author": "Bandura",
+          "year": 1977,
+          "title": "Self-efficacy: Toward a unifying theory of behavioral change."
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 1978,
+        "citations": 14,
+        "median_5": 14.0,
+        "deviation": 0.0,
+        "top_count": 4,
+        "concentration_pct": 28.6,
+        "top_work": {
+          "first_author": "Bandura",
+          "year": 1978,
+          "title": "Self-efficacy: Toward a unifying theory of behavioral change"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 1979,
+        "citations": 9,
+        "median_5": 19.0,
+        "deviation": -10.0,
+        "top_count": 2,
+        "concentration_pct": 22.2,
+        "top_work": {
+          "first_author": "Flavell",
+          "year": 1979,
+          "title": "Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry."
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 1980,
+        "citations": 19,
+        "median_5": 19.0,
+        "deviation": 0.0,
+        "top_count": 9,
+        "concentration_pct": 47.4,
+        "top_work": {
+          "first_author": "Bentler",
+          "year": 1980,
+          "title": "Significance tests and goodness of fit in the analysis of covariance structures."
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 1981,
+        "citations": 33,
+        "median_5": 26.0,
+        "deviation": 7.0,
+        "top_count": 17,
+        "concentration_pct": 51.5,
+        "top_work": {
+          "first_author": "Fornell",
+          "year": 1981,
+          "title": "Evaluating Structural Equation Models with Unobservable Variables and Measurement Error"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 1982,
+        "citations": 26,
+        "median_5": 26.0,
+        "deviation": 0.0,
+        "top_count": 5,
+        "concentration_pct": 19.2,
+        "top_work": {
+          "first_author": "Bandura",
+          "year": 1982,
+          "title": "Self-efficacy mechanism in human agency."
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 1983,
+        "citations": 37,
+        "median_5": 33.0,
+        "deviation": 4.0,
+        "top_count": 12,
+        "concentration_pct": 32.4,
+        "top_work": {
+          "first_author": "Kolb",
+          "year": 1983,
+          "title": "Experiential Learning : Experience as the Source of Learning and Development"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 1984,
+        "citations": 19,
+        "median_5": 37.0,
+        "deviation": -18.0,
+        "top_count": 3,
+        "concentration_pct": 15.8,
+        "top_work": {
+          "first_author": "Stewart",
+          "year": 1984,
+          "title": "The reflective practitioner: How professionals think in action"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 1985,
+        "citations": 39,
+        "median_5": 37.0,
+        "deviation": 2.0,
+        "top_count": 8,
+        "concentration_pct": 20.5,
+        "top_work": {
+          "first_author": "Bandura",
+          "year": 1985,
+          "title": "Social Foundations of Thought and Action : A Social Cognitive Theory"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 1986,
+        "citations": 39,
+        "median_5": 39.0,
+        "deviation": 0.0,
+        "top_count": 6,
+        "concentration_pct": 15.4,
+        "top_work": {
+          "first_author": "Lent",
+          "year": 1986,
+          "title": "Self-efficacy in the prediction of academic performance and perceived career options."
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 1987,
+        "citations": 33,
+        "median_5": 39.0,
+        "deviation": -6.0,
+        "top_count": 2,
+        "concentration_pct": 6.1,
+        "top_work": {
+          "first_author": "CLEMENT",
+          "year": 1987,
+          "title": "The self‐efficacy expectations and occupational preferences of females and males"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 1988,
+        "citations": 40,
+        "median_5": 40.0,
+        "deviation": 0.0,
+        "top_count": 4,
+        "concentration_pct": 10.0,
+        "top_work": {
+          "first_author": "Anderson",
+          "year": 1988,
+          "title": "Structural equation modeling in practice: A review and recommended two-step approach."
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 1989,
+        "citations": 51,
+        "median_5": 51.0,
+        "deviation": 0.0,
+        "top_count": 6,
+        "concentration_pct": 11.8,
+        "top_work": {
+          "first_author": "Muller",
+          "year": 1989,
+          "title": "Statistical Power Analysis for the Behavioral Sciences"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 1990,
+        "citations": 57,
+        "median_5": 51.0,
+        "deviation": 6.0,
+        "top_count": 8,
+        "concentration_pct": 14.0,
+        "top_work": {
+          "first_author": "Pintrich",
+          "year": 1990,
+          "title": "Motivational and self-regulated learning components of classroom academic performance."
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 1991,
+        "citations": 70,
+        "median_5": 57.0,
+        "deviation": 13.0,
+        "top_count": 9,
+        "concentration_pct": 12.9,
+        "top_work": {
+          "first_author": "Ajzen",
+          "year": 1991,
+          "title": "The theory of planned behavior"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 1992,
+        "citations": 49,
+        "median_5": 60.0,
+        "deviation": -11.0,
+        "top_count": 4,
+        "concentration_pct": 8.2,
+        "top_work": {
+          "first_author": "Zimmerman",
+          "year": 1992,
+          "title": "Self-Motivation for Academic Attainment: The Role of Self-Efficacy Beliefs and Personal Go"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 1993,
+        "citations": 63,
+        "median_5": 60.0,
+        "deviation": 3.0,
+        "top_count": 6,
+        "concentration_pct": 9.5,
+        "top_work": {
+          "first_author": "Pintrich",
+          "year": 1993,
+          "title": "Reliability and Predictive Validity of the Motivated Strategies for Learning Questionnaire"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 1994,
+        "citations": 60,
+        "median_5": 60.0,
+        "deviation": 0.0,
+        "top_count": 10,
+        "concentration_pct": 16.7,
+        "top_work": {
+          "first_author": "Lent",
+          "year": 1994,
+          "title": "Toward a Unifying Social Cognitive Theory of Career and Academic Interest, Choice, and Per"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 1995,
+        "citations": 55,
+        "median_5": 63.0,
+        "deviation": -8.0,
+        "top_count": 5,
+        "concentration_pct": 9.1,
+        "top_work": {
+          "first_author": "Pajares",
+          "year": 1995,
+          "title": "Mathematics self-efficacy and mathematics performances: The need for specificity of assess"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 1996,
+        "citations": 87,
+        "median_5": 70.0,
+        "deviation": 17.0,
+        "top_count": 8,
+        "concentration_pct": 9.2,
+        "top_work": {
+          "first_author": "Pajares",
+          "year": 1996,
+          "title": "Self-Efficacy Beliefs in Academic Settings"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 1997,
+        "citations": 70,
+        "median_5": 87.0,
+        "deviation": -17.0,
+        "top_count": 13,
+        "concentration_pct": 18.6,
+        "top_work": {
+          "first_author": "Unknown",
+          "year": 1997,
+          "title": "Self-efficacy: the exercise of control"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 1998,
+        "citations": 87,
+        "median_5": 87.0,
+        "deviation": 0.0,
+        "top_count": 9,
+        "concentration_pct": 10.3,
+        "top_work": {
+          "first_author": "Kline",
+          "year": 1998,
+          "title": "Principles and Practice of Structural Equation Modeling"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 1999,
+        "citations": 128,
+        "median_5": 128.0,
+        "deviation": 0.0,
+        "top_count": 30,
+        "concentration_pct": 23.4,
+        "top_work": {
+          "first_author": "Hu",
+          "year": 1999,
+          "title": "Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria ve"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 2000,
+        "citations": 200,
+        "median_5": 151.0,
+        "deviation": 49.0,
+        "top_count": 7,
+        "concentration_pct": 3.5,
+        "top_work": {
+          "first_author": "Lundberg",
+          "year": 2000,
+          "title": "Toward an Emotion Nuanced Sensemaking Perspective of Organizational Consultation: Consulti"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 2001,
+        "citations": 151,
+        "median_5": 151.0,
+        "deviation": 0.0,
+        "top_count": 7,
+        "concentration_pct": 4.6,
+        "top_work": {
+          "first_author": "Ponton",
+          "year": 2001,
+          "title": "Understanding the Role of Self‐Efficacy in Engineering Education"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 2002,
+        "citations": 151,
+        "median_5": 173.0,
+        "deviation": -22.0,
+        "top_count": 6,
+        "concentration_pct": 4.0,
+        "top_work": {
+          "first_author": "Zimmerman",
+          "year": 2002,
+          "title": "Becoming a Self-Regulated Learner: An Overview"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 2003,
+        "citations": 173,
+        "median_5": 173.0,
+        "deviation": 0.0,
+        "top_count": 9,
+        "concentration_pct": 5.2,
+        "top_work": {
+          "first_author": "Podsakoff",
+          "year": 2003,
+          "title": "Common method biases in behavioral research: A critical review of the literature and recom"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 2004,
+        "citations": 209,
+        "median_5": 209.0,
+        "deviation": 0.0,
+        "top_count": 13,
+        "concentration_pct": 6.2,
+        "top_work": {
+          "first_author": "Prince",
+          "year": 2004,
+          "title": "Does Active Learning Work? A Review of the Research"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 2005,
+        "citations": 229,
+        "median_5": 229.0,
+        "deviation": 0.0,
+        "top_count": 11,
+        "concentration_pct": 4.8,
+        "top_work": {
+          "first_author": "Shuman",
+          "year": 2005,
+          "title": "The ABET “Professional Skills” - Can They Be Taught? Can They Be Assessed?"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 2006,
+        "citations": 293,
+        "median_5": 265.0,
+        "deviation": 28.0,
+        "top_count": 11,
+        "concentration_pct": 3.8,
+        "top_work": {
+          "first_author": "Prince",
+          "year": 2006,
+          "title": "Inductive Teaching and Learning Methods: Definitions, Comparisons, and Research Bases"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 2007,
+        "citations": 287,
+        "median_5": 287.0,
+        "deviation": 0.0,
+        "top_count": 11,
+        "concentration_pct": 3.8,
+        "top_work": {
+          "first_author": "Unknown",
+          "year": 2007,
+          "title": "Confirmatory factor analysis for applied research"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 2008,
+        "citations": 265,
+        "median_5": 293.0,
+        "deviation": -28.0,
+        "top_count": 7,
+        "concentration_pct": 2.6,
+        "top_work": {
+          "first_author": "Hooper",
+          "year": 2008,
+          "title": "Structural Equation Modelling: Guidelines for Determining Model Fit"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 2009,
+        "citations": 362,
+        "median_5": 309.0,
+        "deviation": 53.0,
+        "top_count": 11,
+        "concentration_pct": 3.0,
+        "top_work": {
+          "first_author": "Marra",
+          "year": 2009,
+          "title": "Women Engineering Students and Self‐Efficacy: A Multi‐Year, Multi‐Institution Study of Wom"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 2010,
+        "citations": 309,
+        "median_5": 319.0,
+        "deviation": -10.0,
+        "top_count": 13,
+        "concentration_pct": 4.2,
+        "top_work": {
+          "first_author": "Carberry",
+          "year": 2010,
+          "title": "Measuring Engineering Design Self‐Efficacy"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 2011,
+        "citations": 319,
+        "median_5": 362.0,
+        "deviation": -43.0,
+        "top_count": 6,
+        "concentration_pct": 1.9,
+        "top_work": {
+          "first_author": "Fantz",
+          "year": 2011,
+          "title": "Pre‐Collegiate Factors Influencing the Self‐Efficacy of Engineering Students"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 2012,
+        "citations": 380,
+        "median_5": 371.0,
+        "deviation": 9.0,
+        "top_count": 15,
+        "concentration_pct": 3.9,
+        "top_work": {
+          "first_author": "Tabri",
+          "year": 2012,
+          "title": "Principles and Practice of Structural Equation Modeling"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 2013,
+        "citations": 381,
+        "median_5": 380.0,
+        "deviation": 1.0,
+        "top_count": 5,
+        "concentration_pct": 1.3,
+        "top_work": {
+          "first_author": "Cohen",
+          "year": 2013,
+          "title": "Statistical Power Analysis for the Behavioral Sciences"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 2014,
+        "citations": 371,
+        "median_5": 381.0,
+        "deviation": -10.0,
+        "top_count": 9,
+        "concentration_pct": 2.4,
+        "top_work": {
+          "first_author": "Freeman",
+          "year": 2014,
+          "title": "Active learning increases student performance in science, engineering, and mathematics"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 2015,
+        "citations": 381,
+        "median_5": 381.0,
+        "deviation": 0.0,
+        "top_count": 6,
+        "concentration_pct": 1.6,
+        "top_work": {
+          "first_author": "Honicke",
+          "year": 2015,
+          "title": "The influence of academic self-efficacy on academic performance: A systematic review"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 2016,
+        "citations": 448,
+        "median_5": 448.0,
+        "deviation": 0.0,
+        "top_count": 24,
+        "concentration_pct": 5.4,
+        "top_work": {
+          "first_author": "Mamaril",
+          "year": 2016,
+          "title": "Measuring Undergraduate Students' Engineering Self‐Efficacy: A Validation Study"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 2017,
+        "citations": 476,
+        "median_5": 476.0,
+        "deviation": 0.0,
+        "top_count": 9,
+        "concentration_pct": 1.9,
+        "top_work": {
+          "first_author": "Chan",
+          "year": 2017,
+          "title": "A Validated and Reliable Instrument Investigating Engineering Students’ Perceptions of Com"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 2018,
+        "citations": 519,
+        "median_5": 519.0,
+        "deviation": 0.0,
+        "top_count": 5,
+        "concentration_pct": 1.0,
+        "top_work": {
+          "first_author": "Boateng",
+          "year": 2018,
+          "title": "Best Practices for Developing and Validating Scales for Health, Social, and Behavioral Res"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 2019,
+        "citations": 541,
+        "median_5": 519.0,
+        "deviation": 22.0,
+        "top_count": 9,
+        "concentration_pct": 1.7,
+        "top_work": {
+          "first_author": "Cruz",
+          "year": 2019,
+          "title": "Evaluation of competency methods in engineering education: a systematic review"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 2020,
+        "citations": 770,
+        "median_5": 519.0,
+        "deviation": 251.0,
+        "top_count": 3,
+        "concentration_pct": 0.4,
+        "top_work": {
+          "first_author": "Ro",
+          "year": 2020,
+          "title": "Measuring Engineering Students’ Contextual Competence"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 2021,
+        "citations": 517,
+        "median_5": 522.0,
+        "deviation": -5.0,
+        "top_count": 4,
+        "concentration_pct": 0.8,
+        "top_work": {
+          "first_author": "Rodríguez",
+          "year": 2021,
+          "title": "Teaching Soft Skills in Engineering Education: An European Perspective"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 2022,
+        "citations": 437,
+        "median_5": 522.0,
+        "deviation": -85.0,
+        "top_count": 3,
+        "concentration_pct": 0.7,
+        "top_work": {
+          "first_author": "Wang",
+          "year": 2022,
+          "title": "Measuring user competence in using artificial intelligence: validity and reliability of ar"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 2023,
+        "citations": 522,
+        "median_5": 517.0,
+        "deviation": 5.0,
+        "top_count": 5,
+        "concentration_pct": 1.0,
+        "top_work": {
+          "first_author": "Zhang",
+          "year": 2023,
+          "title": "A study of the impact of project-based learning on student learning effects: a meta-analys"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 2024,
+        "citations": 536,
+        "median_5": 437.0,
+        "deviation": 99.0,
+        "top_count": 3,
+        "concentration_pct": 0.6,
+        "top_work": {
+          "first_author": "Power",
+          "year": 2024,
+          "title": "Self-efficacy development in undergraduate engineering education"
+        },
+        "incomplete_window": true
+      },
+      {
+        "year": 2025,
+        "citations": 296,
+        "median_5": 409.0,
+        "deviation": -113.0,
+        "top_count": 2,
+        "concentration_pct": 0.7,
+        "top_work": {
+          "first_author": "Lu",
+          "year": 2025,
+          "title": "A Meta-analysis of the Effectiveness of Problem-based Learning on Critical Thinking"
+        },
+        "incomplete_window": true
+      },
+      {
+        "year": 2026,
+        "citations": 46,
+        "median_5": 296.0,
+        "deviation": -250.0,
+        "top_count": 1,
+        "concentration_pct": 2.2,
+        "top_work": {
+          "first_author": "Guan",
+          "year": 2026,
+          "title": "The relationship between mobile phone use and creative ideation among college students: Th"
+        },
+        "incomplete_window": true
+      }
+    ],
+    "roots_ge_50pct": [
+      {
+        "year": 1951,
+        "citations": 10,
+        "median_5": 1.0,
+        "deviation": 9.0,
+        "top_count": 10,
+        "concentration_pct": 100.0,
+        "top_work": {
+          "first_author": "Cronbach",
+          "year": 1951,
+          "title": "Coefficient Alpha and the Internal Structure of Tests"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 1956,
+        "citations": 11,
+        "median_5": 4.0,
+        "deviation": 7.0,
+        "top_count": 6,
+        "concentration_pct": 54.5,
+        "top_work": {
+          "first_author": "Bloom",
+          "year": 1956,
+          "title": "Taxonomy of Educational Objectives: The Classification of Educational Goals."
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 1960,
+        "citations": 9,
+        "median_5": 4.0,
+        "deviation": 5.0,
+        "top_count": 7,
+        "concentration_pct": 77.8,
+        "top_work": {
+          "first_author": "Kaiser",
+          "year": 1960,
+          "title": "The Application of Electronic Computers to Factor Analysis"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 1966,
+        "citations": 10,
+        "median_5": 5.0,
+        "deviation": 5.0,
+        "top_count": 5,
+        "concentration_pct": 50.0,
+        "top_work": {
+          "first_author": "Cattell",
+          "year": 1966,
+          "title": "The Scree Test For The Number Of Factors"
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 1977,
+        "citations": 34,
+        "median_5": 9.0,
+        "deviation": 25.0,
+        "top_count": 22,
+        "concentration_pct": 64.7,
+        "top_work": {
+          "first_author": "Bandura",
+          "year": 1977,
+          "title": "Self-efficacy: Toward a unifying theory of behavioral change."
+        },
+        "incomplete_window": false
+      },
+      {
+        "year": 1981,
+        "citations": 33,
+        "median_5": 26.0,
+        "deviation": 7.0,
+        "top_count": 17,
+        "concentration_pct": 51.5,
+        "top_work": {
+          "first_author": "Fornell",
+          "year": 1981,
+          "title": "Evaluating Structural Equation Models with Unobservable Variables and Measurement Error"
+        },
+        "incomplete_window": false
+      }
+    ],
+    "concordance_bibliometrix": {
+      "source_bibliometrix": "G:\\AUTOMATIZACIONES\\biblio140302_11\\validacion_externa\\bibliometrix\\11_rpys_por_ano.csv",
+      "common_years": 73,
+      "sum_dedup_common_years": 9964,
+      "sum_bibliometrix_common_years": 9861,
+      "spearman_rho": 1.0,
+      "p_value": 6.2123394980831705e-145
+    }
+  },
+  "curated_keywords": {
+    "docs_with_author_keywords": 313,
+    "unique_canonical_terms": 2338,
+    "top_20": [
+      [
+        "engineering education",
+        215
+      ],
+      [
+        "student",
+        156
+      ],
+      [
+        "curriculum",
+        72
+      ],
+      [
+        "education computing",
+        68
+      ],
+      [
+        "teaching",
+        60
+      ],
+      [
+        "self efficacy",
+        52
+      ],
+      [
+        "engineering student",
+        51
+      ],
+      [
+        "higher education",
+        49
+      ],
+      [
+        "survey",
+        43
+      ],
+      [
+        "reliability",
+        37
+      ],
+      [
+        "problem solving",
+        36
+      ],
+      [
+        "factor analysis",
+        34
+      ],
+      [
+        "professional aspects",
+        29
+      ],
+      [
+        "artificial intelligence",
+        28
+      ],
+      [
+        "undergraduate students",
+        26
+      ],
+      [
+        "validity",
+        26
+      ],
+      [
+        "education",
+        26
+      ],
+      [
+        "critical thinking",
+        23
+      ],
+      [
+        "engineering",
+        22
+      ],
+      [
+        "engineering research",
+        21
+      ]
+    ]
+  },
+  "period_split": {
+    "2014_2024": {
+      "Journal Article": 108,
+      "Conference Paper": 87
+    },
+    "2025_2026": {
+      "Journal Article": 86,
+      "Conference Paper": 66
+    }
+  },
+  "self_efficacy_sensitivity": {
+    "n_se": 95,
+    "pct_se": 27.4,
+    "n_non_se": 252,
+    "pct_non_se": 72.6,
+    "non_se_conference_pct": 44.0,
+    "non_se_2025_2026_pct": 45.2,
+    "hu_bentler_in_se": 13,
+    "hu_bentler_in_non_se": 17
+  },
+  "top5_brokers": [
+    {
+      "key": "Mamaril2016",
+      "title": "Measuring Undergraduate Students' Engineering Self-Efficacy: A Validation Study.",
+      "year": 2016,
+      "citations": 351,
+      "betweenness": 0.241705,
+      "community": 2,
+      "connected_communities": [
+        1,
+        3,
+        4,
+        5,
+        6
+      ],
+      "n_communities_bridged": 5,
+      "interdisciplinarity_score": 0.55,
+      "burt_constraint": 0.0305
+    },
+    {
+      "key": "Lee2026",
+      "title": "Development and validation of Generative AI Competence Scale (GenAIComp) among university students",
+      "year": 2026,
+      "citations": 33,
+      "betweenness": 0.188433,
+      "community": 3,
+      "connected_communities": [
+        1,
+        2,
+        4,
+        5,
+        6
+      ],
+      "n_communities_bridged": 5,
+      "interdisciplinarity_score": 0.625,
+      "burt_constraint": 0.0368
+    },
+    {
+      "key": "Power2026",
+      "title": "Engineering self-efficacy development in undergraduates: evolving sources",
+      "year": 2026,
+      "citations": 20,
+      "betweenness": 0.149826,
+      "community": 2,
+      "connected_communities": [
+        1,
+        3,
+        4,
+        5,
+        6
+      ],
+      "n_communities_bridged": 5,
+      "interdisciplinarity_score": 0.4348,
+      "burt_constraint": 0.0347
+    },
+    {
+      "key": "Chan2017",
+      "title": "A Validated and Reliable Instrument Investigating Engineering Students' Perceptions of Competency in Generic Skills.",
+      "year": 2017,
+      "citations": 130,
+      "betweenness": 0.103087,
+      "community": 4,
+      "connected_communities": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "n_communities_bridged": 4,
+      "interdisciplinarity_score": 0.8308,
+      "burt_constraint": 0.0404
+    },
+    {
+      "key": "LeChasseur2025",
+      "title": "Validity of a self-report measure of student learning in active learning statics courses.",
+      "year": 2025,
+      "citations": 9,
+      "betweenness": 0.083391,
+      "community": 1,
+      "connected_communities": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "n_communities_bridged": 4,
+      "interdisciplinarity_score": 0.6582,
+      "burt_constraint": 0.034
+    }
+  ],
+  "top5_brokers_meta": {
+    "Mamaril2016": {
+      "authors": [
+        "Mamaril, Natasha A.",
+        "Usher, Ellen L.",
+        "Li, Caihong R.",
+        "Economy, D. Ross",
+        "Kennedy, Marian S."
+      ],
+      "year": 2016,
+      "title": "Measuring Undergraduate Students' Engineering Self-Efficacy: A Validation Study.",
+      "journal": "Journal of Engineering Education",
+      "volume": "105",
+      "issue": "2",
+      "pages": "366-395",
+      "doi": "10.1002/jee.20121"
+    },
+    "Chan2017": {
+      "authors": [
+        "Chan, Cecilia K. Y.",
+        "Zhao, Yue",
+        "Luk, Lillian Y. Y."
+      ],
+      "year": 2017,
+      "title": "A Validated and Reliable Instrument Investigating Engineering Students' Perceptions of Competency in Generic Skills.",
+      "journal": "Journal of Engineering Education",
+      "volume": "106",
+      "issue": "2",
+      "pages": "299-325",
+      "doi": "10.1002/jee.20165"
+    },
+    "Power2026": {
+      "authors": [
+        "Power, JR",
+        "Tanner, D",
+        "Egan, V",
+        "Simmie, GM",
+        "Buckley, J"
+      ],
+      "year": 2026,
+      "title": "Engineering self-efficacy development in undergraduates: evolving sources",
+      "journal": "European Journal of Engineering Education",
+      "volume": "51",
+      "issue": "1",
+      "pages": "1-24",
+      "doi": "10.1080/03043797.2025.2468350"
+    },
+    "Lee2026": {
+      "authors": [
+        "Lee, S.C.",
+        "Baby, T.",
+        "Vongvit, R.",
+        "Lee, J.",
+        "Kim, Y.W.",
+        "Cha, M.C.",
+        "Yoon, S.H."
+      ],
+      "year": 2026,
+      "title": "Development and validation of Generative AI Competence Scale (GenAIComp) among university students",
+      "journal": "Technology in Society",
+      "volume": "84",
+      "issue": "nan",
+      "pages": "103059",
+      "doi": "10.1016/j.techsoc.2025.103059"
+    },
+    "LeChasseur2025": {
+      "authors": [
+        "LeChasseur, Kimberly",
+        "Wodin-Schwartz, Sarah Jane",
+        "Sloboda, Andrew",
+        "Powell, Adam"
+      ],
+      "year": 2025,
+      "title": "Validity of a self-report measure of student learning in active learning statics courses.",
+      "journal": "International Journal of Mechanical Engineering Education",
+      "volume": "53",
+      "issue": "4",
+      "pages": "751-771",
+      "doi": "10.1177/03064190241253509"
+    }
+  }
+}

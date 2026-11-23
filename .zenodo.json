@@ -1,0 +1,27 @@
+{
+ "title": "Data and code for: Bibliometric profile of the literature on instruments for measuring engineering students' competencies, 2014–2026",
+ "upload_type": "dataset",
+ "license": "cc-by-4.0",
+ "access_right": "open",
+ "creators": [
+  {
+   "name": "Segura Altamirano, Segundo Francisco",
+   "affiliation": "Universidad César Vallejo",
+   "orcid": "0000-0002-0103-7222"
+  },
+  {
+   "name": "Hernández Fernández, Bertila",
+   "affiliation": "Universidad César Vallejo",
+   "orcid": "0000-0002-4433-5019"
+  }
+ ],
+ "description": "Protocol and search strings, screening outcome of each of the 1,083 screened records, identification of the 347 documents (DOI and title), outputs of the bibliometric analysis tool and a snapshot of its source code, derived variables and scripts for the term analysis of the search-string blocks and the association models (including a script that refits the models from the derived variables alone), and the figures and table data of the article. Abstracts, keywords and full records exported from Scopus and Web of Science are not included because the terms of those databases do not allow their redistribution.",
+ "keywords": [
+  "engineering education",
+  "competencies",
+  "measurement instruments",
+  "bibliometrics",
+  "self-efficacy"
+ ],
+ "language": "eng"
+}

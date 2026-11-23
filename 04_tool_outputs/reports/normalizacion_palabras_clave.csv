@@ -1,0 +1,162 @@
+variante,canonico,regla,frecuencia_variante
+3d-printing,3d printing,guion / espacio,1
+academic achievements,academic achievement,singular / plural,3
+ahelo,assessment of higher education learning outcome,sigla aprendida del corpus (ahelo = assessment of higher education learning outcome),1
+ambiguity tolerances,ambiguity tolerance,singular / plural,1
+applied sciences,applied science,singular / plural,1
+argumentation for engineering students,argumentation for engineering student,singular / plural,1
+automotives,automotive,singular / plural,1
+bim education,building information modeling education,"sigla aprendida del corpus, dentro de un termino",1
+binary interaction parameters,binary interaction parameter,singular / plural,1
+capstone experiences,capstone experience,singular / plural,2
+case-studies,case studies,guion / espacio,3
+cbl,challenge-based learning,sigla aprendida del corpus (cbl = challenge-based learning),1
+classical controllers,classical controller,singular / plural,1
+cognitive loads,cognitive load,singular / plural,1
+cognitive skills,cognitive skill,singular / plural,3
+community colleges,community college,singular / plural,1
+community-partnered projects,community-partnered project,singular / plural,1
+comparative evaluations,comparative evaluation,singular / plural,1
+competence models,competence model,singular / plural,2
+competencies,competency,singular / plural,2
+competency based education,competency-based education,guion / espacio,1
+computational thinkings,computational thinking,singular / plural,1
+computer aided design,computer-aided design,guion / espacio,1
+computer-based instructions,computer-based instruction,singular / plural,1
+concept inventories,concept inventory,singular / plural,2
+conceptual frameworks,conceptual framework,singular / plural,1
+confirmatory factor analyses,confirmatory factor analysis,singular / plural,2
+cronbach's alphas,cronbach's alpha,singular / plural,1
+cross-sectional studies,cross-sectional study,singular / plural,1
+decision-making,decision making,guion / espacio,1
+differential systems,differential system,singular / plural,1
+digital literacies,digital literacy,singular / plural,1
+discussion forums,discussion forum,singular / plural,1
+drl simulator,drone racing league simulator,"sigla aprendida del corpus, dentro de un termino",1
+"education, graduate",graduate education,inversion con coma,1
+educational competitions,educational competition,singular / plural,1
+educational innovations,educational innovation,singular / plural,4
+emotion managements,emotion management,singular / plural,1
+empirical studies,empirical study,singular / plural,1
+employers,employer,singular / plural,1
+empowering students,empowering student,singular / plural,1
+engineering ambassadors,engineering ambassador,singular / plural,1
+engineering assessments,engineering assessment,singular / plural,1
+engineering design skills,engineering design skill,singular / plural,3
+engineering education reforms,engineering education reform,singular / plural,1
+engineering self-efficacy measures,engineering self-efficacy measure,singular / plural,1
+engineering students,engineering student,singular / plural,50
+engineering thinkings,engineering thinking,singular / plural,1
+entrepreneurial competencies,entrepreneurial competency,singular / plural,5
+entrepreneurial intentions,entrepreneurial intention,singular / plural,1
+esp,english for specific purpose,sigla aprendida del corpus (esp = english for specific purpose),1
+evaluation methodologies,evaluation methodology,singular / plural,1
+expectancy value theory,expectancy-value theory,guion / espacio,1
+first year engineering,first-year engineering,guion / espacio,1
+first-year,first year,guion / espacio,1
+flipped classrooms,flipped classroom,singular / plural,1
+foreign language courses,foreign language course,singular / plural,1
+fpv drones,fpv drone,singular / plural,1
+fundamental teamwork skills,fundamental teamwork skill,singular / plural,1
+games,game,singular / plural,4
+genai,generative artificial intelligence,sigla aprendida del corpus (genai = generative ai),1
+genaicomp,generative ai competence scale,sigla aprendida del corpus (genaicomp = generative ai competence scale),1
+gender-differences,gender differences,guion / espacio,2
+generative ai,generative artificial intelligence,"sigla aprendida del corpus, dentro de un termino",11
+generic competencies,generic competency,singular / plural,2
+generic skills,generic skill,singular / plural,2
+graduate students,graduate student,singular / plural,8
+graduates,graduate,singular / plural,1
+haptic feedbacks,haptic feedback,singular / plural,1
+heterogeneous groups,heterogeneous group,singular / plural,1
+high-school students,high school students,guion / espacio,1
+hong-kong,hong kong,guion / espacio,1
+ic-pbl,industry-coupled problem-based learning,sigla aprendida del corpus (ic-pbl = industry-coupled problem-based learning),1
+ict,information and communication technology,sigla aprendida del corpus (ict = information and communication technology),1
+icts,information and communication technology,singular / plural,1
+ideological and political educations,ideological and political education,singular / plural,1
+industries,industry,singular / plural,7
+instructional designs,instructional design,singular / plural,1
+intelligent teaching systems,intelligent teaching system,singular / plural,1
+internships,internship,singular / plural,1
+interviews,interview,singular / plural,3
+lab reports,lab report,singular / plural,1
+large language models,large language model,singular / plural,3
+learner autonomies,learner autonomy,singular / plural,1
+learning strategies,learning strategy,singular / plural,2
+likert scales,likert scale,singular / plural,7
+llm,large language model,sigla aprendida del corpus (llm = large language model),1
+manufacturing processes,manufacturing process,singular / plural,1
+mathematical models,mathematical model,singular / plural,3
+measuring abet outcomes,measuring abet outcome,singular / plural,1
+mixed methods,mixed method,singular / plural,1
+mixed-methods,mixed method,guion / espacio,1
+mixed-methods research,mixed methods research,guion / espacio,1
+model-eliciting activities,model eliciting activities,guion / espacio,1
+organizations,organization,singular / plural,3
+peer assessment perceptions,peer assessment perception,singular / plural,1
+peer evaluations,peer evaluation,singular / plural,1
+performance measurements,performance measurement,singular / plural,1
+personality traits,personality trait,singular / plural,3
+pro-environmental behaviors,pro-environmental behavior,singular / plural,1
+problem solving skills,problem-solving skills,guion / espacio,1
+problem-based learning,problem based learning,guion / espacio,4
+problem-solving,problem solving,guion / espacio,12
+procedural prompts,procedural prompt,singular / plural,1
+project based learning,project-based learning,guion / espacio,8
+questionnaire designs,questionnaire design,singular / plural,1
+questionnaires,questionnaire,singular / plural,13
+real-time controllers,real-time controller,singular / plural,1
+research competencies,research competency,singular / plural,1
+research methodologies,research methodology,singular / plural,1
+research-oriented teaching,research oriented teaching,guion / espacio,1
+scientific argumentation skills,scientific argumentation skill,singular / plural,1
+self-assessment perceptions,self-assessment perception,singular / plural,1
+self-determination theories,self-determination theory,singular / plural,2
+self-efficacy,self efficacy,guion / espacio,25
+self-reflection,self reflection,guion / espacio,1
+skills,skill,singular / plural,2
+sms platforms,sms platform,singular / plural,1
+social cognitive theories,social cognitive theory,singular / plural,1
+soft skills,soft skill,singular / plural,15
+stakeholders,stakeholder,singular / plural,2
+student experiences,student experience,singular / plural,1
+student perceptions,student perception,singular / plural,7
+student persistences,student persistence,singular / plural,1
+student surveys,student survey,singular / plural,6
+students,student,singular / plural,153
+surveys,survey,singular / plural,42
+sustainability competences,sustainability competence,singular / plural,1
+sustainability competencies,sustainability competency,singular / plural,3
+tam,technology acceptance model,sigla aprendida del corpus (tam = technology acceptance model),1
+taxonomies,taxonomy,singular / plural,1
+teaching innovations,teaching innovation,singular / plural,1
+test-retest reliability,test retest reliability,guion / espacio,1
+tvet,technical and vocational education and training,sigla aprendida del corpus (tvet = technical and vocational education and training),1
+undergraduates,undergraduate,singular / plural,7
+universities,university,singular / plural,2
+university students,university student,singular / plural,4
+video-based learning,video based learning,guion / espacio,1
+virtual simulations,virtual simulation,singular / plural,1
+work-based learning,work based learning,guion / espacio,1
+written communications,written communication,singular / plural,2
+bme,,"sigla AMBIGUA, no se aplica: biomedical engineering | biomedical engineering program",
+cbe,,"sigla AMBIGUA, no se aplica: competency-based education | competency-based educational",
+ct,,"sigla AMBIGUA, no se aplica: computational thinking | stem-computational thinking",
+dt,,"sigla AMBIGUA, no se aplica: design thinking | digital twin",
+e-ese,,"sigla AMBIGUA, no se aplica: engineering-entrepreneurial self-efficacy | entrepreneurial self-efficacy",
+efa,,"sigla AMBIGUA, no se aplica: explanatory factor analysis | exploratory factor analysis",
+ei,,"sigla AMBIGUA, no se aplica: emotional intelligence | entrepreneurial intention",
+eml,,"sigla AMBIGUA, no se aplica: entrepreneurial minded learning | entrepreneurially-minded learning",
+epra,,"sigla AMBIGUA, no se aplica: engineering professional responsibility assessment | engineering professional responsibility assessment tool",
+hei,,"sigla AMBIGUA, no se aplica: higher education institute | higher education institution",
+ibl,,"sigla AMBIGUA, no se aplica: innovation-based learning | inquiry-based learning",
+ise,,"sigla AMBIGUA, no se aplica: industrial and systems engineering | innovation self-efficacy",
+pbl,,"sigla AMBIGUA, no se aplica: problem based learning | problem-based learning | project-based learning",
+pls-sem,,"sigla AMBIGUA, no se aplica: partial least squares structural equation modeling | partial least squares structural equation modelling",
+se,,"sigla AMBIGUA, no se aplica: software engineering | sustainable engineering",
+sem,,"sigla AMBIGUA, no se aplica: structural equation model | structural equation modeling | structural equation modelling | structural equations modeling",
+stem,,"sigla AMBIGUA, no se aplica: science, technology, engineering and mathematics | science, technology, engineering, and math | science, technology, engineering, and mathematics | sciences, technology, engineering, and mathematics",
+sts,,"sigla AMBIGUA, no se aplica: science, technology, and society | systems thinking skill",
+t-gase,,"sigla AMBIGUA, no se aplica: text-based generative ai literacy from a self-efficacy perspective | text-based generative ai literacy scale",
+tpb,,"sigla AMBIGUA, no se aplica: theory of planned behavior | theory of planned behaviour",

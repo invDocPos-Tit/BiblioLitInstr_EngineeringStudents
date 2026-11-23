@@ -1,0 +1,100 @@
+{
+ "2014-2024": {
+  "documents": 195,
+  "journal_articles": 108,
+  "conference_papers": 87,
+  "distinct_sources": 89,
+  "sources_with_one_document": 72,
+  "asee_annual_conference": 38,
+  "retrieved_from": {
+   "Scopus": 131,
+   "WoS": 56,
+   "IEEE": 44,
+   "EBSCO": 53,
+   "ERIC": 42,
+   "Dimensions": 16
+  },
+  "not_retrieved_from_scopus": 64,
+  "competency_families": {
+   "self-efficacy": 57,
+   "problem solving": 25,
+   "critical thinking": 16,
+   "creativity/innovation": 13,
+   "programming/computational": 8,
+   "ethics": 9,
+   "technical/engineering skills (generic)": 24,
+   "communication": 21,
+   "teamwork/collaboration": 24
+  },
+  "percent": {
+   "asee": 19.5,
+   "retrieved_Scopus": 67.2,
+   "retrieved_WoS": 28.7,
+   "retrieved_IEEE": 22.6,
+   "retrieved_EBSCO": 27.2,
+   "retrieved_ERIC": 21.5,
+   "retrieved_Dimensions": 8.2,
+   "self-efficacy": 29.2,
+   "problem solving": 12.8,
+   "critical thinking": 8.2,
+   "creativity/innovation": 6.7,
+   "programming/computational": 4.1,
+   "ethics": 4.6,
+   "technical/engineering skills (generic)": 12.3,
+   "communication": 10.8,
+   "teamwork/collaboration": 12.3
+  }
+ },
+ "2025-2026": {
+  "documents": 152,
+  "journal_articles": 86,
+  "conference_papers": 66,
+  "distinct_sources": 106,
+  "sources_with_one_document": 85,
+  "asee_annual_conference": 12,
+  "retrieved_from": {
+   "Scopus": 120,
+   "WoS": 44,
+   "IEEE": 30,
+   "EBSCO": 35,
+   "ERIC": 6,
+   "Dimensions": 11
+  },
+  "not_retrieved_from_scopus": 32,
+  "competency_families": {
+   "self-efficacy": 38,
+   "problem solving": 36,
+   "critical thinking": 29,
+   "creativity/innovation": 27,
+   "programming/computational": 19,
+   "ethics": 15,
+   "technical/engineering skills (generic)": 17,
+   "communication": 7,
+   "teamwork/collaboration": 12
+  },
+  "percent": {
+   "asee": 7.9,
+   "retrieved_Scopus": 78.9,
+   "retrieved_WoS": 28.9,
+   "retrieved_IEEE": 19.7,
+   "retrieved_EBSCO": 23.0,
+   "retrieved_ERIC": 3.9,
+   "retrieved_Dimensions": 7.2,
+   "self-efficacy": 25.0,
+   "problem solving": 23.7,
+   "critical thinking": 19.1,
+   "creativity/innovation": 17.8,
+   "programming/computational": 12.5,
+   "ethics": 9.9,
+   "technical/engineering skills (generic)": 11.2,
+   "communication": 4.6,
+   "teamwork/collaboration": 7.9
+  }
+ },
+ "openalex_topic_AI_in_Education": {
+  "phase": "emerging",
+  "first_year": 2025,
+  "last_year": 2026,
+  "documents": 23
+ }
+}

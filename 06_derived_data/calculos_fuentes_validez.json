@@ -1,0 +1,218 @@
+{
+ "mapping": {
+  "test content": [
+   "content validity/experts"
+  ],
+  "internal structure": [
+   "factor analysis (EFA/CFA)",
+   "structural equation modelling",
+   "measurement invariance",
+   "item response theory/Rasch"
+  ],
+  "relations to other variables": [
+   "criterion/convergent/discriminant"
+  ],
+  "reliability (specific terms)": [
+   "internal consistency/alpha",
+   "test-retest/inter-rater"
+  ],
+  "generic terms only": null
+ },
+ "generic_families": [
+  "psychometric*",
+  "reliability (any)",
+  "validation (validat*)",
+  "validity (any)"
+ ],
+ "by_subset": {
+  "all": {
+   "n": 347,
+   "test content": [
+    20,
+    5.8
+   ],
+   "internal structure": [
+    92,
+    26.5
+   ],
+   "relations to other variables": [
+    15,
+    4.3
+   ],
+   "reliability (specific terms)": [
+    55,
+    15.9
+   ],
+   "generic terms only": [
+    186,
+    53.6
+   ],
+   "two or more specific sources": [
+    39,
+    11.2
+   ]
+  },
+  "journal": {
+   "n": 194,
+   "test content": [
+    15,
+    7.7
+   ],
+   "internal structure": [
+    67,
+    34.5
+   ],
+   "relations to other variables": [
+    13,
+    6.7
+   ],
+   "reliability (specific terms)": [
+    46,
+    23.7
+   ],
+   "generic terms only": [
+    81,
+    41.8
+   ],
+   "two or more specific sources": [
+    34,
+    17.5
+   ]
+  },
+  "conference": {
+   "n": 153,
+   "test content": [
+    5,
+    3.3
+   ],
+   "internal structure": [
+    25,
+    16.3
+   ],
+   "relations to other variables": [
+    2,
+    1.3
+   ],
+   "reliability (specific terms)": [
+    9,
+    5.9
+   ],
+   "generic terms only": [
+    105,
+    68.6
+   ],
+   "two or more specific sources": [
+    5,
+    3.3
+   ]
+  },
+  "technical only": {
+   "n": 43,
+   "test content": [
+    1,
+    2.3
+   ],
+   "internal structure": [
+    6,
+    14.0
+   ],
+   "relations to other variables": [
+    3,
+    7.0
+   ],
+   "reliability (specific terms)": [
+    5,
+    11.6
+   ],
+   "generic terms only": [
+    30,
+    69.8
+   ],
+   "two or more specific sources": [
+    3,
+    7.0
+   ]
+  },
+  "transversal only": {
+   "n": 163,
+   "test content": [
+    9,
+    5.5
+   ],
+   "internal structure": [
+    56,
+    34.4
+   ],
+   "relations to other variables": [
+    6,
+    3.7
+   ],
+   "reliability (specific terms)": [
+    27,
+    16.6
+   ],
+   "generic terms only": [
+    83,
+    50.9
+   ],
+   "two or more specific sources": [
+    24,
+    14.7
+   ]
+  },
+  "self-report terms": {
+   "n": 284,
+   "test content": [
+    17,
+    6.0
+   ],
+   "internal structure": [
+    87,
+    30.6
+   ],
+   "relations to other variables": [
+    12,
+    4.2
+   ],
+   "reliability (specific terms)": [
+    44,
+    15.5
+   ],
+   "generic terms only": [
+    149,
+    52.5
+   ],
+   "two or more specific sources": [
+    35,
+    12.3
+   ]
+  },
+  "performance or observation terms": {
+   "n": 66,
+   "test content": [
+    3,
+    4.5
+   ],
+   "internal structure": [
+    4,
+    6.1
+   ],
+   "relations to other variables": [
+    4,
+    6.1
+   ],
+   "reliability (specific terms)": [
+    12,
+    18.2
+   ],
+   "generic terms only": [
+    45,
+    68.2
+   ],
+   "two or more specific sources": [
+    5,
+    7.6
+   ]
+  }
+ }
+}

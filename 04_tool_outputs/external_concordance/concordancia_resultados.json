@@ -1,0 +1,872 @@
+{
+  "generado": "2026-11-22T15:51:10",
+  "entradas": {
+    "output/bibliometrix_export.csv": "0617149ee2164c17",
+    "output/networks/bibliographic_coupling.graphml": "4d527f8a242de4ff",
+    "output/networks/coauthorship_countries.graphml": "7ac8266d811c619e",
+    "output/networks/cocitation.graphml": "581ace3c00483e6a",
+    "output/networks/keyword_cooccurrence.graphml": "2b744fe1eee13dca",
+    "validacion_externa/bibliometrix/12_acoplamiento_clusters_igraph.csv": "9baf297c3d6d1a9f",
+    "validacion_externa/bibliometrix/12_cocitacion_clusters_igraph.csv": "f0e28bc7862666b3",
+    "validacion_externa/bibliometrix/12_colaboracion_paises_clusters_igraph.csv": "3e067f303ffc6133",
+    "validacion_externa/bibliometrix/12_coocurrencia_DE_clusters_igraph.csv": "72b8776c1748557b",
+    "validacion_externa/bibliometrix/12_coocurrencia_DE_umbral1_clusters_igraph.csv": "db3bb0d5492d03ee"
+  },
+  "redes": [
+    {
+      "red": "bibliographic_coupling",
+      "criterio_emparejamiento_bibliometrix": "clave de articulo",
+      "nota": "",
+      "nodos": {
+        "pipeline": 299,
+        "vosviewer": 299,
+        "bibliometrix": 300
+      },
+      "vosviewer_desactualizado": {},
+      "sensibilidad_umbral_bibliometrix": null,
+      "vosviewer_principal": "LinLog/modularity",
+      "aislados_excluidos": 43,
+      "perdida_cr_export": {},
+      "colisiones_pipeline_en_clave_bibliometrix": 0,
+      "paises_bibliometrix_no_resueltos": [],
+      "control_reproduccion_pipeline": {
+        "ari_semilla42_vs_graphml": 1.0
+      },
+      "estabilidad": {
+        "pipeline (python-louvain, 20 semillas)": {
+          "n_particiones": 20,
+          "ari_media": 0.4902,
+          "ari_min": 0.3007,
+          "ari_p05": 0.3534
+        },
+        "bibliometrix (igraph Louvain, 20 semillas)": {
+          "n_particiones": 20,
+          "ari_media": 0.5294,
+          "ari_min": 0.282,
+          "ari_p05": 0.3528
+        }
+      },
+      "comparaciones": [
+        {
+          "par": "pipeline vs VOSviewer",
+          "n_a": 299,
+          "n_b": 299,
+          "n_comunes": 299,
+          "cobertura_a": 1.0,
+          "cobertura_b": 1.0,
+          "k_a": 8,
+          "k_b": 11,
+          "ari": 0.417,
+          "nmi": 0.5141,
+          "ari_azar_media": -0.0004,
+          "ari_azar_p95": 0.0102
+        },
+        {
+          "par": "pipeline vs bibliometrix",
+          "n_a": 299,
+          "n_b": 300,
+          "n_comunes": 299,
+          "cobertura_a": 1.0,
+          "cobertura_b": 0.997,
+          "k_a": 8,
+          "k_b": 9,
+          "ari": 0.4342,
+          "nmi": 0.5147,
+          "ari_azar_media": 0.0002,
+          "ari_azar_p95": 0.0108
+        },
+        {
+          "par": "VOSviewer vs bibliometrix",
+          "n_a": 299,
+          "n_b": 300,
+          "n_comunes": 299,
+          "cobertura_a": 1.0,
+          "cobertura_b": 0.997,
+          "k_a": 11,
+          "k_b": 9,
+          "ari": 0.6279,
+          "nmi": 0.6453,
+          "ari_azar_media": -0.0005,
+          "ari_azar_p95": 0.0075
+        }
+      ],
+      "sensibilidad_normalizacion": [
+        {
+          "normalizacion": "conteos brutos (pipeline actual)",
+          "k_medio": 9.8,
+          "ari_vs_vosviewer": 0.473,
+          "ari_vs_bibliometrix": 0.445
+        },
+        {
+          "normalizacion": "association strength",
+          "k_medio": 19.1,
+          "ari_vs_vosviewer": 0.183,
+          "ari_vs_bibliometrix": 0.183
+        }
+      ],
+      "variantes_vosviewer": [
+        {
+          "normalizacion_vosviewer": "LinLog/modularity",
+          "archivo": "bibliographic_coupling_map_linLog.txt",
+          "vs_pipeline": {
+            "par": "pipeline vs VOSviewer (LinLog/modularity)",
+            "n_a": 299,
+            "n_b": 299,
+            "n_comunes": 299,
+            "cobertura_a": 1.0,
+            "cobertura_b": 1.0,
+            "k_a": 8,
+            "k_b": 11,
+            "ari": 0.417,
+            "nmi": 0.5141,
+            "ari_azar_media": -0.0004,
+            "ari_azar_p95": 0.0102
+          },
+          "vs_bibliometrix": {
+            "par": "VOSviewer (LinLog/modularity) vs bibliometrix",
+            "n_a": 299,
+            "n_b": 300,
+            "n_comunes": 299,
+            "cobertura_a": 1.0,
+            "cobertura_b": 0.997,
+            "k_a": 11,
+            "k_b": 9,
+            "ari": 0.6279,
+            "nmi": 0.6453,
+            "ari_azar_media": -0.0005,
+            "ari_azar_p95": 0.0075
+          }
+        }
+      ]
+    },
+    {
+      "red": "cocitation",
+      "criterio_emparejamiento_bibliometrix": "primer autor + ano de la referencia (formato de bibliometrix)",
+      "nota": "",
+      "nodos": {
+        "pipeline": 639,
+        "vosviewer": 639,
+        "bibliometrix": 575
+      },
+      "vosviewer_desactualizado": {},
+      "sensibilidad_umbral_bibliometrix": null,
+      "vosviewer_principal": "LinLog/modularity",
+      "aislados_excluidos": 0,
+      "perdida_cr_export": {
+        "referencias_totales": 16595,
+        "referencias_sin_CR_en_export": 5752,
+        "obras_distintas_sin_CR": 5315,
+        "nodos_cocitacion_sin_CR": 12
+      },
+      "colisiones_pipeline_en_clave_bibliometrix": 11,
+      "paises_bibliometrix_no_resueltos": [],
+      "control_reproduccion_pipeline": {
+        "ari_semilla42_vs_graphml": 1.0
+      },
+      "estabilidad": {
+        "pipeline (python-louvain, 20 semillas)": {
+          "n_particiones": 20,
+          "ari_media": 0.7585,
+          "ari_min": 0.565,
+          "ari_p05": 0.6214
+        },
+        "bibliometrix (igraph Louvain, 20 semillas)": {
+          "n_particiones": 20,
+          "ari_media": 0.8056,
+          "ari_min": 0.5245,
+          "ari_p05": 0.6334
+        }
+      },
+      "comparaciones": [
+        {
+          "par": "pipeline vs VOSviewer",
+          "n_a": 639,
+          "n_b": 639,
+          "n_comunes": 639,
+          "cobertura_a": 1.0,
+          "cobertura_b": 1.0,
+          "k_a": 98,
+          "k_b": 95,
+          "ari": 0.7038,
+          "nmi": 0.9007,
+          "ari_azar_media": -0.0004,
+          "ari_azar_p95": 0.0085
+        },
+        {
+          "par": "pipeline vs bibliometrix",
+          "n_a": 610,
+          "n_b": 575,
+          "n_comunes": 498,
+          "cobertura_a": 0.816,
+          "cobertura_b": 0.866,
+          "k_a": 49,
+          "k_b": 44,
+          "ari": 0.6484,
+          "nmi": 0.8588,
+          "ari_azar_media": -0.0002,
+          "ari_azar_p95": 0.0098
+        },
+        {
+          "par": "VOSviewer vs bibliometrix",
+          "n_a": 610,
+          "n_b": 575,
+          "n_comunes": 498,
+          "cobertura_a": 0.816,
+          "cobertura_b": 0.866,
+          "k_a": 46,
+          "k_b": 44,
+          "ari": 0.8766,
+          "nmi": 0.9481,
+          "ari_azar_media": 0.0001,
+          "ari_azar_p95": 0.0099
+        }
+      ],
+      "sensibilidad_normalizacion": [
+        {
+          "normalizacion": "conteos brutos (pipeline actual)",
+          "k_medio": 96.3,
+          "ari_vs_vosviewer": 0.705,
+          "ari_vs_bibliometrix": 0.646
+        },
+        {
+          "normalizacion": "association strength",
+          "k_medio": 105.9,
+          "ari_vs_vosviewer": 0.599,
+          "ari_vs_bibliometrix": 0.647
+        }
+      ],
+      "variantes_vosviewer": [
+        {
+          "normalizacion_vosviewer": "LinLog/modularity",
+          "archivo": "cocitation_map_linLog.txt",
+          "vs_pipeline": {
+            "par": "pipeline vs VOSviewer (LinLog/modularity)",
+            "n_a": 639,
+            "n_b": 639,
+            "n_comunes": 639,
+            "cobertura_a": 1.0,
+            "cobertura_b": 1.0,
+            "k_a": 98,
+            "k_b": 95,
+            "ari": 0.7038,
+            "nmi": 0.9007,
+            "ari_azar_media": -0.0004,
+            "ari_azar_p95": 0.0085
+          },
+          "vs_bibliometrix": {
+            "par": "VOSviewer (LinLog/modularity) vs bibliometrix",
+            "n_a": 610,
+            "n_b": 575,
+            "n_comunes": 498,
+            "cobertura_a": 0.816,
+            "cobertura_b": 0.866,
+            "k_a": 46,
+            "k_b": 44,
+            "ari": 0.8766,
+            "nmi": 0.9481,
+            "ari_azar_media": 0.0001,
+            "ari_azar_p95": 0.0099
+          }
+        }
+      ]
+    },
+    {
+      "red": "keyword_cooccurrence",
+      "criterio_emparejamiento_bibliometrix": "palabra clave en minusculas",
+      "nota": "El pipeline canonicaliza palabras clave (sinonimos de knowledge_base.json, singularizacion); bibliometrix usa DE crudas. La cobertura mide ese efecto.",
+      "nodos": {
+        "pipeline": 545,
+        "vosviewer": 0,
+        "bibliometrix": 591
+      },
+      "vosviewer_desactualizado": {
+        "LinLog/modularity": "keyword_cooccurrence: tamanos distintos (graphml 545, map 545, VOSviewer 567)"
+      },
+      "sensibilidad_umbral_bibliometrix": {
+        "par": "pipeline vs bibliometrix (sin umbral)",
+        "n_a": 545,
+        "n_b": 2541,
+        "n_comunes": 542,
+        "cobertura_a": 0.994,
+        "cobertura_b": 0.213,
+        "k_a": 8,
+        "k_b": 15,
+        "ari": 0.1405,
+        "nmi": 0.2439,
+        "ari_azar_media": -0.0001,
+        "ari_azar_p95": 0.0098,
+        "nodos_bibliometrix": 2541,
+        "estabilidad_bibliometrix_sin_umbral": 0.3736,
+        "estabilidad_bibliometrix_con_umbral": 0.6444,
+        "estabilidad_pipeline": 0.6194,
+        "ari_crudas_vs_normalizadas_mismo_umbral": 0.5291
+      },
+      "vosviewer_principal": null,
+      "aislados_excluidos": 0,
+      "perdida_cr_export": {},
+      "colisiones_pipeline_en_clave_bibliometrix": 0,
+      "paises_bibliometrix_no_resueltos": [],
+      "control_reproduccion_pipeline": {
+        "ari_semilla42_vs_graphml": 1.0
+      },
+      "estabilidad": {
+        "pipeline (python-louvain, 20 semillas)": {
+          "n_particiones": 20,
+          "ari_media": 0.6194,
+          "ari_min": 0.2718,
+          "ari_p05": 0.3522
+        },
+        "bibliometrix (igraph Louvain, 20 semillas)": {
+          "n_particiones": 20,
+          "ari_media": 0.6444,
+          "ari_min": 0.4738,
+          "ari_p05": 0.5492
+        }
+      },
+      "comparaciones": [
+        {
+          "par": "pipeline vs bibliometrix",
+          "n_a": 545,
+          "n_b": 591,
+          "n_comunes": 505,
+          "cobertura_a": 0.927,
+          "cobertura_b": 0.854,
+          "k_a": 8,
+          "k_b": 6,
+          "ari": 0.5673,
+          "nmi": 0.5057,
+          "ari_azar_media": 0.0002,
+          "ari_azar_p95": 0.0216
+        }
+      ],
+      "sensibilidad_normalizacion": [],
+      "variantes_vosviewer": []
+    },
+    {
+      "red": "coauthorship_countries",
+      "criterio_emparejamiento_bibliometrix": "pais (ISO2)",
+      "nota": "",
+      "nodos": {
+        "pipeline": 36,
+        "vosviewer": 36,
+        "bibliometrix": 35
+      },
+      "vosviewer_desactualizado": {},
+      "sensibilidad_umbral_bibliometrix": null,
+      "vosviewer_principal": "LinLog/modularity",
+      "aislados_excluidos": 26,
+      "perdida_cr_export": {},
+      "colisiones_pipeline_en_clave_bibliometrix": 0,
+      "paises_bibliometrix_no_resueltos": [],
+      "control_reproduccion_pipeline": {
+        "ari_semilla42_vs_graphml": 1.0
+      },
+      "estabilidad": {
+        "pipeline (python-louvain, 20 semillas)": {
+          "n_particiones": 20,
+          "ari_media": 1.0,
+          "ari_min": 1.0,
+          "ari_p05": 1.0
+        },
+        "bibliometrix (igraph Louvain, 20 semillas)": {
+          "n_particiones": 20,
+          "ari_media": 1.0,
+          "ari_min": 1.0,
+          "ari_p05": 1.0
+        }
+      },
+      "comparaciones": [
+        {
+          "par": "pipeline vs VOSviewer",
+          "n_a": 36,
+          "n_b": 36,
+          "n_comunes": 36,
+          "cobertura_a": 1.0,
+          "cobertura_b": 1.0,
+          "k_a": 7,
+          "k_b": 7,
+          "ari": 0.9396,
+          "nmi": 0.9589,
+          "ari_azar_media": -0.002,
+          "ari_azar_p95": 0.0696
+        },
+        {
+          "par": "pipeline vs bibliometrix",
+          "n_a": 36,
+          "n_b": 35,
+          "n_comunes": 35,
+          "cobertura_a": 0.972,
+          "cobertura_b": 1.0,
+          "k_a": 7,
+          "k_b": 7,
+          "ari": 1.0,
+          "nmi": 1.0,
+          "ari_azar_media": -0.0042,
+          "ari_azar_p95": 0.0574
+        },
+        {
+          "par": "VOSviewer vs bibliometrix",
+          "n_a": 36,
+          "n_b": 35,
+          "n_comunes": 35,
+          "cobertura_a": 0.972,
+          "cobertura_b": 1.0,
+          "k_a": 7,
+          "k_b": 7,
+          "ari": 0.9351,
+          "nmi": 0.9579,
+          "ari_azar_media": -0.0047,
+          "ari_azar_p95": 0.066
+        }
+      ],
+      "sensibilidad_normalizacion": [
+        {
+          "normalizacion": "conteos brutos (pipeline actual)",
+          "k_medio": 7.0,
+          "ari_vs_vosviewer": 0.94,
+          "ari_vs_bibliometrix": 1.0
+        },
+        {
+          "normalizacion": "association strength",
+          "k_medio": 9.8,
+          "ari_vs_vosviewer": 0.618,
+          "ari_vs_bibliometrix": 0.582
+        }
+      ],
+      "variantes_vosviewer": [
+        {
+          "normalizacion_vosviewer": "LinLog/modularity",
+          "archivo": "coauthorship_countries_map_linLog.txt",
+          "vs_pipeline": {
+            "par": "pipeline vs VOSviewer (LinLog/modularity)",
+            "n_a": 36,
+            "n_b": 36,
+            "n_comunes": 36,
+            "cobertura_a": 1.0,
+            "cobertura_b": 1.0,
+            "k_a": 7,
+            "k_b": 7,
+            "ari": 0.9396,
+            "nmi": 0.9589,
+            "ari_azar_media": -0.002,
+            "ari_azar_p95": 0.0696
+          },
+          "vs_bibliometrix": {
+            "par": "VOSviewer (LinLog/modularity) vs bibliometrix",
+            "n_a": 36,
+            "n_b": 35,
+            "n_comunes": 35,
+            "cobertura_a": 0.972,
+            "cobertura_b": 1.0,
+            "k_a": 7,
+            "k_b": 7,
+            "ari": 0.9351,
+            "nmi": 0.9579,
+            "ari_azar_media": -0.0047,
+            "ari_azar_p95": 0.066
+          }
+        }
+      ]
+    }
+  ],
+  "indicadores": {
+    "produccion_anual": {
+      "anos": 13,
+      "total_pipeline": 347,
+      "total_bibliometrix": 347,
+      "diferencias": []
+    },
+    "crecimiento_anual_pct": {
+      "pipeline": 17.5,
+      "bibliometrix": 17.48
+    },
+    "colaboracion_internacional": {
+      "mcp_pipeline": 36,
+      "mcp_bibliometrix": 35,
+      "articulos_mcp_discrepantes": [
+        "Fini2018"
+      ],
+      "conjuntos_de_paises_identicos": 344,
+      "sin_pais_pipeline": 0,
+      "sin_pais_bibliometrix": 0,
+      "detalle": "concordancia_detalle/paises_discrepancias.csv"
+    },
+    "pais_autor_correspondencia_coincide": {
+      "coinciden": 345,
+      "de": 347
+    },
+    "fuentes_top": {
+      "top_n": 15,
+      "valor_de_corte": 3,
+      "empatados_en_el_corte_pipeline": 1,
+      "jaccard": 0.765,
+      "spearman_en_comunes": 0.995,
+      "maximo_pipeline": [
+        "ASEE Annual Conference and Exposition, Conference ",
+        50
+      ],
+      "maximo_bibliometrix": [
+        "ASEE ANNUAL CONFERENCE AND EXPOSITION CONFERENCE PROCEEDINGS",
+        50
+      ]
+    },
+    "autores_top": {
+      "top_n": 15,
+      "valor_de_corte": 2,
+      "empatados_en_el_corte_pipeline": 14,
+      "jaccard": 0.364,
+      "spearman_en_comunes": 0.333,
+      "maximo_pipeline": [
+        "Truyol, M.E.",
+        3
+      ],
+      "maximo_bibliometrix": [
+        "TRUYOL ME",
+        3
+      ]
+    },
+    "lotka_autores_por_productividad": {
+      "pipeline": {
+        "1": 1163,
+        "2": 31,
+        "3": 1
+      },
+      "bibliometrix": {
+        "1": 1153,
+        "2": 36,
+        "3": 1
+      },
+      "ajuste_bibliometrix": {
+        "beta": 6.26481532450657,
+        "C": 1.22693512771855,
+        "R2": 0.974736322184279,
+        "p_value_ks": 0.517550843046749
+      }
+    },
+    "rpys": {
+      "anos_comunes": 73,
+      "rango_pipeline": [
+        1951,
+        2026
+      ],
+      "rango_bibliometrix": [
+        1926,
+        2023
+      ],
+      "spearman_citas_por_ano": 0.997,
+      "citas_totales_pipeline": 14990.0,
+      "citas_totales_bibliometrix": 9861.0,
+      "picos_top10_pipeline": [
+        1977,
+        1991,
+        1996,
+        2000,
+        2006,
+        2009,
+        2013,
+        2019,
+        2020,
+        2024
+      ],
+      "picos_top10_bibliometrix": [
+        2000,
+        2006,
+        2007,
+        2009,
+        2012,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020
+      ],
+      "picos_comunes": [
+        2000,
+        2006,
+        2009,
+        2019,
+        2020
+      ],
+      "nota": "Ambos: desviacion respecto de la mediana de 5 anos (pipeline: Fase 2g, RPYS estandar; bibliometrix: diffMedian5). bibliometrix solo ve las referencias que llegan al campo CR del export."
+    },
+    "redes_solo_vosviewer": [
+      {
+        "red": "coauthorship_authors",
+        "aislados_excluidos": 47,
+        "control": {
+          "ari_semilla42_vs_graphml": 1.0
+        },
+        "estabilidad_pipeline": {
+          "n_particiones": 20,
+          "ari_media": 1.0,
+          "ari_min": 1.0,
+          "ari_p05": 1.0
+        },
+        "comparaciones": [
+          {
+            "normalizacion_vosviewer": "LinLog/modularity",
+            "par": "pipeline vs VOSviewer (LinLog/modularity)",
+            "n_a": 1067,
+            "n_b": 1067,
+            "n_comunes": 1067,
+            "cobertura_a": 1.0,
+            "cobertura_b": 1.0,
+            "k_a": 266,
+            "k_b": 266,
+            "ari": 1.0,
+            "nmi": 1.0,
+            "ari_azar_media": 0.0,
+            "ari_azar_p95": 0.0026
+          }
+        ],
+        "desactualizado": {}
+      },
+      {
+        "red": "coupling_journals",
+        "aislados_excluidos": 24,
+        "control": {
+          "ari_semilla42_vs_graphml": 1.0
+        },
+        "estabilidad_pipeline": {
+          "n_particiones": 20,
+          "ari_media": 0.5096,
+          "ari_min": 0.1888,
+          "ari_p05": 0.3324
+        },
+        "comparaciones": [
+          {
+            "normalizacion_vosviewer": "LinLog/modularity",
+            "par": "pipeline vs VOSviewer (LinLog/modularity)",
+            "n_a": 145,
+            "n_b": 145,
+            "n_comunes": 145,
+            "cobertura_a": 1.0,
+            "cobertura_b": 1.0,
+            "k_a": 4,
+            "k_b": 7,
+            "ari": 0.3385,
+            "nmi": 0.4586,
+            "ari_azar_media": -0.0006,
+            "ari_azar_p95": 0.0211
+          }
+        ],
+        "desactualizado": {}
+      },
+      {
+        "red": "cocitation_journals",
+        "aislados_excluidos": 90,
+        "control": {
+          "ari_semilla42_vs_graphml": 1.0
+        },
+        "estabilidad_pipeline": {
+          "n_particiones": 20,
+          "ari_media": 0.6214,
+          "ari_min": 0.372,
+          "ari_p05": 0.4302
+        },
+        "comparaciones": [
+          {
+            "normalizacion_vosviewer": "LinLog/modularity",
+            "par": "pipeline vs VOSviewer (LinLog/modularity)",
+            "n_a": 890,
+            "n_b": 890,
+            "n_comunes": 890,
+            "cobertura_a": 1.0,
+            "cobertura_b": 1.0,
+            "k_a": 8,
+            "k_b": 90,
+            "ari": 0.0047,
+            "nmi": 0.0938,
+            "ari_azar_media": 0.0,
+            "ari_azar_p95": 0.0072
+          }
+        ],
+        "desactualizado": {}
+      }
+    ],
+    "mapa_tematico": {
+      "control_figura": {
+        "clusters_figura": 6,
+        "clusters_recalculo": 6,
+        "centralidades_identicas": true
+      },
+      "oficial": {
+        "pertenencia": {
+          "par": "pipeline (palabras canonicalizadas) vs bibliometrix",
+          "n_a": 541,
+          "n_b": 250,
+          "n_comunes": 196,
+          "cobertura_a": 0.362,
+          "cobertura_b": 0.784,
+          "k_a": 5,
+          "k_b": 4,
+          "ari": 0.2822,
+          "nmi": 0.2457,
+          "ari_azar_media": 0.0002,
+          "ari_azar_p95": 0.0202
+        },
+        "palabras_comunes": 196,
+        "k_pipeline": 6,
+        "k_bibliometrix": 4,
+        "temas": [
+          {
+            "tema_bibliometrix": "engineering education",
+            "cuadrante_bibliometrix": "basico/transversal",
+            "palabras_comunes_en_el_tema": 80,
+            "tema_pipeline_mas_parecido": "engineering education; student; curriculum",
+            "cuadrante_pipeline": "basico/transversal",
+            "jaccard": 0.606,
+            "mismo_cuadrante": true
+          },
+          {
+            "tema_bibliometrix": "engineering students",
+            "cuadrante_bibliometrix": "motor",
+            "palabras_comunes_en_el_tema": 62,
+            "tema_pipeline_mas_parecido": "self efficacy; engineering student; survey",
+            "cuadrante_pipeline": "motor",
+            "jaccard": 0.412,
+            "mismo_cuadrante": true
+          },
+          {
+            "tema_bibliometrix": "higher education",
+            "cuadrante_bibliometrix": "emergente o en declive",
+            "palabras_comunes_en_el_tema": 28,
+            "tema_pipeline_mas_parecido": "higher education; artificial intelligence; critical thinking",
+            "cuadrante_pipeline": "basico/transversal",
+            "jaccard": 0.304,
+            "mismo_cuadrante": false
+          },
+          {
+            "tema_bibliometrix": "confirmatory factor analysis",
+            "cuadrante_bibliometrix": "nicho",
+            "palabras_comunes_en_el_tema": 26,
+            "tema_pipeline_mas_parecido": "self efficacy; engineering student; survey",
+            "cuadrante_pipeline": "motor",
+            "jaccard": 0.151,
+            "mismo_cuadrante": false
+          }
+        ]
+      },
+      "metodo_pipeline_sobre_DE_crudas": {
+        "pertenencia": {
+          "par": "pipeline sobre DE crudas vs bibliometrix",
+          "n_a": 591,
+          "n_b": 250,
+          "n_comunes": 250,
+          "cobertura_a": 0.423,
+          "cobertura_b": 1.0,
+          "k_a": 5,
+          "k_b": 4,
+          "ari": 0.4837,
+          "nmi": 0.4199,
+          "ari_azar_media": -0.0006,
+          "ari_azar_p95": 0.0176
+        },
+        "palabras_comunes": 250,
+        "k_pipeline": 5,
+        "k_bibliometrix": 4,
+        "temas": [
+          {
+            "tema_bibliometrix": "engineering education",
+            "cuadrante_bibliometrix": "basico/transversal",
+            "palabras_comunes_en_el_tema": 94,
+            "tema_pipeline_mas_parecido": "engineering education; students; curricula",
+            "cuadrante_pipeline": "basico/transversal",
+            "jaccard": 0.661,
+            "mismo_cuadrante": true
+          },
+          {
+            "tema_bibliometrix": "engineering students",
+            "cuadrante_bibliometrix": "motor",
+            "palabras_comunes_en_el_tema": 86,
+            "tema_pipeline_mas_parecido": "engineering students; self efficacy; surveys",
+            "cuadrante_pipeline": "motor",
+            "jaccard": 0.712,
+            "mismo_cuadrante": true
+          },
+          {
+            "tema_bibliometrix": "higher education",
+            "cuadrante_bibliometrix": "emergente o en declive",
+            "palabras_comunes_en_el_tema": 34,
+            "tema_pipeline_mas_parecido": "higher education; artificial intelligence; critical thinking",
+            "cuadrante_pipeline": "emergente o en declive",
+            "jaccard": 0.37,
+            "mismo_cuadrante": true
+          },
+          {
+            "tema_bibliometrix": "confirmatory factor analysis",
+            "cuadrante_bibliometrix": "nicho",
+            "palabras_comunes_en_el_tema": 36,
+            "tema_pipeline_mas_parecido": "education; confirmatory factor analysis; learning",
+            "cuadrante_pipeline": "nicho",
+            "jaccard": 0.514,
+            "mismo_cuadrante": true
+          }
+        ]
+      },
+      "nota": "bibliometrix: Louvain sobre las 250 palabras mas frecuentes (minfreq 5). Pipeline: Louvain (semilla 42) sobre toda la red con co-ocurrencia >= 2 y clusters de 3 o mas palabras."
+    },
+    "tendencia_topicos": {
+      "palabras_freq5_pipeline": 141,
+      "palabras_freq5_bibliometrix": 183,
+      "comunes": 124,
+      "spearman_ano_mediano": 0.98,
+      "diferencia_media_anos": 0.2,
+      "coinciden_exacto_ano_mediano": 95,
+      "mas_recientes_pipeline": [
+        "artificial intelligence",
+        "generative artificial intelligence",
+        "e-learning",
+        "design methodology",
+        "modeling",
+        "outcome-based education",
+        "testing",
+        "virtual reality",
+        "augmented reality",
+        "scale development",
+        "technology",
+        "visualization",
+        "feedback",
+        "student engagement",
+        "experimental groups"
+      ],
+      "mas_recientes_bibliometrix": [
+        "artificial intelligence",
+        "generative ai",
+        "e-learning",
+        "printing",
+        "learning (artificial intelligence)",
+        "outcome-based education",
+        "design methodology",
+        "generative artificial intelligence",
+        "modeling",
+        "student engagement",
+        "ai literacy",
+        "testing",
+        "augmented reality",
+        "challenge-based learning",
+        "design thinking"
+      ],
+      "recientes_en_comun": [
+        "artificial intelligence",
+        "augmented reality",
+        "design methodology",
+        "e-learning",
+        "generative artificial intelligence",
+        "modeling",
+        "outcome-based education",
+        "student engagement",
+        "testing"
+      ],
+      "figura_pipeline": {
+        "metodo": "5 palabras mas frecuentes de cada ano (no ano mediano)",
+        "palabra_mas_frecuente_por_ano": {
+          "engineering education": 11,
+          "student": 2
+        },
+        "anos": 13
+      },
+      "detalle": "concordancia_detalle/tendencia_topicos.csv"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+stage,n
+records exported (7 sources),1524
+removed before screening (duplicates and links),441
+screened,1083
+excluded,731
+  excluded: A4 population outside engineering,280
+"  excluded: uncertain, excluded at full text",150
+"  excluded: uncertain, full text not retrieved",109
+  excluded: A5 construct out of scope,89
+"  excluded: human pilot, no single criterion code",33
+  excluded: A6 no identifiable instrument,30
+  excluded: A1 document type,29
+  excluded: A2 period or language,9
+  excluded: withdrawn at document retrieval,2
+met A1-A6,352
+  met A1-A6: failed only A7,176
+"  met A1-A6: uncertain, included at full text",116
+  met A1-A6: all seven criteria met,60
+excluded after screening (no country or reference list found),5
+final corpus,347

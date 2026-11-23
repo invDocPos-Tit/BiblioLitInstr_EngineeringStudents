@@ -1,0 +1,3472 @@
+[
+  {
+    "key": "Ahn2014",
+    "field": "Social Sciences",
+    "year": 2014,
+    "citations": 126,
+    "field_mean": 33.71,
+    "mncs": 52.594,
+    "mncs_intracorpus": 3.737,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Garriott2021",
+    "field": "Psychology",
+    "year": 2021,
+    "citations": 12,
+    "field_mean": 26.36,
+    "mncs": 0.388,
+    "mncs_intracorpus": 0.455,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Mamaril2016",
+    "field": "Psychology",
+    "year": 2016,
+    "citations": 351,
+    "field_mean": 26.36,
+    "mncs": 29.424,
+    "mncs_intracorpus": 13.317,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Benjamin2026",
+    "field": "Computer Science",
+    "year": 2026,
+    "citations": 0,
+    "field_mean": 0.64,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "McCormick2015",
+    "field": "Social Sciences",
+    "year": 2015,
+    "citations": 87,
+    "field_mean": 36.0,
+    "mncs": 15.454,
+    "mncs_intracorpus": 2.417,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Thite2024",
+    "field": "Social Sciences",
+    "year": 2024,
+    "citations": 18,
+    "field_mean": 6.3,
+    "mncs": 5.127,
+    "mncs_intracorpus": 2.857,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Liu2025a",
+    "field": "Psychology",
+    "year": 2025,
+    "citations": 31,
+    "field_mean": 8.0,
+    "mncs": 15.398,
+    "mncs_intracorpus": 3.875,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "AlvarezSiordia2025",
+    "field": "Social Sciences",
+    "year": 2025,
+    "citations": 29,
+    "field_mean": 3.86,
+    "mncs": 16.65,
+    "mncs_intracorpus": 7.513,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Idkhan2021",
+    "field": "Social Sciences",
+    "year": 2021,
+    "citations": 34,
+    "field_mean": 24.27,
+    "mncs": 5.474,
+    "mncs_intracorpus": 1.401,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Ro2015",
+    "field": "Social Sciences",
+    "year": 2015,
+    "citations": 73,
+    "field_mean": 36.0,
+    "mncs": 25.39,
+    "mncs_intracorpus": 2.028,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Chan2017",
+    "field": "Social Sciences",
+    "year": 2017,
+    "citations": 130,
+    "field_mean": 33.86,
+    "mncs": 22.009,
+    "mncs_intracorpus": 3.84,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "AlonsoGalicia2025",
+    "field": "Social Sciences",
+    "year": 2025,
+    "citations": 8,
+    "field_mean": 3.86,
+    "mncs": 4.508,
+    "mncs_intracorpus": 2.073,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "TueroODonnell2026b",
+    "field": "Social Sciences",
+    "year": 2026,
+    "citations": 5,
+    "field_mean": 2.15,
+    "mncs": 13.654,
+    "mncs_intracorpus": 2.327,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Nguyen2022",
+    "field": "Business, Management and Accounting",
+    "year": 2022,
+    "citations": 54,
+    "field_mean": 25.0,
+    "mncs": 4.438,
+    "mncs_intracorpus": 2.16,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Huang2020",
+    "field": "Social Sciences",
+    "year": 2020,
+    "citations": 71,
+    "field_mean": 19.0,
+    "mncs": 7.279,
+    "mncs_intracorpus": 3.737,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Durak2026",
+    "field": "Social Sciences",
+    "year": 2026,
+    "citations": 9,
+    "field_mean": 2.15,
+    "mncs": 30.721,
+    "mncs_intracorpus": 4.188,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "LopezFernandez2024",
+    "field": "Computer Science",
+    "year": 2024,
+    "citations": 7,
+    "field_mean": 13.17,
+    "mncs": 1.202,
+    "mncs_intracorpus": 0.531,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Antelis2025",
+    "field": "Social Sciences",
+    "year": 2025,
+    "citations": 2,
+    "field_mean": 3.86,
+    "mncs": 1.127,
+    "mncs_intracorpus": 0.518,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "RevillaCuesta2026",
+    "field": "Social Sciences",
+    "year": 2026,
+    "citations": 0,
+    "field_mean": 2.15,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Pereira2026",
+    "field": "Social Sciences",
+    "year": 2026,
+    "citations": 0,
+    "field_mean": 2.15,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Arredondo2025",
+    "field": "Social Sciences",
+    "year": 2025,
+    "citations": 9,
+    "field_mean": 3.86,
+    "mncs": 2.556,
+    "mncs_intracorpus": 2.332,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Cruz2021",
+    "field": "Social Sciences",
+    "year": 2021,
+    "citations": 27,
+    "field_mean": 24.27,
+    "mncs": 3.639,
+    "mncs_intracorpus": 1.112,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Bolhari2026",
+    "field": "Social Sciences",
+    "year": 2026,
+    "citations": 0,
+    "field_mean": 2.15,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Bodnar2017",
+    "field": "Psychology",
+    "year": 2017,
+    "citations": 74,
+    "field_mean": 26.36,
+    "mncs": 8.927,
+    "mncs_intracorpus": 2.808,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Carter2026",
+    "field": "Computer Science",
+    "year": 2026,
+    "citations": 2,
+    "field_mean": 0.64,
+    "mncs": 5.168,
+    "mncs_intracorpus": 3.143,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Rezvanifar2020",
+    "field": "Social Sciences",
+    "year": 2020,
+    "citations": 10,
+    "field_mean": 19.0,
+    "mncs": 0.485,
+    "mncs_intracorpus": 0.526,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Psycharis2021",
+    "field": "Computer Science",
+    "year": 2021,
+    "citations": 18,
+    "field_mean": 13.17,
+    "mncs": 2.369,
+    "mncs_intracorpus": 1.366,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Tafakur2024",
+    "field": "Social Sciences",
+    "year": 2024,
+    "citations": 8,
+    "field_mean": 6.3,
+    "mncs": 2.328,
+    "mncs_intracorpus": 1.27,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Kim2024",
+    "field": "Social Sciences",
+    "year": 2024,
+    "citations": 10,
+    "field_mean": 6.3,
+    "mncs": 2.909,
+    "mncs_intracorpus": 1.587,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Endryansyah2026",
+    "field": "Social Sciences",
+    "year": 2026,
+    "citations": 0,
+    "field_mean": 2.15,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Nogueira2021",
+    "field": "Social Sciences",
+    "year": 2021,
+    "citations": 58,
+    "field_mean": 24.27,
+    "mncs": 5.668,
+    "mncs_intracorpus": 2.39,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "AlMamun2022",
+    "field": "Social Sciences",
+    "year": 2022,
+    "citations": 14,
+    "field_mean": 18.12,
+    "mncs": 0.772,
+    "mncs_intracorpus": 0.772,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Sabri2025",
+    "field": "Social Sciences",
+    "year": 2025,
+    "citations": 3,
+    "field_mean": 3.86,
+    "mncs": 1.71,
+    "mncs_intracorpus": 0.777,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "GutierrezdeRave2025",
+    "field": "Social Sciences",
+    "year": 2025,
+    "citations": 16,
+    "field_mean": 3.86,
+    "mncs": 8.841,
+    "mncs_intracorpus": 4.145,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Balgiu2024",
+    "field": "Business, Management and Accounting",
+    "year": 2024,
+    "citations": 11,
+    "field_mean": 25.0,
+    "mncs": 2.612,
+    "mncs_intracorpus": 0.44,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "GalvanSanchez2017",
+    "field": "Social Sciences",
+    "year": 2017,
+    "citations": 27,
+    "field_mean": 33.86,
+    "mncs": 2.892,
+    "mncs_intracorpus": 0.797,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Partanen2024",
+    "field": "Social Sciences",
+    "year": 2024,
+    "citations": 11,
+    "field_mean": 6.3,
+    "mncs": 2.248,
+    "mncs_intracorpus": 1.746,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Liu2026a",
+    "field": "Psychology",
+    "year": 2026,
+    "citations": 0,
+    "field_mean": 0.43,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "TueroODonnell2026a",
+    "field": "Social Sciences",
+    "year": 2026,
+    "citations": 0,
+    "field_mean": 2.15,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "MoranSoto2022",
+    "field": "Psychology",
+    "year": 2022,
+    "citations": 59,
+    "field_mean": 47.8,
+    "mncs": 7.694,
+    "mncs_intracorpus": 1.234,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Neumann2015",
+    "field": "Social Sciences",
+    "year": 2015,
+    "citations": 21,
+    "field_mean": 36.0,
+    "mncs": 5.598,
+    "mncs_intracorpus": 0.583,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "BaqueroSierra2025",
+    "field": "Social Sciences",
+    "year": 2025,
+    "citations": 2,
+    "field_mean": 3.86,
+    "mncs": 0.564,
+    "mncs_intracorpus": 0.518,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Bento2026b",
+    "field": "Engineering",
+    "year": 2026,
+    "citations": 1,
+    "field_mean": 4.25,
+    "mncs": 1.668,
+    "mncs_intracorpus": 0.235,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Chien2022",
+    "field": "Engineering",
+    "year": 2022,
+    "citations": 19,
+    "field_mean": 4.25,
+    "mncs": 1.014,
+    "mncs_intracorpus": 4.471,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Power2025",
+    "field": "Psychology",
+    "year": 2025,
+    "citations": 27,
+    "field_mean": 8.0,
+    "mncs": 7.15,
+    "mncs_intracorpus": 3.375,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Chonsalasin2022",
+    "field": "Social Sciences",
+    "year": 2022,
+    "citations": 46,
+    "field_mean": 18.12,
+    "mncs": 9.457,
+    "mncs_intracorpus": 2.538,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Korkmaz2025",
+    "field": "Social Sciences",
+    "year": 2025,
+    "citations": 0,
+    "field_mean": 3.86,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Ivanov2020",
+    "field": "Computer Science",
+    "year": 2020,
+    "citations": 25,
+    "field_mean": 13.17,
+    "mncs": 1.576,
+    "mncs_intracorpus": 1.898,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Power2026",
+    "field": "Social Sciences",
+    "year": 2026,
+    "citations": 20,
+    "field_mean": 2.15,
+    "mncs": 11.27,
+    "mncs_intracorpus": 9.307,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "EstebanIbanez2026",
+    "field": "Social Sciences",
+    "year": 2026,
+    "citations": 2,
+    "field_mean": 2.15,
+    "mncs": 6.827,
+    "mncs_intracorpus": 0.931,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Ehlert2019",
+    "field": "Social Sciences",
+    "year": 2019,
+    "citations": 5,
+    "field_mean": 14.71,
+    "mncs": 0.921,
+    "mncs_intracorpus": 0.34,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "LaraMunoz2026a",
+    "field": "Social Sciences",
+    "year": 2026,
+    "citations": 3,
+    "field_mean": 2.15,
+    "mncs": 10.24,
+    "mncs_intracorpus": 1.396,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Tormey2023",
+    "field": "Social Sciences",
+    "year": 2023,
+    "citations": 12,
+    "field_mean": 6.64,
+    "mncs": 2.452,
+    "mncs_intracorpus": 1.806,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Raelin2014",
+    "field": "Psychology",
+    "year": 2014,
+    "citations": 161,
+    "field_mean": 54.67,
+    "mncs": 13.383,
+    "mncs_intracorpus": 2.945,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Yi2018",
+    "field": "Business, Management and Accounting",
+    "year": 2018,
+    "citations": 68,
+    "field_mean": 25.0,
+    "mncs": 7.053,
+    "mncs_intracorpus": 2.72,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Verbic2017",
+    "field": "Social Sciences",
+    "year": 2017,
+    "citations": 53,
+    "field_mean": 33.86,
+    "mncs": 13.732,
+    "mncs_intracorpus": 1.565,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Qi2023",
+    "field": "Social Sciences",
+    "year": 2023,
+    "citations": 7,
+    "field_mean": 6.64,
+    "mncs": 1.466,
+    "mncs_intracorpus": 1.054,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Lee2026",
+    "field": "Social Sciences",
+    "year": 2026,
+    "citations": 33,
+    "field_mean": 2.15,
+    "mncs": 19.059,
+    "mncs_intracorpus": 15.356,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Nantha2026",
+    "field": "Social Sciences",
+    "year": 2026,
+    "citations": 0,
+    "field_mean": 2.15,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Zirakian2026",
+    "field": "Social Sciences",
+    "year": 2026,
+    "citations": 5,
+    "field_mean": 2.15,
+    "mncs": 13.929,
+    "mncs_intracorpus": 2.327,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Berdanier2021",
+    "field": "Social Sciences",
+    "year": 2021,
+    "citations": 25,
+    "field_mean": 24.27,
+    "mncs": 5.476,
+    "mncs_intracorpus": 1.03,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Shreyas2026",
+    "field": "Psychology",
+    "year": 2026,
+    "citations": 0,
+    "field_mean": 0.43,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Anwar2023",
+    "field": "Business, Management and Accounting",
+    "year": 2023,
+    "citations": 93,
+    "field_mean": 25.0,
+    "mncs": 13.794,
+    "mncs_intracorpus": 3.72,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Achuodho2025",
+    "field": "Psychology",
+    "year": 2025,
+    "citations": 10,
+    "field_mean": 8.0,
+    "mncs": 4.755,
+    "mncs_intracorpus": 1.25,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Luk2020",
+    "field": "Social Sciences",
+    "year": 2020,
+    "citations": 44,
+    "field_mean": 19.0,
+    "mncs": 2.412,
+    "mncs_intracorpus": 2.316,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Jia2025",
+    "field": "Social Sciences",
+    "year": 2025,
+    "citations": 3,
+    "field_mean": 3.86,
+    "mncs": 1.71,
+    "mncs_intracorpus": 0.777,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Xie2026a",
+    "field": "Social Sciences",
+    "year": 2026,
+    "citations": 1,
+    "field_mean": 2.15,
+    "mncs": 3.413,
+    "mncs_intracorpus": 0.465,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Viegas2023",
+    "field": "Social Sciences",
+    "year": 2023,
+    "citations": 11,
+    "field_mean": 6.64,
+    "mncs": 2.248,
+    "mncs_intracorpus": 1.656,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Chen2026a",
+    "field": "Social Sciences",
+    "year": 2026,
+    "citations": 0,
+    "field_mean": 2.15,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Martin2022",
+    "field": "Psychology",
+    "year": 2022,
+    "citations": 97,
+    "field_mean": 47.8,
+    "mncs": 5.211,
+    "mncs_intracorpus": 2.029,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Illanes2025",
+    "field": "Social Sciences",
+    "year": 2025,
+    "citations": 7,
+    "field_mean": 3.86,
+    "mncs": 2.254,
+    "mncs_intracorpus": 1.813,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Haryudo2022",
+    "field": "Social Sciences",
+    "year": 2022,
+    "citations": 5,
+    "field_mean": 18.12,
+    "mncs": 0.686,
+    "mncs_intracorpus": 0.276,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Rahimi2025",
+    "field": "Computer Science",
+    "year": 2025,
+    "citations": 7,
+    "field_mean": 1.44,
+    "mncs": 4.449,
+    "mncs_intracorpus": 4.846,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Davies2022",
+    "field": "Social Sciences",
+    "year": 2022,
+    "citations": 27,
+    "field_mean": 18.12,
+    "mncs": 3.103,
+    "mncs_intracorpus": 1.49,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Zhao2023",
+    "field": "Unknown",
+    "year": 2023,
+    "citations": 2,
+    "field_mean": 2.33,
+    "mncs": 0.857,
+    "mncs_intracorpus": 0.857,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Pawar2026a",
+    "field": "Social Sciences",
+    "year": 2026,
+    "citations": 7,
+    "field_mean": 2.15,
+    "mncs": 23.894,
+    "mncs_intracorpus": 3.257,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Nurtanto2026",
+    "field": "Computer Science",
+    "year": 2026,
+    "citations": 0,
+    "field_mean": 0.64,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Zhou2025",
+    "field": "Social Sciences",
+    "year": 2025,
+    "citations": 10,
+    "field_mean": 3.86,
+    "mncs": 5.775,
+    "mncs_intracorpus": 2.591,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Lavrsen2024",
+    "field": "Engineering",
+    "year": 2024,
+    "citations": 9,
+    "field_mean": 4.25,
+    "mncs": 1.044,
+    "mncs_intracorpus": 2.118,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "ChamorroAtalaya2022",
+    "field": "Social Sciences",
+    "year": 2022,
+    "citations": 19,
+    "field_mean": 18.12,
+    "mncs": 4.081,
+    "mncs_intracorpus": 1.048,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Khampirat2021",
+    "field": "Decision Sciences",
+    "year": 2021,
+    "citations": 19,
+    "field_mean": 5.75,
+    "mncs": 1.574,
+    "mncs_intracorpus": 3.304,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "LeChasseur2025",
+    "field": "Social Sciences",
+    "year": 2025,
+    "citations": 9,
+    "field_mean": 3.86,
+    "mncs": 2.585,
+    "mncs_intracorpus": 2.332,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Demir2026",
+    "field": "Social Sciences",
+    "year": 2026,
+    "citations": 0,
+    "field_mean": 2.15,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Mangkalajan2026",
+    "field": "Social Sciences",
+    "year": 2026,
+    "citations": 1,
+    "field_mean": 2.15,
+    "mncs": 0.564,
+    "mncs_intracorpus": 0.465,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Sakti2025",
+    "field": "Computer Science",
+    "year": 2025,
+    "citations": 3,
+    "field_mean": 1.44,
+    "mncs": 1.044,
+    "mncs_intracorpus": 2.077,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "IborraUrios2015",
+    "field": "Social Sciences",
+    "year": 2015,
+    "citations": 12,
+    "field_mean": 36.0,
+    "mncs": 2.799,
+    "mncs_intracorpus": 0.333,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Tufino2026",
+    "field": "Social Sciences",
+    "year": 2026,
+    "citations": 0,
+    "field_mean": 2.15,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Martin2021",
+    "field": "Social Sciences",
+    "year": 2021,
+    "citations": 8,
+    "field_mean": 24.27,
+    "mncs": 2.699,
+    "mncs_intracorpus": 0.33,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Jafarli2026",
+    "field": "Social Sciences",
+    "year": 2026,
+    "citations": 3,
+    "field_mean": 2.15,
+    "mncs": 10.447,
+    "mncs_intracorpus": 1.396,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Hegedus2026",
+    "field": "Social Sciences",
+    "year": 2026,
+    "citations": 2,
+    "field_mean": 2.15,
+    "mncs": 6.827,
+    "mncs_intracorpus": 0.931,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Sunny2025",
+    "field": "Social Sciences",
+    "year": 2025,
+    "citations": 0,
+    "field_mean": 3.86,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "AriasRueda2025",
+    "field": "Social Sciences",
+    "year": 2025,
+    "citations": 1,
+    "field_mean": 3.86,
+    "mncs": 0.564,
+    "mncs_intracorpus": 0.259,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Singh2025",
+    "field": "Social Sciences",
+    "year": 2025,
+    "citations": 10,
+    "field_mean": 3.86,
+    "mncs": 5.775,
+    "mncs_intracorpus": 2.591,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Wesoowski2022",
+    "field": "Social Sciences",
+    "year": 2022,
+    "citations": 14,
+    "field_mean": 18.12,
+    "mncs": 2.462,
+    "mncs_intracorpus": 0.772,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "FloresAmado2024",
+    "field": "Social Sciences",
+    "year": 2024,
+    "citations": 3,
+    "field_mean": 6.3,
+    "mncs": 2.438,
+    "mncs_intracorpus": 0.476,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "SilveyraLeon2025",
+    "field": "Business, Management and Accounting",
+    "year": 2025,
+    "citations": 2,
+    "field_mean": 1.0,
+    "mncs": 4.378,
+    "mncs_intracorpus": 2.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Duarte2016",
+    "field": "Psychology",
+    "year": 2016,
+    "citations": 17,
+    "field_mean": 26.36,
+    "mncs": 1.811,
+    "mncs_intracorpus": 0.645,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "HuangSaad2016",
+    "field": "Social Sciences",
+    "year": 2016,
+    "citations": 23,
+    "field_mean": 11.57,
+    "mncs": 14.461,
+    "mncs_intracorpus": 1.988,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Schar2018a",
+    "field": "Social Sciences",
+    "year": 2018,
+    "citations": 8,
+    "field_mean": 23.5,
+    "mncs": 6.436,
+    "mncs_intracorpus": 0.34,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Nepal2023",
+    "field": "Social Sciences",
+    "year": 2023,
+    "citations": 0,
+    "field_mean": 6.64,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Wang2026d",
+    "field": "Social Sciences",
+    "year": 2026,
+    "citations": 1,
+    "field_mean": 2.15,
+    "mncs": 12.15,
+    "mncs_intracorpus": 0.465,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "ElHassan2021",
+    "field": "Social Sciences",
+    "year": 2021,
+    "citations": 17,
+    "field_mean": 24.27,
+    "mncs": 1.432,
+    "mncs_intracorpus": 0.7,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Pinto2023",
+    "field": "Social Sciences",
+    "year": 2023,
+    "citations": 3,
+    "field_mean": 6.64,
+    "mncs": 1.356,
+    "mncs_intracorpus": 0.452,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "SanchezCarracedo2021b",
+    "field": "Social Sciences",
+    "year": 2021,
+    "citations": 71,
+    "field_mean": 24.27,
+    "mncs": 9.281,
+    "mncs_intracorpus": 2.925,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Kang2025",
+    "field": "Social Sciences",
+    "year": 2025,
+    "citations": 2,
+    "field_mean": 3.86,
+    "mncs": 1.502,
+    "mncs_intracorpus": 0.518,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Choe2019",
+    "field": "Psychology",
+    "year": 2019,
+    "citations": 55,
+    "field_mean": 26.75,
+    "mncs": 4.059,
+    "mncs_intracorpus": 2.056,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Hauser2018",
+    "field": "Social Sciences",
+    "year": 2018,
+    "citations": 15,
+    "field_mean": 23.5,
+    "mncs": 4.311,
+    "mncs_intracorpus": 0.638,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Bordel2022",
+    "field": "Social Sciences",
+    "year": 2022,
+    "citations": 7,
+    "field_mean": 18.12,
+    "mncs": 5.359,
+    "mncs_intracorpus": 0.386,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Yamazaki2018",
+    "field": "Social Sciences",
+    "year": 2018,
+    "citations": 2,
+    "field_mean": 23.5,
+    "mncs": 2.712,
+    "mncs_intracorpus": 0.085,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Aguilar2024",
+    "field": "Social Sciences",
+    "year": 2024,
+    "citations": 15,
+    "field_mean": 6.3,
+    "mncs": 4.314,
+    "mncs_intracorpus": 2.381,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "KirupaPriyadarsini2024",
+    "field": "Social Sciences",
+    "year": 2024,
+    "citations": 3,
+    "field_mean": 6.3,
+    "mncs": 0.873,
+    "mncs_intracorpus": 0.476,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "MarazaQuispe2026",
+    "field": "Computer Science",
+    "year": 2026,
+    "citations": 1,
+    "field_mean": 0.64,
+    "mncs": 2.593,
+    "mncs_intracorpus": 1.571,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "PeraltaPenunuri2026",
+    "field": "Computer Science",
+    "year": 2026,
+    "citations": 1,
+    "field_mean": 0.64,
+    "mncs": 0.0,
+    "mncs_intracorpus": 1.571,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Ribeiro2026",
+    "field": "Social Sciences",
+    "year": 2026,
+    "citations": 0,
+    "field_mean": 2.15,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Kleinpaul2026",
+    "field": "Engineering",
+    "year": 2026,
+    "citations": 0,
+    "field_mean": 4.25,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Masduki2022",
+    "field": "Decision Sciences",
+    "year": 2022,
+    "citations": 4,
+    "field_mean": 5.75,
+    "mncs": 0.34,
+    "mncs_intracorpus": 0.696,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "He2026b",
+    "field": "Unknown",
+    "year": 2026,
+    "citations": 0,
+    "field_mean": 0.2,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Vinogradova2022",
+    "field": "Social Sciences",
+    "year": 2022,
+    "citations": 4,
+    "field_mean": 18.12,
+    "mncs": 0.224,
+    "mncs_intracorpus": 0.221,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Huang2015",
+    "field": "Social Sciences",
+    "year": 2015,
+    "citations": 29,
+    "field_mean": 36.0,
+    "mncs": 1.286,
+    "mncs_intracorpus": 0.806,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Danielsiek2017",
+    "field": "Social Sciences",
+    "year": 2017,
+    "citations": 21,
+    "field_mean": 33.86,
+    "mncs": 9.433,
+    "mncs_intracorpus": 0.62,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Lee2025b",
+    "field": "Social Sciences",
+    "year": 2025,
+    "citations": 2,
+    "field_mean": 3.86,
+    "mncs": 4.212,
+    "mncs_intracorpus": 0.518,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Hong2015",
+    "field": "Social Sciences",
+    "year": 2015,
+    "citations": 85,
+    "field_mean": 36.0,
+    "mncs": 7.254,
+    "mncs_intracorpus": 2.361,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Quintero2017",
+    "field": "Social Sciences",
+    "year": 2017,
+    "citations": 130,
+    "field_mean": 33.86,
+    "mncs": 8.239,
+    "mncs_intracorpus": 3.84,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Cruz2024",
+    "field": "Social Sciences",
+    "year": 2024,
+    "citations": 4,
+    "field_mean": 6.3,
+    "mncs": 1.164,
+    "mncs_intracorpus": 0.635,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Lamada2026",
+    "field": "Social Sciences",
+    "year": 2026,
+    "citations": 1,
+    "field_mean": 2.15,
+    "mncs": 3.413,
+    "mncs_intracorpus": 0.465,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Hwang2022",
+    "field": "Social Sciences",
+    "year": 2022,
+    "citations": 34,
+    "field_mean": 18.12,
+    "mncs": 5.668,
+    "mncs_intracorpus": 1.876,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "QuirozGonzalez2025",
+    "field": "Psychology",
+    "year": 2025,
+    "citations": 5,
+    "field_mean": 8.0,
+    "mncs": 3.11,
+    "mncs_intracorpus": 0.625,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Zhang2026d",
+    "field": "Psychology",
+    "year": 2026,
+    "citations": 3,
+    "field_mean": 0.43,
+    "mncs": 9.299,
+    "mncs_intracorpus": 7.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Misal2026",
+    "field": "Social Sciences",
+    "year": 2026,
+    "citations": 1,
+    "field_mean": 2.15,
+    "mncs": 3.413,
+    "mncs_intracorpus": 0.465,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Riggs2016",
+    "field": "Engineering",
+    "year": 2016,
+    "citations": 7,
+    "field_mean": 4.25,
+    "mncs": 1.37,
+    "mncs_intracorpus": 1.647,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Berdanier2018",
+    "field": "Social Sciences",
+    "year": 2018,
+    "citations": 33,
+    "field_mean": 23.5,
+    "mncs": 10.624,
+    "mncs_intracorpus": 1.404,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Vidal2021",
+    "field": "Social Sciences",
+    "year": 2021,
+    "citations": 0,
+    "field_mean": 24.27,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Pinto2025",
+    "field": "Social Sciences",
+    "year": 2025,
+    "citations": 1,
+    "field_mean": 3.86,
+    "mncs": 2.106,
+    "mncs_intracorpus": 0.259,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Ishikawa2025",
+    "field": "Social Sciences",
+    "year": 2025,
+    "citations": 0,
+    "field_mean": 3.86,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Endryansyah2025",
+    "field": "Social Sciences",
+    "year": 2025,
+    "citations": 1,
+    "field_mean": 3.86,
+    "mncs": 0.564,
+    "mncs_intracorpus": 0.259,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Prasetya2025",
+    "field": "Social Sciences",
+    "year": 2025,
+    "citations": 4,
+    "field_mean": 3.86,
+    "mncs": 2.254,
+    "mncs_intracorpus": 1.036,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Prathoomthong2025",
+    "field": "Engineering",
+    "year": 2025,
+    "citations": 2,
+    "field_mean": 4.25,
+    "mncs": 0.463,
+    "mncs_intracorpus": 0.471,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Mahatanankoon2025",
+    "field": "Computer Science",
+    "year": 2025,
+    "citations": 1,
+    "field_mean": 1.44,
+    "mncs": 0.348,
+    "mncs_intracorpus": 0.692,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Kwateng2026",
+    "field": "Social Sciences",
+    "year": 2026,
+    "citations": 6,
+    "field_mean": 2.15,
+    "mncs": 20.48,
+    "mncs_intracorpus": 2.792,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Rijanto2026",
+    "field": "Unknown",
+    "year": 2026,
+    "citations": 1,
+    "field_mean": 0.2,
+    "mncs": 5.0,
+    "mncs_intracorpus": 5.0,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "PAUL2018",
+    "field": "Psychology",
+    "year": 2018,
+    "citations": 14,
+    "field_mean": 26.36,
+    "mncs": 0.531,
+    "mncs_intracorpus": 0.531,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Cico2021",
+    "field": "Engineering",
+    "year": 2021,
+    "citations": 9,
+    "field_mean": 4.25,
+    "mncs": 1.071,
+    "mncs_intracorpus": 2.118,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "DiazMartinez2026",
+    "field": "Psychology",
+    "year": 2026,
+    "citations": 0,
+    "field_mean": 0.43,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Regnault2025",
+    "field": "Business, Management and Accounting",
+    "year": 2025,
+    "citations": 1,
+    "field_mean": 1.0,
+    "mncs": 2.189,
+    "mncs_intracorpus": 1.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Chedru2023",
+    "field": "Social Sciences",
+    "year": 2023,
+    "citations": 24,
+    "field_mean": 6.64,
+    "mncs": 5.924,
+    "mncs_intracorpus": 3.613,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "SHA2023",
+    "field": "Unknown",
+    "year": 2023,
+    "citations": 4,
+    "field_mean": 2.33,
+    "mncs": 1.714,
+    "mncs_intracorpus": 1.714,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "GarayRondero2026",
+    "field": "Social Sciences",
+    "year": 2026,
+    "citations": 0,
+    "field_mean": 2.15,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "WilliamAtehortuaMosquera2025",
+    "field": "Social Sciences",
+    "year": 2025,
+    "citations": 1,
+    "field_mean": 3.86,
+    "mncs": 0.564,
+    "mncs_intracorpus": 0.259,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Budhyani2025",
+    "field": "Engineering",
+    "year": 2025,
+    "citations": 2,
+    "field_mean": 4.25,
+    "mncs": 0.463,
+    "mncs_intracorpus": 0.471,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Chakraborty2024",
+    "field": "Psychology",
+    "year": 2024,
+    "citations": 3,
+    "field_mean": 26.36,
+    "mncs": 0.578,
+    "mncs_intracorpus": 0.114,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Singh2026",
+    "field": "Social Sciences",
+    "year": 2026,
+    "citations": 0,
+    "field_mean": 2.15,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Li2026b",
+    "field": "Computer Science",
+    "year": 2026,
+    "citations": 0,
+    "field_mean": 0.64,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Ortega2026",
+    "field": "Computer Science",
+    "year": 2026,
+    "citations": 1,
+    "field_mean": 0.64,
+    "mncs": 0.0,
+    "mncs_intracorpus": 1.571,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Lin2026a",
+    "field": "Social Sciences",
+    "year": 2026,
+    "citations": 0,
+    "field_mean": 2.15,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Morosanova2025",
+    "field": "Psychology",
+    "year": 2025,
+    "citations": 6,
+    "field_mean": 8.0,
+    "mncs": 3.731,
+    "mncs_intracorpus": 0.75,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Verdin2017",
+    "field": "Social Sciences",
+    "year": 2017,
+    "citations": 7,
+    "field_mean": 33.86,
+    "mncs": 1.356,
+    "mncs_intracorpus": 0.207,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Suasnavas2022",
+    "field": "Social Sciences",
+    "year": 2022,
+    "citations": 10,
+    "field_mean": 18.12,
+    "mncs": 2.014,
+    "mncs_intracorpus": 0.552,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Avedoy2026",
+    "field": "Social Sciences",
+    "year": 2026,
+    "citations": 0,
+    "field_mean": 2.15,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Chakraborty2026",
+    "field": "Social Sciences",
+    "year": 2026,
+    "citations": 0,
+    "field_mean": 2.15,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "KulturelKonak2019",
+    "field": "Social Sciences",
+    "year": 2019,
+    "citations": 6,
+    "field_mean": 14.71,
+    "mncs": 0.408,
+    "mncs_intracorpus": 0.408,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Lye2022",
+    "field": "Psychology",
+    "year": 2022,
+    "citations": 21,
+    "field_mean": 47.8,
+    "mncs": 2.303,
+    "mncs_intracorpus": 0.439,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "He2025",
+    "field": "Social Sciences",
+    "year": 2025,
+    "citations": 1,
+    "field_mean": 3.86,
+    "mncs": 2.106,
+    "mncs_intracorpus": 0.259,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Durrani2025",
+    "field": "Computer Science",
+    "year": 2025,
+    "citations": 0,
+    "field_mean": 1.44,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Pearce2015",
+    "field": "Social Sciences",
+    "year": 2015,
+    "citations": 18,
+    "field_mean": 36.0,
+    "mncs": 4.545,
+    "mncs_intracorpus": 0.5,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "EnriquezGavilan2025",
+    "field": "Social Sciences",
+    "year": 2025,
+    "citations": 30,
+    "field_mean": 3.86,
+    "mncs": 16.905,
+    "mncs_intracorpus": 7.772,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Husna2025",
+    "field": "Social Sciences",
+    "year": 2025,
+    "citations": 0,
+    "field_mean": 3.86,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Loo2025",
+    "field": "Social Sciences",
+    "year": 2025,
+    "citations": 2,
+    "field_mean": 3.86,
+    "mncs": 4.212,
+    "mncs_intracorpus": 0.518,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Sha2024",
+    "field": "Unknown",
+    "year": 2024,
+    "citations": 3,
+    "field_mean": 2.33,
+    "mncs": 1.286,
+    "mncs_intracorpus": 1.286,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "GuajardoCuellar2025",
+    "field": "Social Sciences",
+    "year": 2025,
+    "citations": 1,
+    "field_mean": 3.86,
+    "mncs": 2.106,
+    "mncs_intracorpus": 0.259,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Erlyana2026",
+    "field": "Computer Science",
+    "year": 2026,
+    "citations": 0,
+    "field_mean": 0.64,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "RodriguezCalderon2026",
+    "field": "Social Sciences",
+    "year": 2026,
+    "citations": 0,
+    "field_mean": 2.15,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Syahmaidi2019",
+    "field": "Computer Science",
+    "year": 2019,
+    "citations": 19,
+    "field_mean": 13.17,
+    "mncs": 0.962,
+    "mncs_intracorpus": 1.442,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Nagai2021",
+    "field": "Decision Sciences",
+    "year": 2021,
+    "citations": 0,
+    "field_mean": 5.75,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Zavala2026",
+    "field": "Unknown",
+    "year": 2026,
+    "citations": 0,
+    "field_mean": 0.2,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "KUHN2022",
+    "field": "Unknown",
+    "year": 2022,
+    "citations": 0,
+    "field_mean": 2.33,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Phillips2019a",
+    "field": "Social Sciences",
+    "year": 2019,
+    "citations": 4,
+    "field_mean": 14.71,
+    "mncs": 0.272,
+    "mncs_intracorpus": 0.272,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "AlvarezCastillo2022",
+    "field": "Social Sciences",
+    "year": 2022,
+    "citations": 1,
+    "field_mean": 18.12,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.055,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Mokarami2019",
+    "field": "Engineering",
+    "year": 2019,
+    "citations": 7,
+    "field_mean": 2.67,
+    "mncs": 2.625,
+    "mncs_intracorpus": 2.625,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "FloresRivera2026",
+    "field": "Environmental Science",
+    "year": 2026,
+    "citations": 0,
+    "field_mean": 0.0,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Reichert2025",
+    "field": "Psychology",
+    "year": 2025,
+    "citations": 0,
+    "field_mean": 8.0,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Li2026e",
+    "field": "Social Sciences",
+    "year": 2026,
+    "citations": 0,
+    "field_mean": 2.15,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Velarde2024",
+    "field": "Social Sciences",
+    "year": 2024,
+    "citations": 1,
+    "field_mean": 6.3,
+    "mncs": 0.815,
+    "mncs_intracorpus": 0.159,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Tubbs2025",
+    "field": "Social Sciences",
+    "year": 2025,
+    "citations": 0,
+    "field_mean": 3.86,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "AlShuaili2025",
+    "field": "Social Sciences",
+    "year": 2025,
+    "citations": 19,
+    "field_mean": 3.86,
+    "mncs": 10.973,
+    "mncs_intracorpus": 4.922,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Terry2025",
+    "field": "Psychology",
+    "year": 2025,
+    "citations": 0,
+    "field_mean": 8.0,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Abdullah2017",
+    "field": "Decision Sciences",
+    "year": 2017,
+    "citations": 0,
+    "field_mean": 5.75,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Scharf2014",
+    "field": "Social Sciences",
+    "year": 2014,
+    "citations": 11,
+    "field_mean": 33.71,
+    "mncs": 1.392,
+    "mncs_intracorpus": 0.326,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Catena2026",
+    "field": "Psychology",
+    "year": 2026,
+    "citations": 0,
+    "field_mean": 0.43,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Rizwan2021",
+    "field": "Unknown",
+    "year": 2021,
+    "citations": 22,
+    "field_mean": 2.33,
+    "mncs": 9.429,
+    "mncs_intracorpus": 9.429,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Kotla2025",
+    "field": "Social Sciences",
+    "year": 2025,
+    "citations": 0,
+    "field_mean": 3.86,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "GarciaHuertes2025",
+    "field": "Social Sciences",
+    "year": 2025,
+    "citations": 0,
+    "field_mean": 3.86,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Oliveira2014",
+    "field": "Psychology",
+    "year": 2014,
+    "citations": 1,
+    "field_mean": 54.67,
+    "mncs": 0.894,
+    "mncs_intracorpus": 0.018,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Novianti2025",
+    "field": "Arts and Humanities",
+    "year": 2025,
+    "citations": 1,
+    "field_mean": 0.5,
+    "mncs": 1.185,
+    "mncs_intracorpus": 2.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Ye2026",
+    "field": "Social Sciences",
+    "year": 2026,
+    "citations": 0,
+    "field_mean": 2.15,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "SanSebastian2026",
+    "field": "Social Sciences",
+    "year": 2026,
+    "citations": 0,
+    "field_mean": 2.15,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Truyol2025",
+    "field": "Social Sciences",
+    "year": 2025,
+    "citations": 1,
+    "field_mean": 3.86,
+    "mncs": 2.106,
+    "mncs_intracorpus": 0.259,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Sinche2024",
+    "field": "Social Sciences",
+    "year": 2024,
+    "citations": 2,
+    "field_mean": 6.3,
+    "mncs": 1.63,
+    "mncs_intracorpus": 0.317,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Liu2026b",
+    "field": "Social Sciences",
+    "year": 2026,
+    "citations": 0,
+    "field_mean": 2.15,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Iskandar2025",
+    "field": "Social Sciences",
+    "year": 2025,
+    "citations": 6,
+    "field_mean": 3.86,
+    "mncs": 3.465,
+    "mncs_intracorpus": 1.554,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "SarppaRaje2025",
+    "field": "Social Sciences",
+    "year": 2025,
+    "citations": 3,
+    "field_mean": 3.86,
+    "mncs": 1.69,
+    "mncs_intracorpus": 0.777,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "SimmonsPE2025",
+    "field": "Psychology",
+    "year": 2025,
+    "citations": 0,
+    "field_mean": 8.0,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Lu2026",
+    "field": "Arts and Humanities",
+    "year": 2026,
+    "citations": 0,
+    "field_mean": 0.5,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "CAZARINIFELICIO2018",
+    "field": "Social Sciences",
+    "year": 2018,
+    "citations": 5,
+    "field_mean": 23.5,
+    "mncs": 0.213,
+    "mncs_intracorpus": 0.213,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Fogg2026",
+    "field": "Social Sciences",
+    "year": 2026,
+    "citations": 0,
+    "field_mean": 2.15,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Lu2025",
+    "field": "Social Sciences",
+    "year": 2025,
+    "citations": 0,
+    "field_mean": 3.86,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Ramos2025",
+    "field": "Social Sciences",
+    "year": 2025,
+    "citations": 0,
+    "field_mean": 3.86,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Waleeittipat2025",
+    "field": "Social Sciences",
+    "year": 2025,
+    "citations": 0,
+    "field_mean": 3.86,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Kwaczala2025",
+    "field": "Psychology",
+    "year": 2025,
+    "citations": 0,
+    "field_mean": 8.0,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Cortazar2025",
+    "field": "Business, Management and Accounting",
+    "year": 2025,
+    "citations": 0,
+    "field_mean": 1.0,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Pawar2026b",
+    "field": "Social Sciences",
+    "year": 2026,
+    "citations": 0,
+    "field_mean": 2.15,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "BHATNAGAR2026",
+    "field": "Unknown",
+    "year": 2026,
+    "citations": 0,
+    "field_mean": 0.2,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Soule2025",
+    "field": "Computer Science",
+    "year": 2025,
+    "citations": 0,
+    "field_mean": 1.44,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Choe2025",
+    "field": "Social Sciences",
+    "year": 2025,
+    "citations": 0,
+    "field_mean": 3.86,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Banks2020",
+    "field": "Engineering",
+    "year": 2020,
+    "citations": 2,
+    "field_mean": 4.25,
+    "mncs": 0.471,
+    "mncs_intracorpus": 0.471,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Johnson2025",
+    "field": "Social Sciences",
+    "year": 2025,
+    "citations": 1,
+    "field_mean": 3.86,
+    "mncs": 2.106,
+    "mncs_intracorpus": 0.259,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "MunozVallejos2025",
+    "field": "Social Sciences",
+    "year": 2025,
+    "citations": 0,
+    "field_mean": 3.86,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Ernst2016",
+    "field": "Social Sciences",
+    "year": 2016,
+    "citations": 10,
+    "field_mean": 11.57,
+    "mncs": 2.169,
+    "mncs_intracorpus": 0.864,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "AbigailRojasCastilla2026",
+    "field": "Business, Management and Accounting",
+    "year": 2026,
+    "citations": 0,
+    "field_mean": 25.0,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "MolinaBarzola2025",
+    "field": "Social Sciences",
+    "year": 2025,
+    "citations": 2,
+    "field_mean": 3.86,
+    "mncs": 4.212,
+    "mncs_intracorpus": 0.518,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Ismael2025",
+    "field": "Social Sciences",
+    "year": 2025,
+    "citations": 0,
+    "field_mean": 3.86,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Han2020",
+    "field": "Social Sciences",
+    "year": 2020,
+    "citations": 9,
+    "field_mean": 19.0,
+    "mncs": 0.474,
+    "mncs_intracorpus": 0.474,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Yellamraju2019",
+    "field": "Computer Science",
+    "year": 2019,
+    "citations": 22,
+    "field_mean": 13.17,
+    "mncs": 1.47,
+    "mncs_intracorpus": 1.67,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Barria2025",
+    "field": "Social Sciences",
+    "year": 2025,
+    "citations": 0,
+    "field_mean": 3.86,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "RockerYoel2022",
+    "field": "Psychology",
+    "year": 2022,
+    "citations": 50,
+    "field_mean": 47.8,
+    "mncs": 6.685,
+    "mncs_intracorpus": 1.046,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Shell2014",
+    "field": "Computer Science",
+    "year": 2014,
+    "citations": 47,
+    "field_mean": 13.17,
+    "mncs": 1.736,
+    "mncs_intracorpus": 3.568,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Whitcomb2019",
+    "field": "Psychology",
+    "year": 2019,
+    "citations": 12,
+    "field_mean": 26.75,
+    "mncs": 2.621,
+    "mncs_intracorpus": 0.449,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Bravo2021",
+    "field": "Social Sciences",
+    "year": 2021,
+    "citations": 16,
+    "field_mean": 24.27,
+    "mncs": 0.659,
+    "mncs_intracorpus": 0.659,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Galster2024",
+    "field": "Social Sciences",
+    "year": 2024,
+    "citations": 7,
+    "field_mean": 6.3,
+    "mncs": 5.642,
+    "mncs_intracorpus": 1.111,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Sutadji2016",
+    "field": "Social Sciences",
+    "year": 2016,
+    "citations": 9,
+    "field_mean": 11.57,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.778,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Kittur2020",
+    "field": "Computer Science",
+    "year": 2020,
+    "citations": 45,
+    "field_mean": 13.17,
+    "mncs": 4.27,
+    "mncs_intracorpus": 3.416,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "RosasEspinoza2026",
+    "field": "Social Sciences",
+    "year": 2026,
+    "citations": 0,
+    "field_mean": 2.15,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "WETTSTEIN2024",
+    "field": "Unknown",
+    "year": 2024,
+    "citations": 3,
+    "field_mean": 2.33,
+    "mncs": 1.286,
+    "mncs_intracorpus": 1.286,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Muda2025",
+    "field": "Computer Science",
+    "year": 2025,
+    "citations": 0,
+    "field_mean": 1.44,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Johannsen2025",
+    "field": "Social Sciences",
+    "year": 2025,
+    "citations": 0,
+    "field_mean": 3.86,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Gurganus2023",
+    "field": "Social Sciences",
+    "year": 2023,
+    "citations": 2,
+    "field_mean": 6.64,
+    "mncs": 1.367,
+    "mncs_intracorpus": 0.301,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Fadillah2023",
+    "field": "Computer Science",
+    "year": 2023,
+    "citations": 7,
+    "field_mean": 13.17,
+    "mncs": 0.97,
+    "mncs_intracorpus": 0.531,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Zappe2014",
+    "field": "Social Sciences",
+    "year": 2014,
+    "citations": 1,
+    "field_mean": 33.71,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.03,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Morphew2025",
+    "field": "Social Sciences",
+    "year": 2025,
+    "citations": 0,
+    "field_mean": 3.86,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Haryudo2020",
+    "field": "Social Sciences",
+    "year": 2020,
+    "citations": 2,
+    "field_mean": 19.0,
+    "mncs": 1.305,
+    "mncs_intracorpus": 0.105,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Yodnil2026",
+    "field": "Social Sciences",
+    "year": 2026,
+    "citations": 0,
+    "field_mean": 2.15,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Cicciarelli2020",
+    "field": "Social Sciences",
+    "year": 2020,
+    "citations": 4,
+    "field_mean": 19.0,
+    "mncs": 0.211,
+    "mncs_intracorpus": 0.211,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "M2026",
+    "field": "Mathematics",
+    "year": 2026,
+    "citations": 0,
+    "field_mean": 1.0,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "NietoJalil2026b",
+    "field": "Computer Science",
+    "year": 2026,
+    "citations": 1,
+    "field_mean": 0.64,
+    "mncs": 0.0,
+    "mncs_intracorpus": 1.571,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Robol2025",
+    "field": "Social Sciences",
+    "year": 2025,
+    "citations": 2,
+    "field_mean": 3.86,
+    "mncs": 4.212,
+    "mncs_intracorpus": 0.518,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Lee2020",
+    "field": "Psychology",
+    "year": 2020,
+    "citations": 5,
+    "field_mean": 4.33,
+    "mncs": 1.154,
+    "mncs_intracorpus": 1.154,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "DiazTriana2024",
+    "field": "Social Sciences",
+    "year": 2024,
+    "citations": 0,
+    "field_mean": 6.3,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "GalindoCota2025",
+    "field": "Social Sciences",
+    "year": 2025,
+    "citations": 0,
+    "field_mean": 3.86,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Tolbert2016",
+    "field": "Engineering",
+    "year": 2016,
+    "citations": 0,
+    "field_mean": 4.25,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "BernalOlvera2024",
+    "field": "Social Sciences",
+    "year": 2024,
+    "citations": 0,
+    "field_mean": 6.3,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "TulioCanalesChavez2026",
+    "field": "Social Sciences",
+    "year": 2026,
+    "citations": 0,
+    "field_mean": 2.15,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Gray2020",
+    "field": "Social Sciences",
+    "year": 2020,
+    "citations": 4,
+    "field_mean": 19.0,
+    "mncs": 0.211,
+    "mncs_intracorpus": 0.211,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Choe2017",
+    "field": "Social Sciences",
+    "year": 2017,
+    "citations": 20,
+    "field_mean": 33.86,
+    "mncs": 0.591,
+    "mncs_intracorpus": 0.591,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "YeomansGalli2023",
+    "field": "Earth and Planetary Sciences",
+    "year": 2023,
+    "citations": 3,
+    "field_mean": 3.0,
+    "mncs": 2.252,
+    "mncs_intracorpus": 1.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Ilich2026",
+    "field": "Social Sciences",
+    "year": 2026,
+    "citations": 0,
+    "field_mean": 2.15,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "MakioMarusik2019",
+    "field": "Social Sciences",
+    "year": 2019,
+    "citations": 4,
+    "field_mean": 14.71,
+    "mncs": 3.683,
+    "mncs_intracorpus": 0.272,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Alfian2026",
+    "field": "Social Sciences",
+    "year": 2026,
+    "citations": 0,
+    "field_mean": 2.15,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Asogwa2021",
+    "field": "Social Sciences",
+    "year": 2021,
+    "citations": 2,
+    "field_mean": 24.27,
+    "mncs": 0.082,
+    "mncs_intracorpus": 0.082,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Gutfleisch2022",
+    "field": "Psychology",
+    "year": 2022,
+    "citations": 12,
+    "field_mean": 47.8,
+    "mncs": 7.967,
+    "mncs_intracorpus": 0.251,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "BuentelloMontoya2024",
+    "field": "Social Sciences",
+    "year": 2024,
+    "citations": 0,
+    "field_mean": 6.3,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Pan2026",
+    "field": "Psychology",
+    "year": 2026,
+    "citations": 0,
+    "field_mean": 0.43,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "R2022",
+    "field": "Social Sciences",
+    "year": 2022,
+    "citations": 5,
+    "field_mean": 18.12,
+    "mncs": 0.276,
+    "mncs_intracorpus": 0.276,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Lam2026",
+    "field": "Social Sciences",
+    "year": 2026,
+    "citations": 1,
+    "field_mean": 2.15,
+    "mncs": 15.137,
+    "mncs_intracorpus": 0.465,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Dukes2019",
+    "field": "Engineering",
+    "year": 2019,
+    "citations": 1,
+    "field_mean": 2.67,
+    "mncs": 0.375,
+    "mncs_intracorpus": 0.375,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Davishahl2019",
+    "field": "Social Sciences",
+    "year": 2019,
+    "citations": 10,
+    "field_mean": 14.71,
+    "mncs": 0.68,
+    "mncs_intracorpus": 0.68,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Rathod2025",
+    "field": "Social Sciences",
+    "year": 2025,
+    "citations": 2,
+    "field_mean": 3.86,
+    "mncs": 4.212,
+    "mncs_intracorpus": 0.518,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Carmona2026",
+    "field": "Social Sciences",
+    "year": 2026,
+    "citations": 0,
+    "field_mean": 2.15,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Ford2020",
+    "field": "Psychology",
+    "year": 2020,
+    "citations": 5,
+    "field_mean": 4.33,
+    "mncs": 1.154,
+    "mncs_intracorpus": 1.154,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Acharya2017",
+    "field": "Social Sciences",
+    "year": 2017,
+    "citations": 3,
+    "field_mean": 33.86,
+    "mncs": 0.089,
+    "mncs_intracorpus": 0.089,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Sarker2024",
+    "field": "Social Sciences",
+    "year": 2024,
+    "citations": 6,
+    "field_mean": 6.3,
+    "mncs": 0.952,
+    "mncs_intracorpus": 0.952,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Morano2020",
+    "field": "Social Sciences",
+    "year": 2020,
+    "citations": 6,
+    "field_mean": 19.0,
+    "mncs": 0.316,
+    "mncs_intracorpus": 0.316,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "JIN2015",
+    "field": "Social Sciences",
+    "year": 2015,
+    "citations": 20,
+    "field_mean": 36.0,
+    "mncs": 0.556,
+    "mncs_intracorpus": 0.556,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Liu2026c",
+    "field": "Psychology",
+    "year": 2026,
+    "citations": 0,
+    "field_mean": 0.43,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Salunke2017",
+    "field": "Social Sciences",
+    "year": 2017,
+    "citations": 6,
+    "field_mean": 33.86,
+    "mncs": 1.356,
+    "mncs_intracorpus": 0.177,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Smyser2020",
+    "field": "Social Sciences",
+    "year": 2020,
+    "citations": 2,
+    "field_mean": 19.0,
+    "mncs": 0.105,
+    "mncs_intracorpus": 0.105,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Pombo2025",
+    "field": "Computer Science",
+    "year": 2025,
+    "citations": 1,
+    "field_mean": 1.44,
+    "mncs": 0.331,
+    "mncs_intracorpus": 0.692,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Elmunsvah2018",
+    "field": "Social Sciences",
+    "year": 2018,
+    "citations": 7,
+    "field_mean": 23.5,
+    "mncs": 5.388,
+    "mncs_intracorpus": 0.298,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "MohdSalleh2017",
+    "field": "Social Sciences",
+    "year": 2017,
+    "citations": 8,
+    "field_mean": 33.86,
+    "mncs": 5.28,
+    "mncs_intracorpus": 0.236,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Schar2017",
+    "field": "Social Sciences",
+    "year": 2017,
+    "citations": 56,
+    "field_mean": 33.86,
+    "mncs": 1.654,
+    "mncs_intracorpus": 1.654,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Aristondo2019",
+    "field": "Psychology",
+    "year": 2019,
+    "citations": 3,
+    "field_mean": 26.75,
+    "mncs": 0.663,
+    "mncs_intracorpus": 0.112,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Kinane2023",
+    "field": "Social Sciences",
+    "year": 2023,
+    "citations": 3,
+    "field_mean": 6.64,
+    "mncs": 0.452,
+    "mncs_intracorpus": 0.452,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Jazebizadeh2020",
+    "field": "Unknown",
+    "year": 2020,
+    "citations": 0,
+    "field_mean": 2.33,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "GarayRondero2024",
+    "field": "Social Sciences",
+    "year": 2024,
+    "citations": 35,
+    "field_mean": 6.3,
+    "mncs": 10.182,
+    "mncs_intracorpus": 5.556,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Orazov2026",
+    "field": "Unknown",
+    "year": 2026,
+    "citations": 0,
+    "field_mean": 0.2,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Haron2014",
+    "field": "Psychology",
+    "year": 2014,
+    "citations": 2,
+    "field_mean": 54.67,
+    "mncs": 0.548,
+    "mncs_intracorpus": 0.037,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Barrage2017",
+    "field": "Social Sciences",
+    "year": 2017,
+    "citations": 7,
+    "field_mean": 33.86,
+    "mncs": 0.207,
+    "mncs_intracorpus": 0.207,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Charite2016",
+    "field": "Social Sciences",
+    "year": 2016,
+    "citations": 2,
+    "field_mean": 11.57,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.173,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Oishi2017",
+    "field": "Social Sciences",
+    "year": 2017,
+    "citations": 3,
+    "field_mean": 33.86,
+    "mncs": 0.089,
+    "mncs_intracorpus": 0.089,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Watson2016",
+    "field": "Computer Science",
+    "year": 2016,
+    "citations": 172,
+    "field_mean": 13.17,
+    "mncs": 13.058,
+    "mncs_intracorpus": 13.058,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "PAEZ2014",
+    "field": "Social Sciences",
+    "year": 2014,
+    "citations": 0,
+    "field_mean": 33.71,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Thurner2020",
+    "field": "Social Sciences",
+    "year": 2020,
+    "citations": 5,
+    "field_mean": 19.0,
+    "mncs": 3.263,
+    "mncs_intracorpus": 0.263,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Simper2016",
+    "field": "Social Sciences",
+    "year": 2016,
+    "citations": 27,
+    "field_mean": 11.57,
+    "mncs": 7.272,
+    "mncs_intracorpus": 2.333,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Huvard2025",
+    "field": "Psychology",
+    "year": 2025,
+    "citations": 1,
+    "field_mean": 8.0,
+    "mncs": 0.125,
+    "mncs_intracorpus": 0.125,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "BastidaEscamilla2022",
+    "field": "Social Sciences",
+    "year": 2022,
+    "citations": 4,
+    "field_mean": 18.12,
+    "mncs": 3.573,
+    "mncs_intracorpus": 0.221,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Fini2018",
+    "field": "Social Sciences",
+    "year": 2018,
+    "citations": 157,
+    "field_mean": 23.5,
+    "mncs": 15.38,
+    "mncs_intracorpus": 6.681,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Berger2017",
+    "field": "Social Sciences",
+    "year": 2017,
+    "citations": 3,
+    "field_mean": 33.86,
+    "mncs": 0.089,
+    "mncs_intracorpus": 0.089,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Beem2023",
+    "field": "Social Sciences",
+    "year": 2023,
+    "citations": 3,
+    "field_mean": 6.64,
+    "mncs": 0.452,
+    "mncs_intracorpus": 0.452,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "VanderWal2023",
+    "field": "Social Sciences",
+    "year": 2023,
+    "citations": 9,
+    "field_mean": 6.64,
+    "mncs": 1.355,
+    "mncs_intracorpus": 1.355,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Denson2018b",
+    "field": "Psychology",
+    "year": 2018,
+    "citations": 1,
+    "field_mean": 26.36,
+    "mncs": 0.038,
+    "mncs_intracorpus": 0.038,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Liu2022",
+    "field": "Social Sciences",
+    "year": 2022,
+    "citations": 12,
+    "field_mean": 18.12,
+    "mncs": 0.662,
+    "mncs_intracorpus": 0.662,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Kittur2024",
+    "field": "Psychology",
+    "year": 2024,
+    "citations": 0,
+    "field_mean": 26.36,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Davis2023",
+    "field": "Social Sciences",
+    "year": 2023,
+    "citations": 14,
+    "field_mean": 6.64,
+    "mncs": 2.108,
+    "mncs_intracorpus": 2.108,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "VazquezParra2021",
+    "field": "Business, Management and Accounting",
+    "year": 2021,
+    "citations": 37,
+    "field_mean": 25.0,
+    "mncs": 2.939,
+    "mncs_intracorpus": 1.48,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Baker2015",
+    "field": "Psychology",
+    "year": 2015,
+    "citations": 23,
+    "field_mean": 26.36,
+    "mncs": 0.873,
+    "mncs_intracorpus": 0.873,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Lazarus2018",
+    "field": "Engineering",
+    "year": 2018,
+    "citations": 1,
+    "field_mean": 4.25,
+    "mncs": 0.235,
+    "mncs_intracorpus": 0.235,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Davies2015",
+    "field": "Social Sciences",
+    "year": 2015,
+    "citations": 9,
+    "field_mean": 36.0,
+    "mncs": 0.25,
+    "mncs_intracorpus": 0.25,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Abiodun2024",
+    "field": "Social Sciences",
+    "year": 2024,
+    "citations": 0,
+    "field_mean": 6.3,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Butt2024",
+    "field": "Social Sciences",
+    "year": 2024,
+    "citations": 1,
+    "field_mean": 6.3,
+    "mncs": 0.159,
+    "mncs_intracorpus": 0.159,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Zhang2023",
+    "field": "Engineering",
+    "year": 2023,
+    "citations": 1,
+    "field_mean": 4.25,
+    "mncs": 0.235,
+    "mncs_intracorpus": 0.235,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Cutri2023",
+    "field": "Social Sciences",
+    "year": 2023,
+    "citations": 3,
+    "field_mean": 6.64,
+    "mncs": 0.452,
+    "mncs_intracorpus": 0.452,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Rahdiyanta2019",
+    "field": "Social Sciences",
+    "year": 2019,
+    "citations": 43,
+    "field_mean": 14.71,
+    "mncs": 2.922,
+    "mncs_intracorpus": 2.922,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Smith2024",
+    "field": "Social Sciences",
+    "year": 2024,
+    "citations": 2,
+    "field_mean": 6.3,
+    "mncs": 0.317,
+    "mncs_intracorpus": 0.317,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Yaghoubisharif2024",
+    "field": "Social Sciences",
+    "year": 2024,
+    "citations": 0,
+    "field_mean": 6.3,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Chua2014",
+    "field": "Social Sciences",
+    "year": 2014,
+    "citations": 57,
+    "field_mean": 33.71,
+    "mncs": 1.691,
+    "mncs_intracorpus": 1.691,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Bombaerts2019",
+    "field": "Unknown",
+    "year": 2019,
+    "citations": 0,
+    "field_mean": 2.33,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "MurbakNunes2025",
+    "field": "Computer Science",
+    "year": 2025,
+    "citations": 0,
+    "field_mean": 1.44,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Bolhari2023",
+    "field": "Social Sciences",
+    "year": 2023,
+    "citations": 0,
+    "field_mean": 6.64,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Zakariya2019",
+    "field": "Psychology",
+    "year": 2019,
+    "citations": 37,
+    "field_mean": 26.75,
+    "mncs": 1.383,
+    "mncs_intracorpus": 1.383,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Alhadiah2021",
+    "field": "Engineering",
+    "year": 2021,
+    "citations": 7,
+    "field_mean": 4.25,
+    "mncs": 1.647,
+    "mncs_intracorpus": 1.647,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Ippolito2022",
+    "field": "Mathematics",
+    "year": 2022,
+    "citations": 2,
+    "field_mean": 1.0,
+    "mncs": 2.0,
+    "mncs_intracorpus": 2.0,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Gwynn2024",
+    "field": "Business, Management and Accounting",
+    "year": 2024,
+    "citations": 2,
+    "field_mean": 25.0,
+    "mncs": 0.08,
+    "mncs_intracorpus": 0.08,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Agarwal2023",
+    "field": "Social Sciences",
+    "year": 2023,
+    "citations": 2,
+    "field_mean": 6.64,
+    "mncs": 0.301,
+    "mncs_intracorpus": 0.301,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Phillips2019b",
+    "field": "Engineering",
+    "year": 2019,
+    "citations": 0,
+    "field_mean": 2.67,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Scribner2022",
+    "field": "Social Sciences",
+    "year": 2022,
+    "citations": 0,
+    "field_mean": 18.12,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Herrera2025",
+    "field": "Social Sciences",
+    "year": 2025,
+    "citations": 1,
+    "field_mean": 3.86,
+    "mncs": 0.259,
+    "mncs_intracorpus": 0.259,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "GonzalezAravena2025",
+    "field": "Unknown",
+    "year": 2025,
+    "citations": 0,
+    "field_mean": 2.33,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Gupta2025",
+    "field": "Computer Science",
+    "year": 2025,
+    "citations": 1,
+    "field_mean": 1.44,
+    "mncs": 0.692,
+    "mncs_intracorpus": 0.692,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Haase2014",
+    "field": "Social Sciences",
+    "year": 2014,
+    "citations": 29,
+    "field_mean": 33.71,
+    "mncs": 0.86,
+    "mncs_intracorpus": 0.86,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Pocsova2020",
+    "field": "Social Sciences",
+    "year": 2020,
+    "citations": 52,
+    "field_mean": 19.0,
+    "mncs": 2.737,
+    "mncs_intracorpus": 2.737,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "MotahhariNejad2021",
+    "field": "Social Sciences",
+    "year": 2021,
+    "citations": 9,
+    "field_mean": 24.27,
+    "mncs": 0.371,
+    "mncs_intracorpus": 0.371,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Taskinen2015",
+    "field": "Social Sciences",
+    "year": 2015,
+    "citations": 6,
+    "field_mean": 36.0,
+    "mncs": 0.167,
+    "mncs_intracorpus": 0.167,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Ajmal2026",
+    "field": "Social Sciences",
+    "year": 2026,
+    "citations": 0,
+    "field_mean": 2.15,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Ibrahim2018",
+    "field": "Social Sciences",
+    "year": 2018,
+    "citations": 1,
+    "field_mean": 23.5,
+    "mncs": 0.043,
+    "mncs_intracorpus": 0.043,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Lin2022",
+    "field": "Unknown",
+    "year": 2022,
+    "citations": 0,
+    "field_mean": 2.33,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Shekhar2018",
+    "field": "Business, Management and Accounting",
+    "year": 2018,
+    "citations": 7,
+    "field_mean": 25.0,
+    "mncs": 0.28,
+    "mncs_intracorpus": 0.28,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Korkmaz2016",
+    "field": "Social Sciences",
+    "year": 2016,
+    "citations": 6,
+    "field_mean": 11.57,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.519,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Kumar2026",
+    "field": "Computer Science",
+    "year": 2026,
+    "citations": 1,
+    "field_mean": 0.64,
+    "mncs": 1.571,
+    "mncs_intracorpus": 1.571,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Carnell2018",
+    "field": "Social Sciences",
+    "year": 2018,
+    "citations": 6,
+    "field_mean": 23.5,
+    "mncs": 0.255,
+    "mncs_intracorpus": 0.255,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Jardim2022",
+    "field": "Social Sciences",
+    "year": 2022,
+    "citations": 88,
+    "field_mean": 18.12,
+    "mncs": 4.855,
+    "mncs_intracorpus": 4.855,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Pineda2026",
+    "field": "Computer Science",
+    "year": 2026,
+    "citations": 0,
+    "field_mean": 0.64,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "Kristianto2025",
+    "field": "Social Sciences",
+    "year": 2025,
+    "citations": 2,
+    "field_mean": 3.86,
+    "mncs": 1.127,
+    "mncs_intracorpus": 0.518,
+    "normalization_source": "openalex_world_fwci"
+  },
+  {
+    "key": "FlorianHuaman2026",
+    "field": "Social Sciences",
+    "year": 2026,
+    "citations": 0,
+    "field_mean": 2.15,
+    "mncs": 0.0,
+    "mncs_intracorpus": 0.0,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Yoon2016",
+    "field": "Social Sciences",
+    "year": 2016,
+    "citations": 4,
+    "field_mean": 11.57,
+    "mncs": 0.346,
+    "mncs_intracorpus": 0.346,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Makhathini2020",
+    "field": "Psychology",
+    "year": 2020,
+    "citations": 3,
+    "field_mean": 4.33,
+    "mncs": 0.692,
+    "mncs_intracorpus": 0.692,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Sheridan2014",
+    "field": "Social Sciences",
+    "year": 2014,
+    "citations": 12,
+    "field_mean": 33.71,
+    "mncs": 0.356,
+    "mncs_intracorpus": 0.356,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "DeMara2019",
+    "field": "Social Sciences",
+    "year": 2019,
+    "citations": 31,
+    "field_mean": 14.71,
+    "mncs": 2.107,
+    "mncs_intracorpus": 2.107,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "JaegerHelton2018",
+    "field": "Social Sciences",
+    "year": 2018,
+    "citations": 1,
+    "field_mean": 23.5,
+    "mncs": 0.043,
+    "mncs_intracorpus": 0.043,
+    "normalization_source": "cohort_field_year"
+  },
+  {
+    "key": "Parkavi2023",
+    "field": "Psychology",
+    "year": 2023,
+    "citations": 6,
+    "field_mean": 26.36,
+    "mncs": 0.228,
+    "mncs_intracorpus": 0.228,
+    "normalization_source": "cohort_field_year"
+  }
+]

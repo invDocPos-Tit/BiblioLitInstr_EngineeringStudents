@@ -1,0 +1,516 @@
+{
+ "n": 347,
+ "notes": "estimates are exponentiated (odds ratios for logistic, rate ratios for negative binomial) with 95% Wald intervals",
+ "M1_trend": {
+  "yearly_counts": {
+   "2014": 11,
+   "2015": 11,
+   "2016": 12,
+   "2017": 16,
+   "2018": 15,
+   "2019": 17,
+   "2020": 18,
+   "2021": 19,
+   "2022": 27,
+   "2023": 21,
+   "2024": 28,
+   "2025": 76
+  },
+  "rate_ratio_per_year_2014_2025": {
+   "estimate": 1.16,
+   "ci_low": 1.101,
+   "ci_high": 1.223,
+   "p": 0.0
+  },
+  "rate_ratio_per_year_2014_2024": {
+   "estimate": 1.098,
+   "ci_low": 1.049,
+   "ci_high": 1.149,
+   "p": 0.0001
+  },
+  "expected_2025_from_2014_2024_trend": 29.7,
+  "observed_2025": 76
+ },
+ "M2_technical": {
+  "yc": {
+   "estimate": 1.072,
+   "ci_low": 1.006,
+   "ci_high": 1.142,
+   "p": 0.0327
+  },
+  "journal": {
+   "estimate": 0.914,
+   "ci_low": 0.585,
+   "ci_high": 1.426,
+   "p": 0.6908
+  }
+ },
+ "M3_performance": {
+  "technical": {
+   "estimate": 1.507,
+   "ci_low": 0.859,
+   "ci_high": 2.643,
+   "p": 0.153
+  },
+  "transversal": {
+   "estimate": 0.335,
+   "ci_low": 0.191,
+   "ci_high": 0.586,
+   "p": 0.0001
+  },
+  "journal": {
+   "estimate": 1.329,
+   "ci_low": 0.755,
+   "ci_high": 2.337,
+   "p": 0.3238
+  },
+  "yc": {
+   "estimate": 1.045,
+   "ci_low": 0.965,
+   "ci_high": 1.131,
+   "p": 0.2793
+  }
+ },
+ "M4_roots": {
+  "n": 342,
+  "unadjusted_journal": {
+   "estimate": 3.013,
+   "ci_low": 1.516,
+   "ci_high": 5.988,
+   "p": 0.0016
+  },
+  "main": {
+   "journal": {
+    "estimate": 0.715,
+    "ci_low": 0.299,
+    "ci_high": 1.709,
+    "p": 0.4509
+   },
+   "yc": {
+    "estimate": 1.0,
+    "ci_low": 0.91,
+    "ci_high": 1.1,
+    "p": 0.9935
+   },
+   "transversal": {
+    "estimate": 1.256,
+    "ci_low": 0.562,
+    "ci_high": 2.805,
+    "p": 0.5783
+   },
+   "technical": {
+    "estimate": 0.51,
+    "ci_low": 0.235,
+    "ci_high": 1.106,
+    "p": 0.0882
+   },
+   "selfreport": {
+    "estimate": 2.617,
+    "ci_low": 0.799,
+    "ci_high": 8.569,
+    "p": 0.1118
+   },
+   "lref": {
+    "estimate": 6.716,
+    "ci_low": 3.251,
+    "ci_high": 13.871,
+    "p": 0.0
+   }
+  },
+  "interaction_journal_x_year": {
+   "estimate": 1.068,
+   "ci_low": 0.87,
+   "ci_high": 1.311,
+   "p": 0.529
+  },
+  "median_references": {
+   "journal": 38.0,
+   "conference": 16.0
+  }
+ },
+ "M4b_specific_terms": {
+  "unadjusted_journal": {
+   "estimate": 2.971,
+   "ci_low": 1.912,
+   "ci_high": 4.614,
+   "p": 0.0
+  },
+  "adjusted": {
+   "journal": {
+    "estimate": 3.36,
+    "ci_low": 2.117,
+    "ci_high": 5.333,
+    "p": 0.0
+   },
+   "labw": {
+    "estimate": 1.58,
+    "ci_low": 0.798,
+    "ci_high": 3.129,
+    "p": 0.1891
+   },
+   "yc": {
+    "estimate": 0.885,
+    "ci_low": 0.829,
+    "ci_high": 0.946,
+    "p": 0.0003
+   },
+   "transversal": {
+    "estimate": 0.965,
+    "ci_low": 0.582,
+    "ci_high": 1.601,
+    "p": 0.8906
+   },
+   "technical": {
+    "estimate": 0.835,
+    "ci_low": 0.517,
+    "ci_high": 1.349,
+    "p": 0.4614
+   }
+  },
+  "median_abstract_words": {
+   "journal": 226.5,
+   "conference": 229.0
+  }
+ },
+ "M5_citations": {
+  "n": 347,
+  "alpha": 0.731,
+  "effects": {
+   "journal": {
+    "estimate": 3.888,
+    "ci_low": 2.938,
+    "ci_high": 5.145,
+    "p": 0.0
+   },
+   "oa": {
+    "estimate": 0.971,
+    "ci_low": 0.747,
+    "ci_high": 1.263,
+    "p": 0.8279
+   },
+   "mcp": {
+    "estimate": 1.545,
+    "ci_low": 1.069,
+    "ci_high": 2.233,
+    "p": 0.0206
+   },
+   "specific": {
+    "estimate": 0.828,
+    "ci_low": 0.65,
+    "ci_high": 1.054,
+    "p": 0.1253
+   },
+   "roots": {
+    "estimate": 1.24,
+    "ci_low": 0.9,
+    "ci_high": 1.708,
+    "p": 0.189
+   },
+   "lref": {
+    "estimate": 2.3,
+    "ci_low": 1.94,
+    "ci_high": 2.727,
+    "p": 0.0
+   }
+  }
+ },
+ "model_details": {
+  "M1": {
+   "type": "negative binomial",
+   "outcome": "documents per year, 2014-2024",
+   "n": 11,
+   "terms": [
+    {
+     "term": "Intercept",
+     "estimate": 10.6419,
+     "ci_low": 7.85236,
+     "ci_high": 14.4224,
+     "p": 0.0
+    },
+    {
+     "term": "t",
+     "estimate": 1.09791,
+     "ci_low": 1.04901,
+     "ci_high": 1.1491,
+     "p": 0.0001
+    }
+   ],
+   "reference": "t = years since 2014",
+   "note": "2025 expected from the 2014-2024 trend: 29.7; observed: 76",
+   "log_likelihood": -26.7,
+   "aic": 59.4,
+   "dispersion_alpha": 0.0
+  },
+  "M2": {
+   "type": "logistic",
+   "outcome": "names technical competencies",
+   "n": 347,
+   "terms": [
+    {
+     "term": "Intercept",
+     "estimate": 0.491527,
+     "ci_low": 0.340712,
+     "ci_high": 0.709099,
+     "p": 0.0001
+    },
+    {
+     "term": "yc",
+     "estimate": 1.07188,
+     "ci_low": 1.00574,
+     "ci_high": 1.14236,
+     "p": 0.0327
+    },
+    {
+     "term": "journal",
+     "estimate": 0.913591,
+     "ci_low": 0.585261,
+     "ci_high": 1.42611,
+     "p": 0.6908
+    }
+   ],
+   "reference": "conference paper; yc = year - 2020",
+   "note": "",
+   "log_likelihood": -223.79,
+   "aic": 453.6,
+   "events": 124,
+   "mcfadden_r2": 0.011
+  },
+  "M3": {
+   "type": "logistic",
+   "outcome": "names performance or observation instrument terms",
+   "n": 347,
+   "terms": [
+    {
+     "term": "Intercept",
+     "estimate": 0.302676,
+     "ci_low": 0.16434,
+     "ci_high": 0.55746,
+     "p": 0.0001
+    },
+    {
+     "term": "technical",
+     "estimate": 1.50656,
+     "ci_low": 0.858727,
+     "ci_high": 2.64312,
+     "p": 0.153
+    },
+    {
+     "term": "transversal",
+     "estimate": 0.334699,
+     "ci_low": 0.191294,
+     "ci_high": 0.585608,
+     "p": 0.0001
+    },
+    {
+     "term": "journal",
+     "estimate": 1.32872,
+     "ci_low": 0.755491,
+     "ci_high": 2.3369,
+     "p": 0.3238
+    },
+    {
+     "term": "yc",
+     "estimate": 1.04479,
+     "ci_low": 0.965063,
+     "ci_high": 1.13111,
+     "p": 0.2793
+    }
+   ],
+   "reference": "conference paper; not naming the competency group; yc = year - 2020",
+   "note": "",
+   "log_likelihood": -158.99,
+   "aic": 328.0,
+   "events": 66,
+   "mcfadden_r2": 0.058
+  },
+  "M4": {
+   "type": "logistic",
+   "outcome": "cites at least one classical psychometric root",
+   "n": 342,
+   "terms": [
+    {
+     "term": "Intercept",
+     "estimate": 0.000113661,
+     "ci_low": 7.13976e-06,
+     "ci_high": 0.00180943,
+     "p": 0.0
+    },
+    {
+     "term": "journal",
+     "estimate": 0.715341,
+     "ci_low": 0.299421,
+     "ci_high": 1.70901,
+     "p": 0.4509
+    },
+    {
+     "term": "yc",
+     "estimate": 1.0004,
+     "ci_low": 0.909889,
+     "ci_high": 1.09991,
+     "p": 0.9935
+    },
+    {
+     "term": "transversal",
+     "estimate": 1.25594,
+     "ci_low": 0.562351,
+     "ci_high": 2.80499,
+     "p": 0.5783
+    },
+    {
+     "term": "technical",
+     "estimate": 0.509931,
+     "ci_low": 0.235118,
+     "ci_high": 1.10595,
+     "p": 0.0882
+    },
+    {
+     "term": "selfreport",
+     "estimate": 2.61734,
+     "ci_low": 0.799485,
+     "ci_high": 8.5686,
+     "p": 0.1118
+    },
+    {
+     "term": "lref",
+     "estimate": 6.7158,
+     "ci_low": 3.25149,
+     "ci_high": 13.8711,
+     "p": 0.0
+    }
+   ],
+   "reference": "conference paper; not naming the group; lref = log(1 + resolved references)",
+   "note": "",
+   "log_likelihood": -115.08,
+   "aic": 244.2,
+   "events": 51,
+   "mcfadden_r2": 0.201
+  },
+  "M4b": {
+   "type": "logistic",
+   "outcome": "uses specific measurement-property terms",
+   "n": 347,
+   "terms": [
+    {
+     "term": "Intercept",
+     "estimate": 0.0798796,
+     "ci_low": 0.00204731,
+     "ci_high": 3.11664,
+     "p": 0.1764
+    },
+    {
+     "term": "journal",
+     "estimate": 3.35989,
+     "ci_low": 2.11679,
+     "ci_high": 5.33299,
+     "p": 0.0
+    },
+    {
+     "term": "labw",
+     "estimate": 1.5805,
+     "ci_low": 0.79824,
+     "ci_high": 3.12935,
+     "p": 0.1891
+    },
+    {
+     "term": "yc",
+     "estimate": 0.885404,
+     "ci_low": 0.828558,
+     "ci_high": 0.946149,
+     "p": 0.0003
+    },
+    {
+     "term": "transversal",
+     "estimate": 0.965106,
+     "ci_low": 0.581829,
+     "ci_high": 1.60086,
+     "p": 0.8906
+    },
+    {
+     "term": "technical",
+     "estimate": 0.835117,
+     "ci_low": 0.517005,
+     "ci_high": 1.34896,
+     "p": 0.4614
+    }
+   ],
+   "reference": "conference paper; labw = log(1 + abstract words)",
+   "note": "",
+   "log_likelihood": -218.19,
+   "aic": 448.4,
+   "events": 194,
+   "mcfadden_r2": 0.084
+  },
+  "M5": {
+   "type": "negative binomial",
+   "outcome": "citations",
+   "n": 347,
+   "terms": [
+    {
+     "term": "Intercept",
+     "estimate": 0.717174,
+     "ci_low": 0.331797,
+     "ci_high": 1.55016,
+     "p": 0.3979
+    },
+    {
+     "term": "journal",
+     "estimate": 3.88783,
+     "ci_low": 2.93772,
+     "ci_high": 5.14522,
+     "p": 0.0
+    },
+    {
+     "term": "oa",
+     "estimate": 0.971295,
+     "ci_low": 0.746972,
+     "ci_high": 1.26299,
+     "p": 0.8279
+    },
+    {
+     "term": "mcp",
+     "estimate": 1.54499,
+     "ci_low": 1.06906,
+     "ci_high": 2.23278,
+     "p": 0.0206
+    },
+    {
+     "term": "specific",
+     "estimate": 0.827551,
+     "ci_low": 0.649666,
+     "ci_high": 1.05414,
+     "p": 0.1253
+    },
+    {
+     "term": "roots",
+     "estimate": 1.23953,
+     "ci_low": 0.899719,
+     "ci_high": 1.70767,
+     "p": 0.189
+    },
+    {
+     "term": "lref",
+     "estimate": 2.29999,
+     "ci_low": 1.93961,
+     "ci_high": 2.72733,
+     "p": 0.0
+    }
+   ],
+   "reference": "conference paper, closed access, single country; publication year as factor (reference 2014; coefficients not shown)",
+   "note": "",
+   "log_likelihood": -920.89,
+   "aic": 1881.8,
+   "dispersion_alpha": 0.731
+  }
+ },
+ "descriptives": {
+  "journal": 194,
+  "oa": 196,
+  "mcp": 36,
+  "technical": 124,
+  "transversal": 244,
+  "selfreport": 284,
+  "performance": 66,
+  "specific": 194,
+  "roots": 51
+ }
+}

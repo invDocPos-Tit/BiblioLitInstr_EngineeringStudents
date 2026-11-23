@@ -1,0 +1,150 @@
+{
+ "fwci_openalex_by_field": {
+  "Social Sciences": {
+   "n": 172,
+   "median": 2.11,
+   "mean": 4.21,
+   "percent_above_1": 61.6
+  },
+  "Psychology": {
+   "n": 32,
+   "median": 2.06,
+   "mean": 4.27,
+   "percent_above_1": 53.1
+  },
+  "Computer Science": {
+   "n": 25,
+   "median": 0.35,
+   "mean": 1.14,
+   "percent_above_1": 40.0
+  },
+  "Business, Management and Accounting": {
+   "n": 9,
+   "median": 2.94,
+   "mean": 4.16,
+   "percent_above_1": 77.8
+  },
+  "Engineering": {
+   "n": 9,
+   "median": 1.01,
+   "mean": 0.79,
+   "percent_above_1": 55.6
+  },
+  "Decision Sciences": {
+   "n": 4,
+   "median": 0.17,
+   "mean": 0.48,
+   "percent_above_1": 25.0
+  },
+  "Arts and Humanities": {
+   "n": 2,
+   "median": 0.59,
+   "mean": 0.59,
+   "percent_above_1": 50.0
+  },
+  "Environmental Science": {
+   "n": 1,
+   "median": 0.0,
+   "mean": 0.0,
+   "percent_above_1": 0.0
+  },
+  "Mathematics": {
+   "n": 1,
+   "median": 0.0,
+   "mean": 0.0,
+   "percent_above_1": 0.0
+  },
+  "Earth and Planetary Sciences": {
+   "n": 1,
+   "median": 2.25,
+   "mean": 2.25,
+   "percent_above_1": 100.0
+  }
+ },
+ "fwci_openalex_overall": {
+  "n": 256,
+  "median": 1.486,
+  "mean": 3.668
+ },
+ "within_corpus_normalisation": {
+  "n": 91,
+  "median": 0.316,
+  "mean": 0.895,
+  "fields": {
+   "Social Sciences": 52,
+   "Unknown": 15,
+   "Psychology": 10,
+   "Engineering": 7,
+   "Computer Science": 4,
+   "Mathematics": 1,
+   "Business, Management and Accounting": 2
+  }
+ },
+ "mixed_mncs_check": {
+  "n": 332,
+  "median": 0.957,
+  "mean": 3.015,
+  "by_field": {
+   "Social Sciences": {
+    "n": 224,
+    "median": 1.15,
+    "mean": 3.38,
+    "percent_above_1": 50.9
+   },
+   "Psychology": {
+    "n": 42,
+    "median": 0.88,
+    "mean": 3.4,
+    "percent_above_1": 47.6
+   },
+   "Computer Science": {
+    "n": 29,
+    "median": 0.69,
+    "mean": 1.51,
+    "percent_above_1": 41.4
+   },
+   "Engineering": {
+    "n": 16,
+    "median": 0.47,
+    "mean": 0.79,
+    "percent_above_1": 43.8
+   },
+   "Business, Management and Accounting": {
+    "n": 11,
+    "median": 2.61,
+    "mean": 3.43,
+    "percent_above_1": 63.6
+   },
+   "Decision Sciences": {
+    "n": 4,
+    "median": 0.17,
+    "mean": 0.48,
+    "percent_above_1": 25.0
+   },
+   "Arts and Humanities": {
+    "n": 2,
+    "median": 0.59,
+    "mean": 0.59,
+    "percent_above_1": 50.0
+   },
+   "Mathematics": {
+    "n": 2,
+    "median": 1.0,
+    "mean": 1.0,
+    "percent_above_1": 50.0
+   },
+   "Environmental Science": {
+    "n": 1,
+    "median": 0.0,
+    "mean": 0.0,
+    "percent_above_1": 0.0
+   },
+   "Earth and Planetary Sciences": {
+    "n": 1,
+    "median": 2.25,
+    "mean": 2.25,
+    "percent_above_1": 100.0
+   }
+  }
+ }
+}

@@ -1,0 +1,73 @@
+[project]
+name = "biblio1403"
+version = "0.1.0"
+description = "Pipeline bibliometrico completo: enriquecimiento, redes, mapas de conocimiento y triangulacion"
+requires-python = ">=3.12"
+
+# Proyecto AUTONOMO. Lleva su copia del nucleo en ./autoshared/.
+#
+# IMPORTANTE: requirements.lock documenta el entorno EXACTO de la corrida
+# publicable (111 versiones de un pip freeze). No se borra: es el registro de
+# reproducibilidad de un paper enviado. Para reproducir esa corrida:
+#     uv pip install -r requirements.lock
+# Este pyproject declara las dependencias LOGICAS del trabajo en curso.
+dependencies = [
+    "pandas",
+    "numpy",
+    "scipy",
+    "requests",
+    "matplotlib",
+    "seaborn",
+    "networkx",
+    "python-dotenv",
+    "pdfplumber",
+    "pypdf",              # sucesor mantenido de PyPDF2 (ver abajo)
+    "PyPDF2",             # se conserva: el codigo actual aun lo importa
+    "openai",
+    "tiktoken",
+    "rapidfuzz",
+    "filelock",
+    "openpyxl",
+    "tqdm",
+    "bibtexparser",
+    "python-louvain",
+    "pyvis",
+    "adjustText",
+    "plotly",
+    "kaleido",
+    "pycountry",
+    "wordcloud",
+    "nltk",
+    "scikit-learn",
+    "python-docx",
+]
+
+[project.optional-dependencies]
+# Backend SEMANTICO de la triangulacion de Fase 8 (gap #1). Sin esto,
+# src/semantic_similarity.py degrada a TF-IDF y luego a rapidfuzz lexico.
+# La corrida publicable SI lo usaba: el backend efectivo de cada corrida queda
+# registrado en output/knowledge_map/*.json (campo triangulation_method).
+# Pesa ~3 GB porque arrastra torch.
+semantica = [
+    "sentence-transformers",
+    "umap-learn",
+    "hdbscan",
+]
+# Deteccion de idioma para el gap-filler de Fase 1k.
+idioma = [
+    "langdetect",
+    "langid",
+]
+
+[dependency-groups]
+dev = [
+    "burst-detection>=0.1.3",
+    "pyflakes>=4.1.0",
+    "pytest>=8.0",
+]
+
+[tool.uv]
+package = false
+
+[tool.pytest.ini_options]
+pythonpath = ["."]

@@ -1,0 +1,53 @@
+=== REVIEW PROTOCOL v3.1 ===
+
+TITLE: Measurement instruments for technical and transversal competencies in engineering education: a systematic review of measurement properties
+
+DOMAIN: engineering_competency_measurement
+
+REVIEW_TYPE: bibliometric
+
+
+
+TOPIC_STATEMENT:
+This review examines human-measurement instruments used with engineering students to assess technical or transversal competencies and the empirical evidence supporting their measurement properties.
+
+REVIEW_QUESTION:
+Which instruments were developed, validated, or culturally adapted from 2014 through 2026 to measure technical or transversal competencies in undergraduate or postgraduate engineering students, and what empirical measurement-property evidence do they report?
+
+QUESTION_FRAMEWORK:
+TYPE: PCC
+POPULATION: Undergraduate or postgraduate engineering students, including mixed samples in which engineering students are explicitly represented.
+CONCEPT: The eligible competency-measurement construct as defined in SCOPE_OF_REVIEW.
+CONTEXT: Engineering education in higher-education institutions.
+
+OBJECTIVE:
+Identify and characterize instruments for measuring technical and transversal competencies in engineering students and map the empirical evidence for their measurement properties for subsequent COSMIN-adapted appraisal.
+
+SEARCH_STRING_SCOPUS:
+TITLE-ABS-KEY (
+  ( "engineering education" OR "engineering student*" OR "engineering undergraduate*" OR "engineering curriculum" OR "electronic* engineering" OR "electrical engineering" )
+  AND
+  ( competenc* OR "technical skill*" OR "technical competenc*" OR "engineering skill*" OR "engineering competenc*" OR "soft skill*" OR "transversal skill*" OR "generic skill*" OR "professional skill*" OR "employability skill*" OR "self-efficacy" OR "critical thinking" OR "problem-solving skill*" OR "design skill*" OR "communication skill*" OR "teamwork skill*" )
+  AND
+  ( questionnaire* OR scale* OR inventory OR rubric* OR "measurement instrument*" OR "assessment tool*" OR "assessment instrument*" )
+  AND
+  ( psychometric* OR validit* OR validat* OR reliabilit* OR "internal consistency" OR "factor analys*" OR "item response theory" OR "measurement invariance" )
+)
+
+SEARCH_IMPLEMENTATION:
+- Translate the approved four-block concept to each database according to its field syntax and wildcard limits; document each executed string verbatim.
+- Record database, platform, execution date, filters, and records retrieved. Record the deduplication procedure before screening.
+- The expanded Scopus retrieval of 692 records (versus 633 before block-2 expansion) is a search-development observation, not an eligibility or precision estimate.
+- Do not modify the search during screening without documenting the reason, the version, and a reproducible rerun.
+
+SCOPE_OF_REVIEW:
+The review covers empirical human-measurement studies published from 2014 through 2026 in English, Spanish, or Portuguese, involving undergraduate or postgraduate engineering students and intended to measure a declared technical or transversal competency.
+CORE CONSTRUCT: An eligible competency-measurement study develops, validates, or culturally adapts a questionnaire, scale, inventory, rubric, situational test, self-report measure, or performance-based measure and provides original empirical evidence for at least one measurement property. The positive discriminator is the conjunction of (a) a declared engineering competency measured in people, (b) an identifiable measurement instrument, and (c) original measurement-property analysis such as content validity, structural validity, internal consistency, inter-rater reliability, test-retest reliability, construct or criterion validity, measurement invariance, or item-response analysis. Technical competencies include design, simulation, programming, technical problem solving, and prototyping; transversal competencies include critical thinking, collaboration, communication, ethics, self-regulation, employability skills, and domain self-efficacy.
+MIXED_SAMPLES: An empirical sample containing engineering students may qualify, but full-text extraction must determine whether the measurement-property estimates apply to engineering students specifically or only to a pooled sample. Do not falsely attribute a pooled estimate to the engineering subgroup.
+NOT an eligible competency-measurement study by itself (near-misses): use of an established instrument solely as an intervention outcome; course grades, GPA, ordinary examinations, satisfaction surveys, or learning assessments presented only for grading; physical instruments, sensors, signal measurement, test benches, dimensional scales, or engineering instrumentation; validation of circuits, algorithms, simulations, computational models, or teaching systems; personality traits not declared as professional competencies; competence measures applied exclusively to teachers, school pupils, non-student professionals, or non-engineering students; AI used merely as a teaching tool while the measured outcome is unrelated to an engineering competency.
+IMPORTANT DISTINCTION: A technically focused performance task or rubric is not automatically excluded merely because it involves design, programming, simulation, or project work. It is eligible if it is explicitly intended to measure a declared competency in students and reports original measurement-property evidence. Conversely, high student scores or successful artifacts alone do not establish a measurement property.
+
+ELIGIBLE_DOCS: original_research_article; early_access_original_article; indexed_peer_reviewed_full_conference_paper_with_empirical_measurement_property_evidence
+
+INELIGIBLE_DOCS: review_article; systematic_review; scoping_review; narrative_review; editorial; commentary; book_chapter; thesis; dissertation; preprint; protocol; abstract_only_record
+

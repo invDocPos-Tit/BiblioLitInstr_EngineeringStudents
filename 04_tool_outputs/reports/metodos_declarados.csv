@@ -1,0 +1,38 @@
+metodo,articulos_que_lo_declaran,articulos_que_lo_mencionan,en_vocabulario,motivo
+questionnaire,10,131,True,
+survey,4,130,True,
+factor analysis,5,68,True,
+rubric,4,42,True,
+measurement,2,37,False,excluido por el equipo (sinonimos_revision.json)
+confirmatory factor analysis,11,36,True,
+exploratory factor analysis,9,29,True,
+project-based learning,4,29,False,excluido por el equipo (sinonimos_revision.json)
+statistical analysis,2,25,True,
+cronbach's alpha,4,24,True,
+data collection,2,21,False,excluido por el equipo (sinonimos_revision.json)
+experiential learning,2,17,False,excluido por el equipo (sinonimos_revision.json)
+generative artificial intelligence,3,17,False,excluido por el equipo (sinonimos_revision.json)
+descriptive statistics,7,16,True,
+structural equation modeling,3,16,True,
+reliability analysis,3,14,True,
+validated questionnaire,2,12,True,
+validated scale,3,12,True,
+qualitative analysis,3,10,True,
+quantitative analysis,3,10,True,
+validated instrument,5,10,True,
+structured questionnaire,5,9,True,
+mixed-methods approach,2,8,True,
+quantitative approach,4,8,True,
+quasi-experimental study,2,8,True,
+5-point likert scale,2,6,True,
+quasi-experimental design,2,5,False,mencionado en menos de 6 articulos
+thematic analysis,2,5,True,incluido por el equipo (sinonimos_revision.json)
+cross-sectional survey,2,4,False,mencionado en menos de 6 articulos
+likert-scale questionnaire,3,4,False,mencionado en menos de 6 articulos
+paired t-test,2,4,True,incluido por el equipo (sinonimos_revision.json)
+scoring rubric,2,4,True,incluido por el equipo (sinonimos_revision.json)
+statistical method,2,4,False,mencionado en menos de 6 articulos
+correlational design,2,3,False,mencionado en menos de 6 articulos
+google form,2,2,False,mencionado en menos de 6 articulos
+quantitative descriptive method,2,2,False,mencionado en menos de 6 articulos
+survey approach,2,2,False,mencionado en menos de 6 articulos
